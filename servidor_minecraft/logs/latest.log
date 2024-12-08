@@ -111,3 +111,14 @@
 [04:18:01] [Server thread/INFO]: Villager cmk['Villager'/14920, l='ServerLevel[world]', x=374.87, y=57.00, z=-737.12] died, message: 'Villager was slain by Zombie'
 [04:18:12] [Server thread/INFO]: [Danielitoram: Gave 6400 [Oak Log] to Danielitoram]
 [04:20:59] [Server thread/INFO]: nommsmry was slain by Iron Golem
+[04:42:45] [Server thread/INFO]: [Danielitoram: Set own game mode to Creative Mode]
+[04:43:41] [Server thread/INFO]: [Danielitoram: Set own game mode to Survival Mode]
+[04:52:19] [Server thread/INFO]: [Danielitoram: Set own game mode to Creative Mode]
+[04:52:43] [Server thread/INFO]: [Danielitoram: Set own game mode to Survival Mode]
+[04:53:03] [Server thread/INFO]: [Danielitoram: Set own game mode to Creative Mode]
+[04:53:29] [Server thread/INFO]: [Danielitoram: Set own game mode to Survival Mode]
+[04:56:10] [Server thread/INFO]: nommsmry was slain by Zombie
+[04:56:15] [Server thread/INFO]: Danielitoram lost connection: Disconnected
+[04:56:15] [Server thread/INFO]: Danielitoram left the game
+[04:58:36] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=395, y=63, z=-707} jd{x=396, y=62, z=-708}
+[05:00:25] [Server thread/INFO]: nommsmry has made the advancement [Isn't It Iron Pick]
