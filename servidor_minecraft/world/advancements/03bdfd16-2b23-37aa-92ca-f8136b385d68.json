@@ -500,6 +500,7 @@
     "criteria": {
       "bread": "2024-12-08 04:05:33 +0000",
       "cooked_chicken": "2024-12-08 03:33:05 +0000",
+      "cooked_mutton": "2024-12-08 04:35:57 +0000",
       "cooked_beef": "2024-12-08 03:33:45 +0000"
     },
     "done": false
@@ -765,6 +766,12 @@
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-08 04:15:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-12-08 04:39:30 +0000"
     },
     "done": true
   },

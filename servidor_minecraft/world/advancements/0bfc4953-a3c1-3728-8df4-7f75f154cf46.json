@@ -696,6 +696,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-12-08 04:34:20 +0000",
       "cooked_chicken": "2024-12-08 04:04:39 +0000"
     },
     "done": false
@@ -727,6 +728,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2024-12-08 04:11:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-12-08 04:35:40 +0000"
     },
     "done": true
   },
