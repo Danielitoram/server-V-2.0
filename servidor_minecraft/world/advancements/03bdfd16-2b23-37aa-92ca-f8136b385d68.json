@@ -1300,6 +1300,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2024-12-08 06:03:53 +0000",
       "minecraft:enderman": "2024-12-08 04:16:18 +0000",
       "minecraft:spider": "2024-12-08 05:16:06 +0000",
       "minecraft:zombie": "2024-12-08 03:36:42 +0000",
@@ -1424,6 +1425,12 @@
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2024-12-08 05:58:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-12-08 06:03:53 +0000"
     },
     "done": true
   },
