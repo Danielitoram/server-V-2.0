@@ -98,3 +98,15 @@
 [04:05:43] [Server thread/INFO]: com.mojang.authlib.GameProfile@65a929ef[id=0bfc4953-a3c1-3728-8df4-7f75f154cf46,name=Danielitoram,properties={}] lost connection: Disconnected
 [04:05:46] [Server thread/INFO]: Danielitoram[/127.187.180.143:41961] logged in with entity id 15885 at (384.4544085247725, 74.0, -758.0651402318294)
 [04:05:46] [Server thread/INFO]: Danielitoram joined the game
+[04:11:27] [Server thread/INFO]: Danielitoram has made the advancement [Monster Hunter]
+[04:11:58] [Server thread/INFO]: Danielitoram was shot by Skeleton
+[04:12:41] [Server thread/INFO]: Danielitoram was shot by Skeleton
+[04:13:02] [Server thread/INFO]: Danielitoram was shot by Skeleton
+[04:15:41] [Server thread/INFO]: Danielitoram was blown up by Creeper
+[04:16:05] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=393, y=65, z=-712} jd{x=393, y=63, z=-712}
+[04:16:06] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=394, y=65, z=-711} jd{x=394, y=63, z=-711}
+[04:16:06] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=394, y=65, z=-711} jd{x=394, y=63, z=-711}
+[04:17:24] [Server thread/INFO]: Made Danielitoram a server operator
+[04:17:42] [Server thread/INFO]: [Danielitoram: Gave 1024 [Oak Log] to Danielitoram]
+[04:18:01] [Server thread/INFO]: Villager cmk['Villager'/14920, l='ServerLevel[world]', x=374.87, y=57.00, z=-737.12] died, message: 'Villager was slain by Zombie'
+[04:18:12] [Server thread/INFO]: [Danielitoram: Gave 6400 [Oak Log] to Danielitoram]
