@@ -60,3 +60,12 @@
 [03:37:42] [Server thread/INFO]: Danielitoram joined the game
 [03:37:45] [Server thread/INFO]: [Not Secure] <Danielitoram> ga
 [03:37:52] [Server thread/INFO]: [Not Secure] <nommsmry> Maskaganpy
+[03:41:43] [Server thread/INFO]: Can't find element 'minecraft:danielitoram' of type 'minecraft:entity_type'
+[03:41:43] [Server thread/INFO]: ...nielitoram iron_golem_spawner 64<--[HERE]
+[03:44:56] [Server thread/INFO]: Unknown item 'minecraft:iron_golem_egg_spawner'
+[03:44:56] [Server thread/INFO]: ...ielitoram iron_golem_egg_spawner<--[HERE]
+[03:45:11] [Server thread/INFO]: Set Danielitoram's game mode to Creative Mode
+[03:45:43] [Server thread/INFO]: Set Danielitoram's game mode to Survival Mode
+[03:47:21] [Server thread/INFO]: Danielitoram was slain by Iron Golem
+[03:48:14] [Server thread/INFO]: Danielitoram has made the advancement [Acquire Hardware]
+[03:49:05] [Server thread/INFO]: Danielitoram has made the advancement [Sweet Dreams]
