@@ -1,159 +1,22 @@
-[03:09:32] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[03:09:34] [ServerMain/INFO]: Loaded 1290 recipes
-[03:09:34] [ServerMain/INFO]: Loaded 1399 advancements
-[03:09:34] [Server thread/INFO]: Starting minecraft server version 1.21
-[03:09:34] [Server thread/INFO]: Loading properties
-[03:09:34] [Server thread/INFO]: Default game type: SURVIVAL
-[03:09:34] [Server thread/INFO]: Generating keypair
-[03:09:34] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:09:34] [Server thread/INFO]: Using epoll channel type
-[03:09:34] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03:09:34] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[03:09:34] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03:09:34] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[03:09:34] [Server thread/INFO]: Preparing level "world"
-[03:09:37] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:09:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[03:09:37] [Server thread/INFO]: Time elapsed: 493 ms
-[03:09:37] [Server thread/INFO]: Done (3.085s)! For help, type "help"
-[03:10:35] [Server thread/INFO]: nommsmry[/127.206.21.35:39399] logged in with entity id 54 at (66.5, 77.0, -59.5)
-[03:10:35] [Server thread/INFO]: nommsmry joined the game
-[03:10:49] [Server thread/INFO]: [Not Secure] <nommsmry> Caca
-[03:19:26] [Server thread/INFO]: Teleported nommsmry to 64.000000, 1078.000000, -64.000000
-[03:19:29] [Server thread/WARN]: nommsmry moved too quickly! 0.0,-16.990422683336533,0.0
-[03:19:42] [Server thread/WARN]: nommsmry moved too quickly! -0.5390761608566805,-23.29194534924619,0.018800041018806724
-[03:19:46] [Server thread/INFO]: nommsmry fell from a high place
-[03:21:14] [Server thread/INFO]: Incorrect argument for command
-[03:21:14] [Server thread/INFO]: locate ocean<--[HERE]
-[03:21:20] [Server thread/INFO]: Incorrect argument for command
-[03:21:20] [Server thread/INFO]: locate village<--[HERE]
-[03:21:44] [Server thread/INFO]: Incorrect argument for command
-[03:21:44] [Server thread/INFO]: locate village_plains<--[HERE]
-[03:22:02] [Server thread/INFO]: There is no structure with type "minecraft:village"
-[03:22:32] [Server thread/INFO]: The nearest minecraft:village_plains is at [384, ~, -752] (758 blocks away)
-[03:22:32] [Server thread/INFO]: Locating element minecraft:village_plains took 7 ms
-[03:22:38] [Server thread/INFO]: You whisper to nommsmry: pene
-[03:22:56] [Server thread/INFO]: You whisper to nommsmry: 384 ~ -752
-[03:23:08] [Server thread/INFO]: nommsmry was blown up by Creeper
-[03:30:55] [Server thread/INFO]: Danielitoram[/127.187.180.143:59371] logged in with entity id 7773 at (63.5, 85.0, -58.5)
-[03:30:55] [Server thread/INFO]: Danielitoram joined the game
-[03:31:17] [Server thread/INFO]: nommsmry has made the advancement [Stone Age]
-[03:32:02] [Server thread/INFO]: nommsmry has made the advancement [Getting an Upgrade]
-[03:33:20] [Server thread/INFO]: Incorrect argument for command
-[03:33:20] [Server thread/INFO]: tp tp danielitoram nommsry<--[HERE]
-[03:33:28] [Server thread/INFO]: Teleported Danielitoram to nommsmry
-[03:33:52] [Server thread/INFO]: Danielitoram has made the advancement [Stone Age]
-[03:34:52] [Server thread/INFO]: nommsmry lost connection: Disconnected
-[03:34:52] [Server thread/INFO]: nommsmry left the game
-[03:34:52] [Server thread/INFO]: Danielitoram was slain by Iron Golem
-[03:35:00] [Server thread/INFO]: nommsmry[/127.206.21.35:37715] logged in with entity id 9194 at (365.4412598148804, 72.0, -754.4310945988134)
-[03:35:00] [Server thread/INFO]: nommsmry joined the game
-[03:35:15] [Server thread/INFO]: nommsmry has made the advancement [Acquire Hardware]
-[03:35:26] [Server thread/INFO]: Incorrect argument for command
-[03:35:26] [Server thread/INFO]: tp datp danielitoram nommsmry<--[HERE]
-[03:35:37] [Server thread/INFO]: Teleported Danielitoram to nommsmry
-[03:36:16] [Server thread/INFO]: nommsmry has made the advancement [Sweet Dreams]
-[03:36:26] [Server thread/INFO]: Danielitoram lost connection: Disconnected
-[03:36:26] [Server thread/INFO]: Danielitoram left the game
-[03:36:42] [Server thread/INFO]: nommsmry has made the advancement [Monster Hunter]
-[03:37:42] [Server thread/INFO]: Danielitoram[/127.187.180.143:50961] logged in with entity id 10397 at (422.60222987305156, 72.0, -762.1203726224918)
-[03:37:42] [Server thread/INFO]: Danielitoram joined the game
-[03:37:45] [Server thread/INFO]: [Not Secure] <Danielitoram> ga
-[03:37:52] [Server thread/INFO]: [Not Secure] <nommsmry> Maskaganpy
-[03:41:43] [Server thread/INFO]: Can't find element 'minecraft:danielitoram' of type 'minecraft:entity_type'
-[03:41:43] [Server thread/INFO]: ...nielitoram iron_golem_spawner 64<--[HERE]
-[03:44:56] [Server thread/INFO]: Unknown item 'minecraft:iron_golem_egg_spawner'
-[03:44:56] [Server thread/INFO]: ...ielitoram iron_golem_egg_spawner<--[HERE]
-[03:45:11] [Server thread/INFO]: Set Danielitoram's game mode to Creative Mode
-[03:45:43] [Server thread/INFO]: Set Danielitoram's game mode to Survival Mode
-[03:47:21] [Server thread/INFO]: Danielitoram was slain by Iron Golem
-[03:48:14] [Server thread/INFO]: Danielitoram has made the advancement [Acquire Hardware]
-[03:49:05] [Server thread/INFO]: Danielitoram has made the advancement [Sweet Dreams]
-[03:52:10] [Server thread/INFO]: Danielitoram was slain by Iron Golem
-[03:54:16] [Server thread/INFO]: Danielitoram was slain by Iron Golem
-[03:54:27] [Server thread/INFO]: nommsmry was slain by Iron Golem
-[03:54:42] [Server thread/INFO]: Teleported nommsmry to Danielitoram
-[03:55:30] [Server thread/INFO]: nommsmry has made the advancement [Suit Up]
-[03:55:34] [Server thread/INFO]: Danielitoram has made the advancement [Suit Up]
-[03:56:19] [Server thread/INFO]: Danielitoram was slain by Iron Golem
-[03:57:35] [Server thread/INFO]: Danielitoram was slain by Iron Golem
-[03:58:10] [Server thread/INFO]: Danielitoram was slain by Iron Golem
-[03:59:39] [Server thread/INFO]: Made Danielitoram a server operator
-[03:59:52] [Server thread/INFO]: [Danielitoram: Applied effect Strength to Danielitoram]
-[04:01:21] [Server thread/INFO]: [Danielitoram: Summoned new Villager]
-[04:01:22] [Server thread/INFO]: [Danielitoram: Summoned new Villager]
-[04:01:22] [Server thread/INFO]: [Danielitoram: Summoned new Villager]
-[04:01:23] [Server thread/INFO]: [Danielitoram: Summoned new Villager]
-[04:01:23] [Server thread/INFO]: [Danielitoram: Summoned new Villager]
-[04:01:23] [Server thread/INFO]: [Danielitoram: Summoned new Villager]
-[04:01:24] [Server thread/INFO]: [Danielitoram: Summoned new Villager]
-[04:01:24] [Server thread/INFO]: [Danielitoram: Summoned new Villager]
-[04:01:25] [Server thread/INFO]: [Danielitoram: Summoned new Villager]
-[04:01:25] [Server thread/INFO]: [Danielitoram: Summoned new Villager]
-[04:01:26] [Server thread/INFO]: [Danielitoram: Summoned new Villager]
-[04:01:27] [Server thread/INFO]: [Danielitoram: Summoned new Villager]
-[04:01:31] [Server thread/INFO]: [Danielitoram: Made Danielitoram no longer a server operator]
-[04:05:39] [Server thread/INFO]: Danielitoram lost connection: Disconnected
-[04:05:39] [Server thread/INFO]: Danielitoram left the game
-[04:05:43] [Server thread/INFO]: com.mojang.authlib.GameProfile@65a929ef[id=0bfc4953-a3c1-3728-8df4-7f75f154cf46,name=Danielitoram,properties={}] lost connection: Disconnected
-[04:05:46] [Server thread/INFO]: Danielitoram[/127.187.180.143:41961] logged in with entity id 15885 at (384.4544085247725, 74.0, -758.0651402318294)
-[04:05:46] [Server thread/INFO]: Danielitoram joined the game
-[04:11:27] [Server thread/INFO]: Danielitoram has made the advancement [Monster Hunter]
-[04:11:58] [Server thread/INFO]: Danielitoram was shot by Skeleton
-[04:12:41] [Server thread/INFO]: Danielitoram was shot by Skeleton
-[04:13:02] [Server thread/INFO]: Danielitoram was shot by Skeleton
-[04:15:41] [Server thread/INFO]: Danielitoram was blown up by Creeper
-[04:16:05] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=393, y=65, z=-712} jd{x=393, y=63, z=-712}
-[04:16:06] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=394, y=65, z=-711} jd{x=394, y=63, z=-711}
-[04:16:06] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=394, y=65, z=-711} jd{x=394, y=63, z=-711}
-[04:17:24] [Server thread/INFO]: Made Danielitoram a server operator
-[04:17:42] [Server thread/INFO]: [Danielitoram: Gave 1024 [Oak Log] to Danielitoram]
-[04:18:01] [Server thread/INFO]: Villager cmk['Villager'/14920, l='ServerLevel[world]', x=374.87, y=57.00, z=-737.12] died, message: 'Villager was slain by Zombie'
-[04:18:12] [Server thread/INFO]: [Danielitoram: Gave 6400 [Oak Log] to Danielitoram]
-[04:20:59] [Server thread/INFO]: nommsmry was slain by Iron Golem
-[04:42:45] [Server thread/INFO]: [Danielitoram: Set own game mode to Creative Mode]
-[04:43:41] [Server thread/INFO]: [Danielitoram: Set own game mode to Survival Mode]
-[04:52:19] [Server thread/INFO]: [Danielitoram: Set own game mode to Creative Mode]
-[04:52:43] [Server thread/INFO]: [Danielitoram: Set own game mode to Survival Mode]
-[04:53:03] [Server thread/INFO]: [Danielitoram: Set own game mode to Creative Mode]
-[04:53:29] [Server thread/INFO]: [Danielitoram: Set own game mode to Survival Mode]
-[04:56:10] [Server thread/INFO]: nommsmry was slain by Zombie
-[04:56:15] [Server thread/INFO]: Danielitoram lost connection: Disconnected
-[04:56:15] [Server thread/INFO]: Danielitoram left the game
-[04:58:36] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=395, y=63, z=-707} jd{x=396, y=62, z=-708}
-[05:00:25] [Server thread/INFO]: nommsmry has made the advancement [Isn't It Iron Pick]
-[05:05:26] [Server thread/INFO]: Danielitoram[/127.187.180.143:39057] logged in with entity id 27315 at (397.82734784132015, 68.0, -740.3000000119209)
-[05:05:26] [Server thread/INFO]: Danielitoram joined the game
-[05:09:17] [Server thread/INFO]: Danielitoram was slain by nommsmry
-[05:09:37] [Server thread/INFO]: Danielitoram has made the advancement [Getting an Upgrade]
-[05:09:45] [Server thread/INFO]: nommsmry was blown up by Creeper
-[05:09:58] [Server thread/INFO]: Danielitoram has made the advancement [Isn't It Iron Pick]
-[05:11:43] [Server thread/INFO]: [Danielitoram: Set own game mode to Creative Mode]
-[05:11:47] [Server thread/INFO]: [Danielitoram: Set own game mode to Survival Mode]
-[05:11:52] [Server thread/INFO]: [Danielitoram: Set own game mode to Creative Mode]
-[05:11:54] [Server thread/INFO]: [Danielitoram: Set own game mode to Survival Mode]
-[05:11:58] [Server thread/INFO]: [Danielitoram: Set own game mode to Creative Mode]
-[05:12:03] [Server thread/INFO]: [Danielitoram: Set own game mode to Survival Mode]
-[05:16:21] [Server thread/INFO]: [Danielitoram: Set own game mode to Creative Mode]
-[05:16:27] [Server thread/INFO]: [Danielitoram: Set own game mode to Survival Mode]
-[05:22:34] [Server thread/INFO]: [Danielitoram: Set own game mode to Creative Mode]
-[05:22:44] [Server thread/INFO]: [Danielitoram: Set own game mode to Survival Mode]
-[05:26:18] [Server thread/INFO]: nommsmry has made the advancement [Diamonds!]
-[05:26:38] [Server thread/INFO]: [Danielitoram: Set own game mode to Creative Mode]
-[05:28:47] [Server thread/INFO]: [Danielitoram: Successfully filled 594 block(s)]
-[05:29:00] [Server thread/INFO]: [Danielitoram: Successfully filled 486 block(s)]
-[05:30:03] [Server thread/INFO]: [Not Secure] <Danielitoram> 394 55 -740
-[05:38:13] [Server thread/INFO]: [Danielitoram: Successfully filled 1410 block(s)]
-[05:42:20] [Server thread/INFO]: [Danielitoram: Set own game mode to Survival Mode]
-[05:42:23] [Server thread/INFO]: [Danielitoram: Teleported nommsmry to Danielitoram]
-[05:42:31] [Server thread/INFO]: Danielitoram has made the advancement [Diamonds!]
-[05:42:56] [Server thread/INFO]: Danielitoram has made the advancement [Cover Me with Diamonds]
-[05:43:14] [Server thread/INFO]: nommsmry has made the advancement [Cover Me with Diamonds]
-[05:47:10] [Server thread/INFO]: [Danielitoram: Set own game mode to Creative Mode]
-[05:47:15] [Server thread/INFO]: [Danielitoram: Set own game mode to Survival Mode]
-[05:47:44] [Server thread/INFO]: [Danielitoram: Set own game mode to Creative Mode]
-[05:50:53] [Server thread/INFO]: [Danielitoram: Teleported nommsmry to Danielitoram]
-[05:54:01] [Server thread/INFO]: [Danielitoram: Teleported nommsmry to Danielitoram]
-[06:02:54] [Server thread/INFO]: [Danielitoram: Successfully filled 289 block(s)]
-[06:07:29] [Server thread/INFO]: [Not Secure] <Danielitoram> salte de la reunion
-[06:07:34] [Server thread/INFO]: [Not Secure] <Danielitoram> llamada
+[22:04:19] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:04:21] [ServerMain/INFO]: Loaded 1290 recipes
+[22:04:22] [ServerMain/INFO]: Loaded 1399 advancements
+[22:04:22] [Server thread/INFO]: Starting minecraft server version 1.21
+[22:04:22] [Server thread/INFO]: Loading properties
+[22:04:22] [Server thread/INFO]: Default game type: SURVIVAL
+[22:04:22] [Server thread/INFO]: Generating keypair
+[22:04:22] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:04:23] [Server thread/INFO]: Using epoll channel type
+[22:04:23] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:04:23] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:04:23] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:04:23] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:04:23] [Server thread/INFO]: Preparing level "world"
+[22:04:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:04:27] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[22:04:27] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[22:04:28] [Server thread/INFO]: Time elapsed: 945 ms
+[22:04:28] [Server thread/INFO]: Done (5.138s)! For help, type "help"
+[22:04:44] [Server thread/INFO]: Made Danielitoram no longer a server operator
+[22:11:47] [Server thread/INFO]: nommsmry[/127.153.104.113:43245] logged in with entity id 4 at (401.99834289692865, 68.0, -734.2631148370482)
+[22:11:47] [Server thread/INFO]: nommsmry joined the game

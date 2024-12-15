@@ -697,7 +697,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-12-08 04:34:20 +0000",
-      "cooked_chicken": "2024-12-08 04:04:39 +0000"
+      "cooked_chicken": "2024-12-08 04:04:39 +0000",
+      "cooked_beef": "2024-12-08 06:22:47 +0000"
     },
     "done": false
   },
@@ -776,6 +777,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-08 05:41:54 +0000",
+      "minecraft:phantom": "2024-12-08 06:30:16 +0000",
       "minecraft:spider": "2024-12-08 04:11:27 +0000"
     },
     "done": false
