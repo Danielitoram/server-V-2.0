@@ -779,17 +779,20 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-12-16 02:08:46 +0000",
       "minecraft:skeleton": "2024-12-08 05:41:54 +0000",
       "minecraft:phantom": "2024-12-08 06:30:16 +0000",
+      "minecraft:witch": "2024-12-16 02:14:01 +0000",
+      "minecraft:ravager": "2024-12-16 01:45:28 +0000",
+      "minecraft:bogged": "2024-12-16 00:13:10 +0000",
       "minecraft:breeze": "2024-12-16 00:20:50 +0000",
+      "minecraft:vindicator": "2024-12-16 02:10:30 +0000",
       "minecraft:silverfish": "2024-12-16 00:15:30 +0000",
       "minecraft:spider": "2024-12-08 04:11:27 +0000",
       "minecraft:zombie": "2024-12-15 23:42:28 +0000",
       "minecraft:creeper": "2024-12-15 23:54:39 +0000",
       "minecraft:wither": "2024-12-16 00:06:36 +0000",
-      "minecraft:zombie_villager": "2024-12-15 22:58:40 +0000",
-      "minecraft:ravager": "2024-12-16 01:45:28 +0000",
-      "minecraft:bogged": "2024-12-16 00:13:10 +0000"
+      "minecraft:zombie_villager": "2024-12-15 22:58:40 +0000"
     },
     "done": false
   },
@@ -1651,6 +1654,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-12-16 02:08:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-16 01:26:29 +0000"
@@ -1720,6 +1729,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-16 01:26:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-16 02:11:44 +0000"
     },
     "done": true
   },

@@ -470,6 +470,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "golden_apple": "2024-12-16 02:12:06 +0000",
       "cooked_beef": "2024-12-16 01:38:02 +0000"
     },
     "done": false
@@ -921,6 +922,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2024-12-16 01:54:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-16 02:06:15 +0000"
     },
     "done": true
   },
