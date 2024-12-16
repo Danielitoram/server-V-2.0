@@ -12,6 +12,7 @@
       "minecraft:sparse_jungle": "2024-12-08 03:29:35 +0000",
       "minecraft:jungle": "2024-12-08 03:21:41 +0000",
       "minecraft:river": "2024-12-08 03:28:58 +0000",
+      "minecraft:lush_caves": "2024-12-16 00:12:25 +0000",
       "minecraft:bamboo_jungle": "2024-12-08 03:29:18 +0000",
       "minecraft:plains": "2024-12-08 03:30:11 +0000"
     },
@@ -746,11 +747,14 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-08 06:03:53 +0000",
       "minecraft:phantom": "2024-12-08 06:31:33 +0000",
+      "minecraft:breeze": "2024-12-16 00:17:55 +0000",
       "minecraft:enderman": "2024-12-08 04:16:18 +0000",
+      "minecraft:silverfish": "2024-12-16 00:14:38 +0000",
       "minecraft:spider": "2024-12-08 05:16:06 +0000",
       "minecraft:zombie": "2024-12-08 03:36:42 +0000",
       "minecraft:creeper": "2024-12-08 05:10:17 +0000",
-      "minecraft:zombie_villager": "2024-12-15 22:58:43 +0000"
+      "minecraft:zombie_villager": "2024-12-15 22:58:43 +0000",
+      "minecraft:bogged": "2024-12-16 00:13:05 +0000"
     },
     "done": false
   },
@@ -1966,6 +1970,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/minecraft_trials_edition": {
+    "criteria": {
+      "minecraft_trials_edition": "2024-12-16 00:12:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-15 23:57:02 +0000"
@@ -1981,6 +1991,12 @@
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_blue_dye": "2024-12-15 23:44:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wind_charge": {
+    "criteria": {
+      "has_breeze_rod": "2024-12-16 00:18:41 +0000"
     },
     "done": true
   },
@@ -2014,9 +2030,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2024-12-16 00:27:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-15 23:57:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2024-12-16 00:14:59 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2024-12-16 00:14:56 +0000"
     },
     "done": true
   },
@@ -2029,6 +2063,18 @@
   "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
     "criteria": {
       "has_blue_dye": "2024-12-15 23:44:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-16 00:33:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/under_lock_and_key": {
+    "criteria": {
+      "under_lock_and_key": "2024-12-16 00:23:12 +0000"
     },
     "done": true
   },
@@ -2062,6 +2108,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2024-12-16 00:06:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2024-12-15 23:57:02 +0000"
@@ -2092,6 +2144,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2024-12-16 00:14:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_carpet": {
     "criteria": {
       "has_yellow_wool": "2024-12-15 23:56:34 +0000"
@@ -2110,6 +2168,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2024-12-16 00:27:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/mace": {
+    "criteria": {
+      "has_breeze_rod": "2024-12-16 00:18:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
     "criteria": {
       "has_blue_dye": "2024-12-15 23:44:50 +0000"
@@ -2122,15 +2192,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2024-12-16 00:14:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-15 23:57:02 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-12-16 00:12:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2024-12-15 23:57:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/who_needs_rockets": {
+    "criteria": {
+      "who_needs_rockets": "2024-12-16 00:24:18 +0000"
     },
     "done": true
   },
