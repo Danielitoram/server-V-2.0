@@ -746,16 +746,19 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-12-16 01:41:04 +0000",
       "minecraft:skeleton": "2024-12-08 06:03:53 +0000",
       "minecraft:phantom": "2024-12-08 06:31:33 +0000",
+      "minecraft:witch": "2024-12-16 01:41:20 +0000",
+      "minecraft:ravager": "2024-12-16 01:42:47 +0000",
+      "minecraft:bogged": "2024-12-16 00:13:05 +0000",
       "minecraft:breeze": "2024-12-16 00:17:55 +0000",
       "minecraft:enderman": "2024-12-08 04:16:18 +0000",
       "minecraft:silverfish": "2024-12-16 00:14:38 +0000",
       "minecraft:spider": "2024-12-08 05:16:06 +0000",
       "minecraft:zombie": "2024-12-08 03:36:42 +0000",
       "minecraft:creeper": "2024-12-08 05:10:17 +0000",
-      "minecraft:zombie_villager": "2024-12-15 22:58:43 +0000",
-      "minecraft:bogged": "2024-12-16 00:13:05 +0000"
+      "minecraft:zombie_villager": "2024-12-15 22:58:43 +0000"
     },
     "done": false
   },
@@ -2253,6 +2256,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-16 01:42:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2024-12-16 01:26:49 +0000"
@@ -2262,6 +2271,18 @@
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2024-12-16 01:26:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-12-16 01:42:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-12-16 01:42:53 +0000"
     },
     "done": true
   },
