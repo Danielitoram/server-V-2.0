@@ -236,3 +236,38 @@
 [03:04:10] [Server thread/INFO]: Danielitoram was slain by nommsmry
 [03:06:12] [Server thread/INFO]: ANTO_1615 was blown up by Creeper
 [03:06:36] [Server thread/INFO]: Danielitoram issued server command: /tp ANTO_1615 dan
+[03:06:38] [Server thread/INFO]: Danielitoram issued server command: /tp ANTO_1615 danielitoram
+[03:06:38] [Server thread/INFO]: [Danielitoram: Teleported ANTO_1615 to Danielitoram]
+[03:06:58] [Server thread/INFO]: ANTO_1615 was slain by Zombie
+[03:07:09] [Server thread/INFO]: Danielitoram issued server command: /tp ANTO_1615 danielitoram
+[03:07:09] [Server thread/INFO]: [Danielitoram: Teleported ANTO_1615 to Danielitoram]
+[03:10:05] [Server thread/INFO]: Danielitoram issued server command: /gamemode spectator ANTO_1615
+[03:10:05] [Server thread/INFO]: [Danielitoram: Set ANTO_1615's game mode to Spectator Mode]
+[03:10:13] [Server thread/INFO]: Danielitoram issued server command: /gamerule randomTickSpeed 1
+[03:10:13] [Server thread/INFO]: [Danielitoram: Gamerule randomTickSpeed is now set to: 1]
+[03:10:26] [Server thread/INFO]: Danielitoram issued server command: /gamemode survival ANTO_1615
+[03:10:26] [Server thread/INFO]: [Danielitoram: Set ANTO_1615's game mode to Survival Mode]
+[03:10:44] [Server thread/INFO]: Danielitoram issued server command: /gamerule randomTickSpeed 1000
+[03:10:44] [Server thread/INFO]: [Danielitoram: Gamerule randomTickSpeed is now set to: 1000]
+[03:11:07] [Server thread/INFO]: Danielitoram issued server command: /gamerule randomTickSpeed 9999
+[03:11:07] [Server thread/INFO]: [Danielitoram: Gamerule randomTickSpeed is now set to: 9999]
+[03:11:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2531ms or 50 ticks behind
+[03:11:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23822ms or 476 ticks behind
+[03:12:05] [Server thread/INFO]: ANTO_1615 lost connection: Disconnected
+[03:12:05] [Server thread/INFO]: ANTO_1615 left the game
+[03:12:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15201ms or 304 ticks behind
+[03:12:24] [User Authenticator #10/INFO]: UUID of player ANTO_1615 is 8712ff24-bbf6-39ed-ba8d-1d7d01630ef0
+[03:12:27] [Server thread/INFO]: ANTO_1615 joined the game
+[03:12:27] [Server thread/INFO]: ANTO_1615[/127.139.79.205:38743] logged in with entity id 14876 at ([world]-626.2211580704997, -47.0, 970.2815012465854)
+[03:12:35] [Server thread/INFO]: Danielitoram lost connection: Disconnected
+[03:12:35] [Server thread/INFO]: Danielitoram left the game
+[03:12:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19024ms or 380 ticks behind
+[03:13:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20807ms or 416 ticks behind
+[03:14:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21586ms or 431 ticks behind
+[03:14:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22469ms or 449 ticks behind
+[03:15:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22616ms or 452 ticks behind
+[03:15:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23023ms or 460 ticks behind
+[03:16:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24194ms or 483 ticks behind
+[03:16:44] [User Authenticator #11/INFO]: UUID of player Danielitoram is 0bfc4953-a3c1-3728-8df4-7f75f154cf46
+[03:16:48] [Server thread/INFO]: Danielitoram joined the game
+[03:16:48] [Server thread/INFO]: Danielitoram[/127.14.192.93:42877] logged in with entity id 16323 at ([world]-303.9848505035451, 69.0, 909.1809477837884)
