@@ -73,3 +73,99 @@
 [02:25:14] [Server thread/INFO]: Danielitoram joined the game
 [02:25:14] [Server thread/INFO]: Danielitoram[/127.14.192.93:49881] logged in with entity id 1320 at ([world]-288.7676649696949, 72.5625, 887.5170221095988)
 [02:25:21] [Async Chat Thread - #1/INFO]: [Not Secure] <Danielitoram> chasugampi
+[02:26:11] [Server thread/INFO]: Danielitoram lost connection: Timed out
+[02:26:11] [Server thread/INFO]: Danielitoram left the game
+[02:26:22] [User Authenticator #4/INFO]: UUID of player Danielitoram is 0bfc4953-a3c1-3728-8df4-7f75f154cf46
+[02:26:25] [Server thread/INFO]: Danielitoram joined the game
+[02:26:25] [Server thread/INFO]: Danielitoram[/127.14.192.93:52357] logged in with entity id 1483 at ([world]-300.1726994683644, 69.0, 914.3875876680296)
+[02:26:41] [Async Chat Thread - #2/INFO]: [Not Secure] <Danielitoram> voe a conectar mis audifonos aver
+[02:27:00] [Server thread/INFO]: Danielitoram lost connection: Timed out
+[02:27:00] [Server thread/INFO]: Danielitoram left the game
+[02:27:08] [Async Chat Thread - #2/INFO]: [Not Secure] <nommsmry> No ze te pueden resbalar 2 aldeanos?
+[02:27:18] [User Authenticator #4/INFO]: UUID of player Danielitoram is 0bfc4953-a3c1-3728-8df4-7f75f154cf46
+[02:27:20] [Server thread/INFO]: Danielitoram joined the game
+[02:27:20] [Server thread/INFO]: Danielitoram[/127.14.192.93:43245] logged in with entity id 1591 at ([world]-300.1726994683644, 69.0, 914.3875876680296)
+[02:27:25] [Async Chat Thread - #2/INFO]: [Not Secure] <Danielitoram> creo que si
+[02:27:40] [Server thread/INFO]: Danielitoram issued server command: /give nommsmry minecraft:villager_spawn_egg
+[02:27:40] [Server thread/INFO]: [Danielitoram: Gave 1 [Villager Spawn Egg] to nommsmry]
+[02:27:45] [Server thread/INFO]: Danielitoram issued server command: /give nommsmry minecraft:villager_spawn_egg 1
+[02:27:45] [Server thread/INFO]: [Danielitoram: Gave 1 [Villager Spawn Egg] to nommsmry]
+[02:27:49] [Server thread/INFO]: Danielitoram issued server command: /give nommsmry minecraft:villager_spawn_egg 10
+[02:27:49] [Server thread/INFO]: [Danielitoram: Gave 10 [Villager Spawn Egg] to nommsmry]
+[02:27:55] [Async Chat Thread - #2/INFO]: [Not Secure] <nommsmry> Thx
+[02:27:59] [Async Chat Thread - #2/INFO]: [Not Secure] <Danielitoram> tamareeee
+[02:28:00] [Async Chat Thread - #2/INFO]: [Not Secure] <Danielitoram> tamareeee
+[02:28:00] [Async Chat Thread - #2/INFO]: [Not Secure] <Danielitoram> tamareeee
+[02:28:00] [Async Chat Thread - #2/INFO]: [Not Secure] <Danielitoram> tamareeee
+[02:28:03] [Server thread/INFO]: Danielitoram lost connection: Timed out
+[02:28:03] [Server thread/INFO]: Danielitoram left the game
+[02:28:11] [User Authenticator #4/INFO]: UUID of player Danielitoram is 0bfc4953-a3c1-3728-8df4-7f75f154cf46
+[02:28:13] [Server thread/INFO]: Danielitoram joined the game
+[02:28:13] [Server thread/INFO]: Danielitoram[/127.14.192.93:34883] logged in with entity id 1718 at ([world]-300.1726994683644, 69.0, 914.3875876680296)
+[02:28:16] [Server thread/INFO]: Villager Villager['Villager'/1701, uuid='3bb46d74-9a3e-4640-b4b9-67f899eb8563', l='ServerLevel[world]', x=-310.47, y=69.19, z=933.35, cpos=[-20, 58], tl=196, v=true] died, message: 'Villager was slain by nommsmry'
+[02:28:46] [Async Chat Thread - #2/INFO]: [Not Secure] <Danielitoram> puta recien ta que se me habre el discord
+[02:29:25] [Server thread/INFO]: Danielitoram lost connection: Timed out
+[02:29:25] [Server thread/INFO]: Danielitoram left the game
+[02:29:33] [User Authenticator #5/INFO]: UUID of player Danielitoram is 0bfc4953-a3c1-3728-8df4-7f75f154cf46
+[02:29:35] [Server thread/INFO]: Danielitoram joined the game
+[02:29:35] [Server thread/INFO]: Danielitoram[/127.14.192.93:55549] logged in with entity id 1919 at ([world]-300.1726994683644, 69.0, 914.3875876680296)
+[02:29:39] [Async Chat Thread - #2/INFO]: [Not Secure] <Danielitoram> 7gamemode crative
+[02:29:42] [Async Chat Thread - #2/INFO]: [Not Secure] <Danielitoram> uy
+[02:29:48] [Async Chat Thread - #2/INFO]: [Not Secure] <Danielitoram> ya mano
+[02:29:52] [Async Chat Thread - #2/INFO]: [Not Secure] <Danielitoram> 50kbps
+[02:30:19] [Server thread/INFO]: Danielitoram was slain by nommsmry
+[02:30:29] [Async Chat Thread - #2/INFO]: [Not Secure] <Danielitoram> dame algo
+[02:30:32] [Server thread/INFO]: Danielitoram issued server command: /tp nommsmry
+[02:30:32] [Server thread/INFO]: [Danielitoram: Teleported Danielitoram to nommsmry]
+[02:30:38] [Async Chat Thread - #2/INFO]: [Not Secure] <nommsmry> Chapadel cofre
+[02:30:42] [Async Chat Thread - #2/INFO]: [Not Secure] <Danielitoram> que cofre
+[02:30:50] [Async Chat Thread - #2/INFO]: [Not Secure] <Danielitoram> ahi entre
+[02:31:19] [Server thread/INFO]: Villager Villager['Villager'/1756, uuid='f3de9dcc-b71e-4e03-9138-3204a4beb757', l='ServerLevel[world]', x=-309.52, y=69.00, z=931.16, cpos=[-20, 58], tl=3250, v=true] died, message: 'Villager was slain by Zombie'
+[02:31:28] [Server thread/INFO]: Villager Villager['Villager'/1751, uuid='b1cffa96-7909-4272-a8ce-44287f9781aa', l='ServerLevel[world]', x=-310.15, y=69.56, z=932.71, cpos=[-20, 58], tl=3473, v=true] died, message: 'Villager was slain by Zombie Villager'
+[02:31:29] [Server thread/INFO]: nommsmry has made the advancement [Monster Hunter]
+[02:31:30] [Server thread/INFO]: Villager Villager['Villager'/1733, uuid='dd8b0716-1249-40e4-a11e-5fab0f80cae9', l='ServerLevel[world]', x=-306.51, y=69.00, z=930.50, cpos=[-20, 58], tl=3842, v=true] died, message: 'Villager was slain by Zombie'
+[02:31:32] [Server thread/INFO]: Villager Villager['Villager'/39, uuid='d69024f9-0789-461f-b7de-a49fdb164bbe', l='ServerLevel[world]', x=-307.83, y=69.56, z=933.93, cpos=[-20, 58], tl=77340, v=true] died, message: 'Villager was slain by Zombie'
+[02:31:51] [Server thread/INFO]: Danielitoram was slain by Zombie
+[02:31:57] [Server thread/INFO]: nommsmry was slain by Zombie Villager
+[02:31:57] [Server thread/INFO]: Danielitoram issued server command: /tp nommsmry
+[02:31:57] [Server thread/INFO]: [Danielitoram: Teleported Danielitoram to nommsmry]
+[02:31:59] [Server thread/INFO]: Danielitoram has made the advancement [Isn't It Iron Pick]
+[02:31:59] [Server thread/INFO]: Danielitoram has made the advancement [Cover Me with Diamonds]
+[02:31:59] [Server thread/INFO]: Danielitoram has made the advancement [Diamonds!]
+[02:32:00] [Server thread/INFO]: Danielitoram has made the advancement [Stone Age]
+[02:32:04] [Server thread/INFO]: Danielitoram was slain by Zombie
+[02:32:07] [Server thread/INFO]: Danielitoram issued server command: /tp nommsmry
+[02:32:07] [Server thread/INFO]: [Danielitoram: Teleported Danielitoram to nommsmry]
+[02:32:18] [Server thread/INFO]: Danielitoram issued server command: /tp nommsmry Danielitoram
+[02:32:18] [Server thread/INFO]: [Danielitoram: Teleported nommsmry to Danielitoram]
+[02:32:38] [Server thread/INFO]: Danielitoram was slain by Zombie
+[02:32:42] [Server thread/INFO]: Danielitoram issued server command: /tp nommsmry
+[02:32:42] [Server thread/INFO]: [Danielitoram: Teleported Danielitoram to nommsmry]
+[02:32:58] [Server thread/INFO]: Danielitoram has made the advancement [Getting an Upgrade]
+[02:33:37] [Server thread/INFO]: Danielitoram lost connection: Timed out
+[02:33:37] [Server thread/INFO]: Danielitoram left the game
+[02:33:41] [User Authenticator #6/INFO]: UUID of player Danielitoram is 0bfc4953-a3c1-3728-8df4-7f75f154cf46
+[02:33:43] [Server thread/INFO]: Danielitoram joined the game
+[02:33:43] [Server thread/INFO]: Danielitoram[/127.14.192.93:36519] logged in with entity id 3009 at ([world]-309.753290144219, 71.0, 904.4765135276218)
+[02:34:13] [Server thread/INFO]: Danielitoram was blown up by Creeper
+[02:34:24] [Server thread/INFO]: Danielitoram lost connection: Timed out
+[02:34:24] [Server thread/INFO]: Danielitoram left the game
+[02:34:27] [User Authenticator #6/INFO]: UUID of player ANTO_1615 is 8712ff24-bbf6-39ed-ba8d-1d7d01630ef0
+[02:34:30] [Server thread/INFO]: ANTO_1615 joined the game
+[02:34:30] [Server thread/INFO]: ANTO_1615[/127.139.79.205:45113] logged in with entity id 3126 at ([world]-310.7158274759116, 70.98249998688698, 906.6999999880791)
+[02:34:32] [User Authenticator #6/INFO]: UUID of player Danielitoram is 0bfc4953-a3c1-3728-8df4-7f75f154cf46
+[02:34:34] [Server thread/INFO]: Danielitoram joined the game
+[02:34:34] [Server thread/INFO]: Danielitoram[/127.14.192.93:35371] logged in with entity id 3131 at ([world]-308.41308408777184, 68.7531999805212, 926.1370957778946)
+[02:34:44] [Server thread/INFO]: Danielitoram issued server command: /tp nommsmry
+[02:34:44] [Server thread/INFO]: [Danielitoram: Teleported Danielitoram to nommsmry]
+[02:35:14] [Server thread/INFO]: Danielitoram issued server command: /summon minecraft:tnt
+[02:35:14] [Server thread/INFO]: [Danielitoram: Summoned new Primed TNT]
+[02:35:15] [Server thread/INFO]: nommsmry blew up
+[02:35:15] [Server thread/INFO]: Danielitoram blew up
+[02:35:32] [Server thread/INFO]: ANTO_1615 lost connection: Disconnected
+[02:35:32] [Server thread/INFO]: ANTO_1615 left the game
+[02:35:45] [Server thread/INFO]: Danielitoram lost connection: Timed out
+[02:35:45] [Server thread/INFO]: Danielitoram left the game
+[02:35:57] [User Authenticator #7/INFO]: UUID of player Danielitoram is 0bfc4953-a3c1-3728-8df4-7f75f154cf46
+[02:36:00] [Server thread/INFO]: Danielitoram joined the game
+[02:36:00] [Server thread/INFO]: Danielitoram[/127.14.192.93:60153] logged in with entity id 3683 at ([world]-307.6140965980542, 69.5625, 934.268913019313)
