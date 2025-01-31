@@ -169,3 +169,61 @@
 [02:35:57] [User Authenticator #7/INFO]: UUID of player Danielitoram is 0bfc4953-a3c1-3728-8df4-7f75f154cf46
 [02:36:00] [Server thread/INFO]: Danielitoram joined the game
 [02:36:00] [Server thread/INFO]: Danielitoram[/127.14.192.93:60153] logged in with entity id 3683 at ([world]-307.6140965980542, 69.5625, 934.268913019313)
+[02:36:15] [Server thread/INFO]: Danielitoram issued server command: /tp nommsmry -306 70 750
+[02:36:15] [Server thread/INFO]: [Danielitoram: Teleported nommsmry to -305.500000, 70.000000, 750.500000]
+[02:36:21] [Server thread/INFO]: Danielitoram issued server command: /tp nommsmry -306 80 750
+[02:36:21] [Server thread/INFO]: [Danielitoram: Teleported nommsmry to -305.500000, 80.000000, 750.500000]
+[02:36:29] [Server thread/INFO]: Danielitoram issued server command: /tp nommsmry
+[02:36:29] [Server thread/INFO]: [Danielitoram: Teleported Danielitoram to nommsmry]
+[02:36:35] [Server thread/INFO]: Danielitoram lost connection: Disconnected
+[02:36:35] [Server thread/INFO]: Danielitoram left the game
+[02:36:42] [User Authenticator #7/INFO]: UUID of player Danielitoram is 0bfc4953-a3c1-3728-8df4-7f75f154cf46
+[02:36:44] [Server thread/INFO]: Danielitoram joined the game
+[02:36:44] [Server thread/INFO]: Danielitoram[/127.14.192.93:60171] logged in with entity id 4138 at ([world]-302.37523570334815, 78.0, 756.3418142410668)
+[02:36:51] [User Authenticator #7/INFO]: UUID of player ANTO_1615 is 8712ff24-bbf6-39ed-ba8d-1d7d01630ef0
+[02:36:53] [Server thread/INFO]: ANTO_1615 joined the game
+[02:36:53] [Server thread/INFO]: ANTO_1615[/127.139.79.205:51457] logged in with entity id 4160 at ([world]-309.7822124704474, 66.0, 943.1054831402012)
+[02:37:15] [Server thread/WARN]: Danielitoram moved too quickly! -1.0370957761243744,-7.464159374955443,6.574680486772081
+[02:37:56] [Server thread/INFO]: Danielitoram issued server command: /tp anto_1615
+[02:37:56] [Server thread/INFO]: [Danielitoram: Teleported Danielitoram to ANTO_1615]
+[02:37:57] [Server thread/INFO]: Danielitoram lost connection: Disconnected
+[02:37:57] [Server thread/INFO]: Danielitoram left the game
+[02:38:03] [User Authenticator #8/INFO]: UUID of player Danielitoram is 0bfc4953-a3c1-3728-8df4-7f75f154cf46
+[02:38:05] [Server thread/INFO]: Danielitoram joined the game
+[02:38:05] [Server thread/INFO]: Danielitoram[/127.14.192.93:45753] logged in with entity id 4552 at ([world]-315.9531350489227, 68.0, 934.8300070386529)
+[02:38:53] [Server thread/INFO]: Danielitoram was slain by nommsmry
+[02:39:18] [Server thread/INFO]: Danielitoram has made the advancement [Acquire Hardware]
+[02:39:45] [Server thread/INFO]: Danielitoram issued server command: /give Danielitoram minecraft:netherite_scrap
+[02:39:45] [Server thread/INFO]: [Danielitoram: Gave 1 [Netherite Scrap] to Danielitoram]
+[02:39:59] [Server thread/INFO]: ANTO_1615 has made the advancement [A Seedy Place]
+[02:41:21] [Server thread/INFO]: Danielitoram issued server command: /give Danielitoram minecraft:netherite_hoe
+[02:41:21] [Server thread/INFO]: Danielitoram has completed the challenge [Serious Dedication]
+[02:41:21] [Server thread/INFO]: [Danielitoram: Gave 1 [Netherite Hoe] to Danielitoram]
+[02:41:26] [Server thread/INFO]: Danielitoram issued server command: /gamemode creative
+[02:41:26] [Server thread/INFO]: [Danielitoram: Set own game mode to Creative Mode]
+[02:41:30] [Server thread/INFO]: Danielitoram issued server command: /gamemode survival
+[02:41:30] [Server thread/INFO]: [Danielitoram: Set own game mode to Survival Mode]
+[02:42:40] [Server thread/INFO]: Danielitoram issued server command: /give Danielitoram minecraft:iron_ingot 2
+[02:42:40] [Server thread/INFO]: [Danielitoram: Gave 2 [Iron Ingot] to Danielitoram]
+[02:43:10] [Server thread/INFO]: Danielitoram issued server command: /give nommsmry minecraft:bread 64
+[02:43:10] [Server thread/INFO]: [Danielitoram: Gave 64 [Bread] to nommsmry]
+[02:44:19] [Server thread/INFO]: ANTO_1615 has made the advancement [Not Today, Thank You]
+[02:45:06] [Server thread/INFO]: ANTO_1615 was slain by Enderman
+[02:45:30] [Server thread/INFO]: Danielitoram issued server command: /gamemode creative
+[02:45:30] [Server thread/INFO]: [Danielitoram: Set own game mode to Creative Mode]
+[02:45:43] [Server thread/INFO]: nommsmry has made the advancement [What a Deal!]
+[02:46:02] [Server thread/INFO]: Danielitoram issued server command: /gamemode survival
+[02:46:02] [Server thread/INFO]: [Danielitoram: Set own game mode to Survival Mode]
+[02:47:29] [Server thread/INFO]: Danielitoram has made the advancement [Sweet Dreams]
+[02:47:33] [Server thread/INFO]: Danielitoram issued server command: /tp ANTO_1615 Danielitoram
+[02:47:33] [Server thread/INFO]: [Danielitoram: Teleported ANTO_1615 to Danielitoram]
+[02:48:12] [Server thread/INFO]: Danielitoram was slain by Iron Golem
+[02:51:18] [Server thread/INFO]: Danielitoram was slain by Iron Golem
+[02:51:54] [Server thread/INFO]: ANTO_1615 lost connection: Disconnected
+[02:51:54] [Server thread/INFO]: ANTO_1615 left the game
+[02:53:20] [User Authenticator #9/INFO]: UUID of player ANTO_1615 is 8712ff24-bbf6-39ed-ba8d-1d7d01630ef0
+[02:53:22] [Server thread/INFO]: ANTO_1615 joined the game
+[02:53:22] [Server thread/INFO]: ANTO_1615[/127.139.79.205:43733] logged in with entity id 8545 at ([world]-542.9923167654055, 69.0, 1044.406925063549)
+[02:53:59] [Server thread/INFO]: Danielitoram was slain by Iron Golem
+[02:54:07] [Server thread/INFO]: nommsmry was slain by Iron Golem
+[02:55:18] [Server thread/INFO]: ANTO_1615 has made the advancement [Ice Bucket Challenge]
