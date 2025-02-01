@@ -423,8 +423,10 @@
       "cooked_porkchop": "2025-01-30 03:11:18 +0000",
       "bread": "2025-01-30 03:15:04 +0000",
       "cooked_mutton": "2025-01-30 03:03:48 +0000",
+      "potato": "2025-02-01 02:39:56 +0000",
       "porkchop": "2025-01-30 02:56:05 +0000",
-      "golden_carrot": "2025-01-31 02:53:26 +0000"
+      "golden_carrot": "2025-01-31 02:53:26 +0000",
+      "carrot": "2025-02-01 02:50:41 +0000"
     },
     "done": false
   },
@@ -2173,6 +2175,30 @@
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-01-31 03:54:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-02-01 02:40:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-02-01 02:40:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2025-02-01 02:49:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-02-01 02:40:47 +0000"
     },
     "done": true
   },
