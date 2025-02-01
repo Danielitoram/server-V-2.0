@@ -219,3 +219,86 @@ no estoy conectado a serrano.net pe<--[HERE]
 [02:21:21] [Server thread/INFO]: [Danielitoram: Applied enchantment Unbreaking III to Danielitoram's item]
 [02:21:29] [Server thread/INFO]: Danielitoram issued server command: /gamemode creative
 [02:21:29] [Server thread/INFO]: [Danielitoram: Set own game mode to Creative Mode]
+[02:21:45] [Server thread/INFO]: Danielitoram issued server command: /gamemode survival
+[02:21:45] [Server thread/INFO]: [Danielitoram: Set own game mode to Survival Mode]
+[02:22:05] [Server thread/INFO]: Danielitoram issued server command: /gamemode creative
+[02:22:05] [Server thread/INFO]: [Danielitoram: Set own game mode to Creative Mode]
+[02:23:34] [Server thread/INFO]: Danielitoram issued server command: /tp Danielitoram ~100 ~ ~
+[02:23:34] [Server thread/INFO]: [Danielitoram: Teleported Danielitoram to -104.700000, 65.200000, 100.568393]
+[02:23:47] [Server thread/INFO]: Danielitoram issued server command: /tp Danielitoram ~-280 ~ ~
+[02:23:47] [Server thread/INFO]: [Danielitoram: Teleported Danielitoram to -384.700000, 65.200000, 100.568393]
+[02:24:02] [Server thread/INFO]: Danielitoram issued server command: /tp Danielitoram ~-10 ~ ~
+[02:24:02] [Server thread/INFO]: [Danielitoram: Teleported Danielitoram to -394.700000, 65.200000, 100.568393]
+[02:24:03] [Server thread/INFO]: Danielitoram issued server command: /tp Danielitoram ~-10 ~ ~
+[02:24:03] [Server thread/INFO]: [Danielitoram: Teleported Danielitoram to -404.700000, 65.200000, 100.568393]
+[02:24:04] [Server thread/INFO]: Danielitoram has made the advancement [A Terrible Fortress]
+[02:24:12] [Async Chat Thread - #12/INFO]: [Not Secure] <nommsmry> 7locate
+[02:24:25] [Async Chat Thread - #12/INFO]: [Not Secure] <nommsmry> Traete vergas
+[02:24:29] [Async Chat Thread - #12/INFO]: [Not Secure] <nommsmry> Verrugas
+[02:25:14] [Server thread/INFO]: Danielitoram issued server command: /tp Danielitoram ~-280 ~ ~
+[02:25:14] [Server thread/INFO]: [Danielitoram: Teleported Danielitoram to -359.395955, 65.200000, 100.397051]
+[02:25:16] [Server thread/INFO]: Danielitoram issued server command: /tp Danielitoram ~-10 ~ ~
+[02:25:16] [Server thread/INFO]: [Danielitoram: Teleported Danielitoram to -369.402272, 65.200000, 100.397051]
+[02:25:17] [Server thread/INFO]: Danielitoram issued server command: /tp Danielitoram ~-10 ~ ~
+[02:25:17] [Server thread/INFO]: [Danielitoram: Teleported Danielitoram to -379.402272, 65.200000, 100.397051]
+[02:25:17] [Server thread/INFO]: Danielitoram issued server command: /tp Danielitoram ~-10 ~ ~
+[02:25:17] [Server thread/INFO]: [Danielitoram: Teleported Danielitoram to -389.402272, 65.200000, 100.397051]
+[02:25:18] [Server thread/INFO]: Danielitoram issued server command: /tp Danielitoram ~-10 ~ ~
+[02:25:18] [Server thread/INFO]: [Danielitoram: Teleported Danielitoram to -399.402272, 65.200000, 100.397051]
+[02:25:19] [Server thread/INFO]: Danielitoram issued server command: /tp Danielitoram ~-10 ~ ~
+[02:25:19] [Server thread/INFO]: [Danielitoram: Teleported Danielitoram to -409.402272, 65.200000, 100.397051]
+[02:25:39] [Server thread/INFO]: Danielitoram issued server command: /fill ~ ~ ~ ~350 ~ ~ minecraft:packed_ice
+[02:25:45] [Server thread/INFO]: Danielitoram issued server command: /fill ~ ~ ~ ~150 ~ ~ minecraft:packed_ice
+[02:25:45] [Server thread/INFO]: [Danielitoram: Successfully filled 151 block(s)]
+[02:25:46] [Async Chat Thread - #14/INFO]: [Not Secure] <nommsmry> 7locate
+[02:25:50] [Server thread/INFO]: Danielitoram issued server command: /fill ~ ~ ~ ~150 ~ ~ minecraft:packed_ice
+[02:25:50] [Server thread/INFO]: [Danielitoram: Successfully filled 151 block(s)]
+[02:26:22] [Server thread/INFO]: Danielitoram issued server command: /fill ~ ~ ~ ~150 ~2 ~ minecraft:air
+[02:26:22] [Server thread/INFO]: [Danielitoram: Successfully filled 270 block(s)]
+[02:26:23] [Server thread/INFO]: Danielitoram issued server command: /fill ~ ~ ~ ~150 ~2 ~ minecraft:air
+[02:26:23] [Server thread/INFO]: [Danielitoram: Successfully filled 373 block(s)]
+[02:26:28] [Async Chat Thread - #14/INFO]: [Not Secure] <Danielitoram> que locate mano
+[02:26:34] [Async Chat Thread - #14/INFO]: [Not Secure] <Danielitoram> tu sabes que yo no uso esas cosas
+[02:26:37] [Server thread/INFO]: nommsmry has made the advancement [Who is Cutting Onions?]
+[02:26:39] [Async Chat Thread - #14/INFO]: [Not Secure] <Danielitoram> yo soy creyente de lo legal
+[02:26:44] [Server thread/INFO]: Danielitoram issued server command: /fill ~ ~ ~ ~150 ~2 ~ minecraft:air
+[02:26:44] [Server thread/INFO]: [Danielitoram: Successfully filled 10 block(s)]
+[02:26:46] [Async Chat Thread - #14/INFO]: [Not Secure] <nommsmry> 7locate
+[02:26:57] [Server thread/INFO]: Danielitoram issued server command: /fill ~ ~ ~ ~150 ~ ~ minecraft:packed_ice
+[02:26:57] [Server thread/INFO]: [Danielitoram: Successfully filled 151 block(s)]
+[02:26:59] [Server thread/INFO]: Danielitoram issued server command: /fill ~ ~ ~ ~150 ~ ~ minecraft:packed_ice
+[02:26:59] [Server thread/INFO]: [Danielitoram: Successfully filled 151 block(s)]
+[02:27:03] [Server thread/INFO]: Danielitoram issued server command: /fill ~ ~ ~ ~150 ~2 ~ minecraft:air
+[02:27:17] [Server thread/INFO]: Danielitoram issued server command: /fill ~ ~ ~ ~50 ~ ~ minecraft:packed_ice
+[02:27:17] [Server thread/INFO]: [Danielitoram: Successfully filled 51 block(s)]
+[02:27:19] [Server thread/INFO]: Danielitoram issued server command: /fill ~ ~ ~ ~50 ~ ~ minecraft:packed_ice
+[02:27:19] [Server thread/INFO]: [Danielitoram: Successfully filled 51 block(s)]
+[02:27:29] [Server thread/INFO]: Danielitoram issued server command: /fill ~ ~ ~ ~30 ~2 ~ minecraft:air
+[02:27:29] [Server thread/INFO]: [Danielitoram: Successfully filled 54 block(s)]
+[02:27:30] [Server thread/INFO]: Danielitoram issued server command: /fill ~ ~ ~ ~30 ~2 ~ minecraft:air
+[02:27:30] [Server thread/INFO]: [Danielitoram: Successfully filled 54 block(s)]
+[02:27:36] [Server thread/INFO]: Danielitoram issued server command: /fill ~ ~ ~ ~30 ~2 ~ minecraft:air
+[02:27:36] [Server thread/INFO]: [Danielitoram: Successfully filled 71 block(s)]
+[02:27:37] [Server thread/INFO]: Danielitoram issued server command: /fill ~ ~ ~ ~30 ~2 ~ minecraft:air
+[02:27:37] [Server thread/INFO]: [Danielitoram: Successfully filled 67 block(s)]
+[02:27:53] [Async Chat Thread - #16/INFO]: [Not Secure] <nommsmry> 7locate
+[02:28:05] [Async Chat Thread - #16/INFO]: [Not Secure] <Danielitoram> yo soy testigo de notch
+[02:28:12] [Async Chat Thread - #16/INFO]: [Not Secure] <nommsmry> 7locate
+[02:28:53] [User Authenticator #8/INFO]: UUID of player ANTO_1615 is 8712ff24-bbf6-39ed-ba8d-1d7d01630ef0
+[02:28:56] [Server thread/INFO]: ANTO_1615 joined the game
+[02:28:56] [Server thread/INFO]: ANTO_1615[/127.139.79.205:42995] logged in with entity id 9713 at ([world]-126.06138664617204, 76.50133597911214, 742.4551618025514)
+[02:29:01] [Async Chat Thread - #16/INFO]: [Not Secure] <nommsmry> 7locate
+[02:29:56] [Async Chat Thread - #16/INFO]: [Not Secure] <Danielitoram> ya termine el camino hacia la fortaleza
+[02:29:59] [Server thread/INFO]: Danielitoram issued server command: /gamemode survival
+[02:29:59] [Server thread/INFO]: [Danielitoram: Set own game mode to Survival Mode]
+[02:30:02] [Async Chat Thread - #16/INFO]: [Not Secure] <Danielitoram> arduo trabajo
+[02:30:06] [Async Chat Thread - #16/INFO]: [Not Secure] <nommsmry> 7locate
+[02:30:07] [Async Chat Thread - #16/INFO]: [Not Secure] <Danielitoram> desde las 6 am estoy aca
+[02:30:13] [Async Chat Thread - #16/INFO]: [Not Secure] <nommsmry> Trae verrguas aunque sea
+[02:30:23] [Async Chat Thread - #16/INFO]: [Not Secure] <Danielitoram> traelas tu pe
+[02:30:24] [Async Chat Thread - #16/INFO]: [Not Secure] <Danielitoram> entra
+[02:30:31] [Async Chat Thread - #16/INFO]: [Not Secure] <nommsmry> Toyben fono pe pendeivis
+[02:30:40] [Async Chat Thread - #16/INFO]: [Not Secure] <Danielitoram> entra al portal pa que veas el camino
+[02:30:47] [Async Chat Thread - #16/INFO]: [Not Secure] <nommsmry> Cada que pasa una moto a mi lado sudo frio
+[02:31:43] [Server thread/INFO]: Danielitoram issued server command: /gamemode creative
+[02:31:43] [Server thread/INFO]: [Danielitoram: Set own game mode to Creative Mode]
