@@ -147,3 +147,75 @@ no estoy conectado a serrano.net pe<--[HERE]
 [02:11:02] [User Authenticator #5/INFO]: UUID of player nommsmry is 03bdfd16-2b23-37aa-92ca-f8136b385d68
 [02:11:02] [Server thread/INFO]: nommsmry (/127.35.151.246:41927) lost connection: Disconnected
 [02:11:05] [Server thread/INFO]: Danielitoram issued server command: /fill ~ ~ ~ ~10 ~1 ~10 lava replace minecraft:air
+[02:11:21] [User Authenticator #5/INFO]: UUID of player nommsmry is 03bdfd16-2b23-37aa-92ca-f8136b385d68
+[02:11:26] [Server thread/INFO]: nommsmry joined the game
+[02:11:26] [Server thread/INFO]: nommsmry[/127.35.151.246:37701] logged in with entity id 5562 at ([world]-177.53520513973925, 72.0, 1115.4730642055881)
+[02:12:23] [Server thread/INFO]: Danielitoram issued server command: /fill ~ ~ ~ ~10 ~1 ~10 lava replace minecraft:air
+[02:12:25] [Server thread/INFO]: Danielitoram issued server command: /gamemode survival
+[02:12:25] [Server thread/INFO]: [Danielitoram: Set own game mode to Survival Mode]
+[02:12:48] [Server thread/INFO]: Danielitoram issued server command: /gamemode creative
+[02:12:48] [Server thread/INFO]: [Danielitoram: Set own game mode to Creative Mode]
+[02:13:14] [Server thread/INFO]: Danielitoram issued server command: /gamemode survival
+[02:13:14] [Server thread/INFO]: [Danielitoram: Set own game mode to Survival Mode]
+[02:13:22] [Async Chat Thread - #6/INFO]: [Not Secure] <nommsmry> Pasate unosnpantalones de diamante p
+[02:13:23] [Server thread/INFO]: Danielitoram issued server command: /gamemode creative
+[02:13:23] [Server thread/INFO]: [Danielitoram: Set own game mode to Creative Mode]
+[02:13:27] [Server thread/INFO]: Danielitoram issued server command: /gamemode survival
+[02:13:27] [Server thread/INFO]: [Danielitoram: Set own game mode to Survival Mode]
+[02:13:29] [Async Chat Thread - #6/INFO]: [Not Secure] <nommsmry> Ya no
+[02:13:34] [Async Chat Thread - #6/INFO]: [Not Secure] <Danielitoram> :VVV
+[02:13:45] [Async Chat Thread - #6/INFO]: [Not Secure] <Danielitoram> no tengo mechero
+[02:14:02] [Async Chat Thread - #6/INFO]: [Not Secure] <Danielitoram> voy a prender el portal como en tu pueblo
+[02:14:16] [Async Chat Thread - #6/INFO]: [Not Secure] <Danielitoram> si prendio
+[02:14:54] [Async Chat Thread - #6/INFO]: [Not Secure] <nommsmry> Pasate bread
+[02:15:07] [Async Chat Thread - #6/INFO]: [Not Secure] <nommsmry> More one stack of bread
+[02:15:08] [Async Chat Thread - #6/INFO]: [Not Secure] <Danielitoram> que hablas
+[02:15:11] [Async Chat Thread - #6/INFO]: [Not Secure] <Danielitoram> si tu tienes
+[02:15:15] [Async Chat Thread - #6/INFO]: [Not Secure] <Danielitoram> mira bien tu inventario
+[02:15:16] [Server thread/INFO]: Danielitoram issued server command: /give nommsmry minecraft:bread 512
+[02:15:16] [Server thread/INFO]: [Danielitoram: Gave 512 [Bread] to nommsmry]
+[02:15:24] [Async Chat Thread - #7/INFO]: [Not Secure] <nommsmry> Thank you
+[02:15:35] [Server thread/INFO]: Danielitoram issued server command: /give Danielitoram minecraft:bread 127
+[02:15:35] [Server thread/INFO]: [Danielitoram: Gave 127 [Bread] to Danielitoram]
+[02:15:54] [Async Chat Thread - #7/INFO]: [Not Secure] <Danielitoram> vas lag tu o yo?
+[02:16:00] [Async Chat Thread - #7/INFO]: [Not Secure] <Danielitoram> creo que tu
+[02:16:13] [Server thread/INFO]: Danielitoram issued server command: /scoreboard objectives add vida health
+[02:16:13] [Server thread/INFO]: [Danielitoram: Created new objective [vida]]
+[02:16:18] [Server thread/INFO]: nommsmry lost connection: Timed out
+[02:16:18] [Server thread/INFO]: nommsmry left the game
+[02:16:21] [Server thread/INFO]: Danielitoram issued server command: /scoreboard objectives setdisplay below_name vida
+[02:16:21] [Server thread/INFO]: [Danielitoram: Set display slot below_name to show objective vida]
+[02:16:32] [Server thread/INFO]: Named entity Skeleton['Veneco'/3041, uuid='ee31ec14-559a-42b3-af0a-990dcd1d1602', l='ServerLevel[world]', x=-226.02, y=72.49, z=1134.63, cpos=[-15, 70], tl=22005, v=true] died: Veneco burned to death
+[02:17:33] [Server thread/INFO]: Danielitoram issued server command: /gamemode creative
+[02:17:33] [Server thread/INFO]: [Danielitoram: Set own game mode to Creative Mode]
+[02:17:45] [Server thread/INFO]: Danielitoram issued server command: /fill ~ ~ ~ ~10 ~1 ~10 lava replace minecraft:air
+[02:17:45] [Server thread/INFO]: [Danielitoram: Successfully filled 33 block(s)]
+[02:17:50] [Server thread/INFO]: Danielitoram issued server command: /fill ~ ~ ~ ~10 ~1 ~10 lava replace minecraft:air
+[02:17:55] [Server thread/INFO]: Danielitoram issued server command: /fill ~ ~ ~ ~10 ~1 ~10 lava replace minecraft:air
+[02:17:57] [Server thread/INFO]: Danielitoram issued server command: /fill ~ ~ ~ ~10 ~1 ~10 lava replace minecraft:air
+[02:17:58] [Server thread/INFO]: Danielitoram issued server command: /fill ~ ~ ~ ~10 ~1 ~10 lava replace minecraft:air
+[02:18:02] [Server thread/INFO]: Danielitoram issued server command: /fill ~ ~ ~ ~10 ~1 ~10 lava replace minecraft:air
+[02:18:04] [Server thread/INFO]: Danielitoram issued server command: /fill ~ ~ ~ ~10 ~1 ~10 lava replace minecraft:air
+[02:18:06] [User Authenticator #6/INFO]: UUID of player nommsmry is 03bdfd16-2b23-37aa-92ca-f8136b385d68
+[02:18:10] [Server thread/INFO]: nommsmry joined the game
+[02:18:10] [Server thread/INFO]: nommsmry[/127.35.151.246:34647] logged in with entity id 6713 at ([world]-285.88813824507054, 73.27978765156374, 871.0134271932391)
+[02:18:14] [Server thread/INFO]: Danielitoram issued server command: /gamemode survival
+[02:18:14] [Server thread/INFO]: [Danielitoram: Set own game mode to Survival Mode]
+[02:18:21] [Async Chat Thread - #8/INFO]: [Not Secure] <nommsmry> Xd
+[02:18:57] [Server thread/INFO]: Danielitoram has made the advancement [We Need to Go Deeper]
+[02:19:01] [Server thread/INFO]: nommsmry lost connection: Disconnected
+[02:19:01] [Server thread/INFO]: nommsmry left the game
+[02:19:46] [Server thread/INFO]: Danielitoram issued server command: /locate structure minecraft:fortress
+[02:19:46] [Server thread/INFO]: Locating element minecraft:fortress took 1 ms
+[02:20:47] [User Authenticator #7/INFO]: UUID of player nommsmry is 03bdfd16-2b23-37aa-92ca-f8136b385d68
+[02:20:53] [Server thread/INFO]: nommsmry joined the game
+[02:20:53] [Server thread/INFO]: nommsmry[/127.35.151.246:32935] logged in with entity id 7133 at ([world]-280.42208950512, 72.0, 891.7181935542033)
+[02:21:00] [Async Chat Thread - #10/INFO]: [Not Secure] <Danielitoram> voy por fortaleza
+[02:21:05] [Async Chat Thread - #11/INFO]: [Not Secure] <nommsmry> Largate
+[02:21:12] [Server thread/INFO]: Danielitoram issued server command: /enchant Danielitoram minecraft:efficiency 5
+[02:21:12] [Server thread/INFO]: [Danielitoram: Applied enchantment Efficiency V to Danielitoram's item]
+[02:21:20] [Server thread/INFO]: Danielitoram issued server command: /enchant Danielitoram minecraft:unbreaking 5
+[02:21:21] [Server thread/INFO]: Danielitoram issued server command: /enchant Danielitoram minecraft:unbreaking 3
+[02:21:21] [Server thread/INFO]: [Danielitoram: Applied enchantment Unbreaking III to Danielitoram's item]
+[02:21:29] [Server thread/INFO]: Danielitoram issued server command: /gamemode creative
+[02:21:29] [Server thread/INFO]: [Danielitoram: Set own game mode to Creative Mode]
