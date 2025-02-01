@@ -7,6 +7,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:badlands": "2025-02-01 03:55:38 +0000",
       "minecraft:eroded_badlands": "2025-01-30 03:10:37 +0000",
       "minecraft:beach": "2025-01-30 03:02:50 +0000",
       "minecraft:desert": "2025-01-30 03:09:42 +0000",
@@ -2146,6 +2147,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-02-01 03:56:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_cornflower": "2025-02-01 03:31:46 +0000"
@@ -2161,6 +2168,12 @@
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-02-01 03:40:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-02-01 03:56:44 +0000"
     },
     "done": true
   },
