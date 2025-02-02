@@ -972,3 +972,141 @@
 [21:40:29] [Server thread/INFO]: Danielitoram issued server command: /gamemode creative
 [21:40:29] [Server thread/INFO]: [Danielitoram: Set own game mode to Creative Mode]
 [21:40:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11875ms or 237 ticks behind
+[21:41:21] [Server thread/INFO]: nommsmry issued server command: /tell Danielitoram Arregla
+[21:41:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17092ms or 341 ticks behind
+[21:41:32] [Server thread/INFO]: Danielitoram issued server command: /fill -378 63 802 -359 47 820 tnt[
+[21:41:33] [Server thread/INFO]: Danielitoram issued server command: /fill -378 63 802 -359 47 820 tnt
+[21:41:34] [Server thread/INFO]: [Danielitoram: Successfully filled 6460 block(s)]
+[21:41:44] [Server thread/INFO]: Danielitoram issued server command: /tp nommsmry
+[21:41:44] [Server thread/INFO]: [Danielitoram: Teleported Danielitoram to nommsmry]
+[21:41:46] [Async Chat Thread - #59/INFO]: [Not Secure] <Danielitoram> s
+[21:41:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12725ms or 254 ticks behind
+[21:42:01] [Server thread/INFO]: Danielitoram issued server command: /effect give nommsmry minecraft:resistance infinite 255
+[21:42:01] [Server thread/INFO]: [Danielitoram: Applied effect Resistance to nommsmry]
+[21:42:03] [Server thread/INFO]: Danielitoram issued server command: /tp nommsmry Danielitoram
+[21:42:03] [Server thread/INFO]: [Danielitoram: Teleported nommsmry to Danielitoram]
+[21:42:14] [Server thread/INFO]: Danielitoram issued server command: /tp nommsmry Danielitoram
+[21:42:14] [Server thread/INFO]: [Danielitoram: Teleported nommsmry to Danielitoram]
+[21:42:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9221ms or 184 ticks behind
+[21:42:16] [Server thread/INFO]: nommsmry lost connection: Disconnected
+[21:42:16] [Server thread/INFO]: nommsmry left the game
+[21:42:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9143ms or 182 ticks behind
+[21:43:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7437ms or 148 ticks behind
+[21:43:17] [User Authenticator #3/INFO]: UUID of player nommsmry is 03bdfd16-2b23-37aa-92ca-f8136b385d68
+[21:43:22] [Server thread/INFO]: nommsmry joined the game
+[21:43:22] [Server thread/INFO]: nommsmry[/127.35.151.246:49351] logged in with entity id 45840 at ([world]-371.9883293995303, 64.0, 814.0618312572583)
+[21:43:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7119ms or 142 ticks behind
+[21:43:26] [Server thread/INFO]: nommsmry lost connection: Disconnected
+[21:43:26] [Server thread/INFO]: nommsmry left the game
+[21:43:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6349ms or 126 ticks behind
+[21:43:47] [User Authenticator #3/INFO]: UUID of player nommsmry is 03bdfd16-2b23-37aa-92ca-f8136b385d68
+[21:43:51] [Server thread/INFO]: nommsmry joined the game
+[21:43:51] [Server thread/INFO]: nommsmry[/127.35.151.246:48149] logged in with entity id 48882 at ([world]-370.22001423456754, 33.0, 814.6999999880791)
+[21:44:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5138ms or 102 ticks behind
+[21:44:15] [Async Chat Thread - #60/INFO]: [Not Secure] <nommsmry> Sacame de aqqui
+[21:44:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4612ms or 92 ticks behind
+[21:44:26] [Async Chat Thread - #61/INFO]: [Not Secure] <nommsmry> Gay
+[21:44:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4020ms or 80 ticks behind
+[21:45:00] [Server thread/INFO]: Named entity Creeper['place me'/49177, uuid='14bf3c77-8280-458d-b00b-202fc512a4be', l='ServerLevel[world]', x=-380.50, y=30.00, z=819.50, cpos=[-24, 51], tl=545, v=true] died: place me was slain by nommsmry
+[21:45:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4103ms or 82 ticks behind
+[21:45:02] [Async Chat Thread - #61/INFO]: [Not Secure] <Danielitoram> nooo
+[21:45:06] [Async Chat Thread - #61/INFO]: [Not Secure] <nommsmry> Deja oe
+[21:45:18] [Server thread/INFO]: nommsmry lost connection: Disconnected
+[21:45:18] [Server thread/INFO]: nommsmry left the game
+[21:45:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4146ms or 82 ticks behind
+[21:45:21] [User Authenticator #4/INFO]: UUID of player nommsmry is 03bdfd16-2b23-37aa-92ca-f8136b385d68
+[21:45:25] [Server thread/INFO]: nommsmry joined the game
+[21:45:25] [Server thread/INFO]: nommsmry[/127.35.151.246:52261] logged in with entity id 49252 at ([world]-383.11672330046565, 31.0, 826.6999999880791)
+[21:45:38] [Server thread/INFO]: Named entity Creeper['place me'/49230, uuid='89b9356b-b34f-4172-9d25-b53d4abbe170', l='ServerLevel[world]', x=-386.50, y=41.00, z=831.50, cpos=[-25, 51], tl=501, v=true] died: place me was slain by nommsmry
+[21:45:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4457ms or 89 ticks behind
+[21:45:48] [Server thread/WARN]: Failed to parse entity custom name 
+com.google.gson.JsonParseException: Failed to parse either. First: Failed to parse either. First: Not a string: null; Second: Not a json array: null; Second: Not a JSON object: null
+	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at net.minecraft.network.chat.Component$Serializer.deserialize(Component.java:296) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.network.chat.Component$Serializer.fromJson(Component.java:311) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.entity.Entity.load(Entity.java:2609) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.item.component.CustomData.loadInto(CustomData.java:86) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.entity.EntityType.updateCustomEntityTag(EntityType.java:515) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.entity.EntityType.lambda$appendCustomEntityStackConfig$3(EntityType.java:408) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at java.base/java.util.function.Consumer.lambda$andThen$0(Consumer.java:65) ~[?:?]
+	at net.minecraft.world.entity.EntityType.create(EntityType.java:481) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.entity.EntityType.spawn(EntityType.java:443) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.entity.EntityType.spawn(EntityType.java:384) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.entity.EntityType.spawn(EntityType.java:369) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.item.SpawnEggItem.useOn(SpawnEggItem.java:92) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.world.item.ItemStack.useOn(ItemStack.java:434) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.level.ServerPlayerGameMode.useItemOn(ServerPlayerGameMode.java:604) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleUseItemOn(ServerGamePacketListenerImpl.java:1871) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.handle(ServerboundUseItemOnPacket.java:44) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.network.protocol.game.ServerboundUseItemOnPacket.handle(ServerboundUseItemOnPacket.java:11) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:56) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1537) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:201) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1514) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1507) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1466) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1588) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1304) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.jar:1.21-130-b1b5d4c]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[21:45:48] [Async Chat Thread - #61/INFO]: [Not Secure] <nommsmry> Haz eso en un mundo solo
+[21:45:52] [Server thread/INFO]: Named entity Creeper['Charged Creeper Spawn Egg'/49289, uuid='7f7a9580-dddd-4cce-9df2-2caf20822bc9', l='ServerLevel[world]', x=-390.67, y=42.00, z=832.87, cpos=[-25, 52], tl=66, v=true] died: Charged Creeper Spawn Egg was slain by nommsmry
+[21:46:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4218ms or 84 ticks behind
+[21:46:02] [Server thread/INFO]: nommsmry lost connection: Disconnected
+[21:46:02] [Server thread/INFO]: nommsmry left the game
+[21:46:17] [User Authenticator #4/INFO]: UUID of player nommsmry is 03bdfd16-2b23-37aa-92ca-f8136b385d68
+[21:46:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5059ms or 101 ticks behind
+[21:46:21] [Server thread/INFO]: nommsmry joined the game
+[21:46:21] [Server thread/INFO]: nommsmry[/127.35.151.246:59803] logged in with entity id 49991 at ([world]-388.80706654888104, 43.0, 833.0064515534357)
+[21:46:26] [Server thread/INFO]: Danielitoram issued server command: /tp nommsmry Danielitoram
+[21:46:26] [Server thread/INFO]: [Danielitoram: Teleported nommsmry to Danielitoram]
+[21:46:30] [Server thread/INFO]: Danielitoram issued server command: /gamemode survival
+[21:46:30] [Server thread/INFO]: [Danielitoram: Set own game mode to Survival Mode]
+[21:46:33] [Server thread/INFO]: Danielitoram was slain by Iron Golem
+[21:46:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9192ms or 183 ticks behind
+[21:47:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7325ms or 146 ticks behind
+[21:47:27] [Async Chat Thread - #62/INFO]: [Not Secure] <nommsmry> Arregla el crater
+[21:47:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7748ms or 154 ticks behind
+[21:47:37] [Async Chat Thread - #63/INFO]: [Not Secure] <Danielitoram> esta a 1000000 e bloques
+[21:47:41] [Async Chat Thread - #63/INFO]: [Not Secure] <nommsmry> Igual
+[21:47:45] [Server thread/INFO]: Danielitoram was slain by nommsmry
+[21:47:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7705ms or 154 ticks behind
+[21:48:00] [Async Chat Thread - #63/INFO]: [Not Secure] <nommsmry> Altoq
+[21:48:13] [Server thread/INFO]: Danielitoram was slain by nommsmry
+[21:48:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7377ms or 147 ticks behind
+[21:48:31] [Async Chat Thread - #63/INFO]: [Not Secure] <nommsmry> Arregla
+[21:48:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7865ms or 157 ticks behind
+[21:48:38] [Async Chat Thread - #63/INFO]: [Not Secure] <Danielitoram> ni lo vas a ver denueov
+[21:48:39] [Server thread/INFO]: Danielitoram was slain by nommsmry
+[21:48:43] [Async Chat Thread - #63/INFO]: [Not Secure] <nommsmry> Arregla
+[21:49:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7961ms or 159 ticks behind
+[21:49:05] [Async Chat Thread - #63/INFO]: [Not Secure] <Danielitoram> no
+[21:49:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6811ms or 136 ticks behind
+[21:49:22] [Server thread/INFO]: Danielitoram issued server command: /give Danielitoram minecraft:trident
+[21:49:22] [Server thread/INFO]: [Danielitoram: Gave 1 [Trident] to Danielitoram]
+[21:49:29] [Server thread/INFO]: Danielitoram issued server command: /enchant Danielitoram minecraft:riptide 3
+[21:49:29] [Server thread/INFO]: [Danielitoram: Applied enchantment Riptide III to Danielitoram's item]
+[21:49:42] [Async Chat Thread - #63/INFO]: [Not Secure] <nommsmry> Literalmwnte esta al lado
+[21:49:45] [Async Chat Thread - #63/INFO]: [Not Secure] <nommsmry> Arrreglas
+[21:49:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12853ms or 257 ticks behind
+[21:49:51] [Server thread/INFO]: Danielitoram fell from a high place
+[21:49:53] [Server thread/INFO]: Danielitoram was slain by Iron Golem
+[21:49:58] [Async Chat Thread - #63/INFO]: [Not Secure] <nommsmry> Altoq
+[21:50:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12731ms or 254 ticks behind
+[21:50:20] [Async Chat Thread - #63/INFO]: [Not Secure] <nommsmry> Arregla
+[21:50:27] [Async Chat Thread - #63/INFO]: [Not Secure] <nommsmry> Ven oe
+[21:50:38] [Server thread/INFO]: Danielitoram fell from a high place
+[21:50:42] [Server thread/INFO]: Danielitoram issued server command: /tp nommsmry
+[21:50:42] [Server thread/INFO]: [Danielitoram: Teleported Danielitoram to nommsmry]
+[21:50:43] [Async Chat Thread - #63/INFO]: [Not Secure] <nommsmry> Arregla altoq
+[21:50:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11809ms or 236 ticks behind
+[21:50:45] [Server thread/INFO]: Danielitoram issued server command: /gamemode creative
+[21:50:45] [Server thread/INFO]: [Danielitoram: Set own game mode to Creative Mode]
+[21:51:03] [Server thread/INFO]: Danielitoram issued server command: /fill ~ ~ ~ ~100 ~1 ~100 sand
+[21:51:04] [Server thread/INFO]: [Danielitoram: Successfully filled 20238 block(s)]
+[21:51:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7712ms or 154 ticks behind
