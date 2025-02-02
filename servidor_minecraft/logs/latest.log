@@ -280,3 +280,77 @@
 [20:29:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7584ms or 151 ticks behind
 [20:29:38] [Server thread/INFO]: Danielitoram issued server command: /give Danielitoram minecraft:flint_and_steel
 [20:29:38] [Server thread/INFO]: [Danielitoram: Gave 1 [Flint and Steel] to Danielitoram]
+[20:29:45] [Async Chat Thread - #17/INFO]: [Not Secure] <nommsmry> Chetumare
+[20:29:48] [Server thread/INFO]: Danielitoram issued server command: /fill ~ ~ ~ ~10 ~-100 ~10 tnt
+[20:29:51] [Server thread/INFO]: Danielitoram issued server command: /fill ~ ~ ~ ~10 ~-50 ~10 tnt
+[20:29:56] [Server thread/INFO]: Danielitoram issued server command: /fill ~ ~ ~ ~10 ~-10 ~10 tnt
+[20:29:56] [Server thread/INFO]: [Danielitoram: Successfully filled 1331 block(s)]
+[20:30:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9510ms or 190 ticks behind
+[20:30:02] [Server thread/INFO]: Danielitoram issued server command: /tp nommsmry
+[20:30:02] [Server thread/INFO]: [Danielitoram: Teleported Danielitoram to nommsmry]
+[20:30:05] [Server thread/INFO]: Danielitoram was slain by nommsmry
+[20:30:12] [Async Chat Thread - #17/INFO]: [Not Secure] <nommsmry> Avisa pe
+[20:30:21] [Async Chat Thread - #16/INFO]: [Not Secure] <nommsmry> Que oigo
+[20:30:23] [Server thread/INFO]: Danielitoram was blown up by Danielitoram
+[20:30:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12086ms or 241 ticks behind
+[20:30:32] [Async Chat Thread - #16/INFO]: [Not Secure] <Danielitoram> el pedo de basy
+[20:30:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10252ms or 205 ticks behind
+[20:30:53] [Server thread/INFO]: Danielitoram issued server command: /tp no
+[20:30:55] [Server thread/INFO]: Danielitoram issued server command: /tp nommsmry
+[20:30:55] [Server thread/INFO]: [Danielitoram: Teleported Danielitoram to nommsmry]
+[20:31:06] [Server thread/INFO]: Danielitoram was slain by nommsmry
+[20:31:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9494ms or 189 ticks behind
+[20:31:17] [Server thread/INFO]: Danielitoram issued server command: /give Danielitoram minecraft:bedrock
+[20:31:17] [Server thread/INFO]: [Danielitoram: Gave 1 [Bedrock] to Danielitoram]
+[20:31:19] [Server thread/INFO]: Danielitoram issued server command: /tp nommsmry
+[20:31:19] [Server thread/INFO]: [Danielitoram: Teleported Danielitoram to nommsmry]
+[20:31:24] [Server thread/INFO]: Danielitoram was slain by nommsmry
+[20:31:32] [Async Chat Thread - #18/INFO]: [Not Secure] <nommsmry> Oie
+[20:31:35] [Async Chat Thread - #19/INFO]: [Not Secure] <Danielitoram> que
+[20:31:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10263ms or 205 ticks behind
+[20:32:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8405ms or 168 ticks behind
+[20:32:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8445ms or 168 ticks behind
+[20:32:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8634ms or 172 ticks behind
+[20:33:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8263ms or 165 ticks behind
+[20:33:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8456ms or 169 ticks behind
+[20:34:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8281ms or 165 ticks behind
+[20:34:21] [Server thread/INFO]: Danielitoram was doomed to fall by Iron Golem
+[20:34:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8361ms or 167 ticks behind
+[20:34:36] [Async Chat Thread - #20/INFO]: [Not Secure] <nommsmry> Pasate xp en botellas
+[20:34:44] [Async Chat Thread - #21/INFO]: [Not Secure] <nommsmry> Mi armor esta a un golpe
+[20:34:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8028ms or 160 ticks behind
+[20:35:05] [Server thread/INFO]: Danielitoram issued server command: /give nommsmry minecraft:experience_bottle 512
+[20:35:05] [Server thread/INFO]: [Danielitoram: Gave 512 [Bottle o' Enchanting] to nommsmry]
+[20:35:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8034ms or 160 ticks behind
+[20:35:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8290ms or 165 ticks behind
+[20:35:42] [Server thread/INFO]: Danielitoram issued server command: /fill ~ ~ ~ ~4 ~200 ~4 minecraft:stone
+[20:35:42] [Server thread/INFO]: [Danielitoram: Successfully filled 5025 block(s)]
+[20:35:51] [Server thread/INFO]: Danielitoram issued server command: /fill ~ ~ ~ ~4 ~200 ~4 minecraft:air
+[20:35:51] [Server thread/INFO]: [Danielitoram: Successfully filled 4018 block(s)]
+[20:35:53] [Server thread/INFO]: Danielitoram issued server command: /fill ~ ~ ~ ~4 ~200 ~4 minecraft:air
+[20:35:53] [Server thread/INFO]: [Danielitoram: Successfully filled 1005 block(s)]
+[20:35:55] [Async Chat Thread - #22/INFO]: [Not Secure] <nommsmry> Saca eso oe
+[20:35:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8939ms or 178 ticks behind
+[20:36:01] [Async Chat Thread - #23/INFO]: [Not Secure] <Danielitoram> que cosa
+[20:36:04] [Async Chat Thread - #23/INFO]: [Not Secure] <Danielitoram> yo no veo nada
+[20:36:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7929ms or 158 ticks behind
+[20:36:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7684ms or 153 ticks behind
+[20:36:51] [Server thread/INFO]: Danielitoram was slain by nommsmry
+[20:36:59] [Async Chat Thread - #23/INFO]: [Not Secure] <Danielitoram> pvp ?
+[20:37:05] [Async Chat Thread - #23/INFO]: [Not Secure] <Danielitoram> yo full cuero tu full diamante
+[20:37:08] [Async Chat Thread - #23/INFO]: [Not Secure] <nommsmry> Me cachas pe
+[20:37:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8482ms or 169 ticks behind
+[20:37:15] [Async Chat Thread - #24/INFO]: [Not Secure] <nommsmry> Ahi nomas
+[20:37:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8983ms or 179 ticks behind
+[20:37:39] [Server thread/INFO]: Danielitoram was slain by Iron Golem
+[20:37:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8427ms or 168 ticks behind
+[20:38:07] [Async Chat Thread - #24/INFO]: [Not Secure] <nommsmry> Prende
+[20:38:17] [Server thread/INFO]: Danielitoram issued server command: /give Danielitoram minecraft:lava_bucket
+[20:38:17] [Server thread/INFO]: [Danielitoram: Gave 1 [Lava Bucket] to Danielitoram]
+[20:38:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7625ms or 152 ticks behind
+[20:38:37] [Async Chat Thread - #24/INFO]: [Not Secure] <nommsmry> :v
+[20:38:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7705ms or 154 ticks behind
+[20:38:43] [Async Chat Thread - #24/INFO]: [Not Secure] <Danielitoram> foto
+[20:39:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7410ms or 148 ticks behind
+[20:39:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7588ms or 151 ticks behind
+[20:39:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7915ms or 158 ticks behind
