@@ -180,3 +180,103 @@
 [20:19:14] [Server thread/INFO]: [Danielitoram: Applied effect Strength to Danielitoram]
 [20:19:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4456ms or 89 ticks behind
 [20:19:23] [Server thread/INFO]: nommsmry has made the advancement [Take Aim]
+[20:19:34] [Server thread/INFO]: Danielitoram issued server command: /effect clear e
+[20:19:38] [Server thread/INFO]: Danielitoram issued server command: /effect clear @e
+[20:19:38] [Server thread/INFO]: [Danielitoram: Removed every effect from 491 targets]
+[20:19:40] [Server thread/INFO]: Danielitoram issued server command: /effect give Danielitoram minecraft:strength 255 255
+[20:19:40] [Server thread/INFO]: [Danielitoram: Applied effect Strength to Danielitoram]
+[20:19:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6978ms or 139 ticks behind
+[20:19:42] [Server thread/INFO]: Danielitoram was slain by Zombified Piglin
+[20:19:44] [Server thread/INFO]: Danielitoram issued server command: /effect give Danielitoram minecraft:strength 255 255
+[20:19:44] [Server thread/INFO]: [Danielitoram: Applied effect Strength to Danielitoram]
+[20:19:50] [Server thread/INFO]: Danielitoram was slain by Zombified Piglin
+[20:19:52] [Server thread/INFO]: Danielitoram issued server command: /effect give Danielitoram minecraft:strength 255 255
+[20:19:52] [Server thread/INFO]: [Danielitoram: Applied effect Strength to Danielitoram]
+[20:20:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4412ms or 88 ticks behind
+[20:20:06] [Server thread/INFO]: Villager Villager['Fletcher'/58, uuid='07facf1e-5639-48b8-934b-0e4f48220866', l='ServerLevel[world]', x=-285.71, y=72.56, z=887.13, cpos=[-18, 55], tl=271890, v=true] died, message: 'Fletcher was slain by Danielitoram'
+[20:20:11] [Async Chat Thread - #10/INFO]: [Not Secure] <nommsmry> Oee
+[20:20:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3296ms or 65 ticks behind
+[20:20:28] [Server thread/INFO]: nommsmry was slain by Danielitoram
+[20:20:33] [Async Chat Thread - #11/INFO]: [Not Secure] <Danielitoram> ups
+[20:20:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2511ms or 50 ticks behind
+[20:20:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2552ms or 51 ticks behind
+[20:21:04] [Async Chat Thread - #11/INFO]: [Not Secure] <Danielitoram> mis cosas
+[20:21:14] [Async Chat Thread - #11/INFO]: [Not Secure] <nommsmry> Nose
+[20:21:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2510ms or 50 ticks behind
+[20:21:20] [Server thread/INFO]: Danielitoram issued server command: /gamemode creative
+[20:21:20] [Server thread/INFO]: [Danielitoram: Set own game mode to Creative Mode]
+[20:21:28] [Server thread/INFO]: Danielitoram issued server command: /gamemode survival
+[20:21:28] [Server thread/INFO]: [Danielitoram: Set own game mode to Survival Mode]
+[20:21:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2515ms or 50 ticks behind
+[20:21:33] [Async Chat Thread - #11/INFO]: [Not Secure] <Danielitoram> solo tengo mi casco
+[20:21:40] [Async Chat Thread - #11/INFO]: [Not Secure] <nommsmry> Xdddd
+[20:21:47] [Async Chat Thread - #11/INFO]: [Not Secure] <nommsmry> Te han calateadl
+[20:21:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2922ms or 58 ticks behind
+[20:22:02] [Async Chat Thread - #11/INFO]: [Not Secure] <Danielitoram> tenemos genrador de oro ahi
+[20:22:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2683ms or 53 ticks behind
+[20:22:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2973ms or 59 ticks behind
+[20:22:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2503ms or 50 ticks behind
+[20:23:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3296ms or 65 ticks behind
+[20:23:12] [Async Chat Thread - #12/INFO]: [Not Secure] <nommsmry> Desaparecieron 34 mamantes
+[20:23:18] [Async Chat Thread - #13/INFO]: [Not Secure] <nommsmry> No estan
+[20:23:21] [Async Chat Thread - #13/INFO]: [Not Secure] <Danielitoram> no tengo ni uno
+[20:23:25] [Server thread/INFO]: Danielitoram issued server command: /give nommsmry minecraft:diamond 34
+[20:23:25] [Server thread/INFO]: [Danielitoram: Gave 34 [Diamond] to nommsmry]
+[20:23:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7960ms or 159 ticks behind
+[20:23:27] [Async Chat Thread - #13/INFO]: [Not Secure] <Danielitoram> mira tu inv
+[20:23:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8283ms or 165 ticks behind
+[20:23:52] [Server thread/INFO]: Danielitoram issued server command: /gamemode creative
+[20:23:52] [Server thread/INFO]: [Danielitoram: Set own game mode to Creative Mode]
+[20:23:57] [Async Chat Thread - #13/INFO]: [Not Secure] <nommsmry> Ya lo encontré
+[20:23:57] [Server thread/INFO]: Danielitoram issued server command: /gamemode survival
+[20:23:57] [Server thread/INFO]: [Danielitoram: Set own game mode to Survival Mode]
+[20:24:05] [Async Chat Thread - #13/INFO]: [Not Secure] <nommsmry> Un aldeano lo tenia bajo su ñata
+[20:24:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7620ms or 152 ticks behind
+[20:24:16] [Async Chat Thread - #13/INFO]: [Not Secure] <Danielitoram> pobrecito
+[20:24:27] [Async Chat Thread - #13/INFO]: [Not Secure] <nommsmry> Ya no se que hacer
+[20:24:30] [Async Chat Thread - #13/INFO]: [Not Secure] <nommsmry> Xdd
+[20:24:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7819ms or 156 ticks behind
+[20:24:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6615ms or 132 ticks behind
+[20:25:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5924ms or 118 ticks behind
+[20:25:34] [Server thread/INFO]: Danielitoram issued server command: /gamerule announceAdvancements true
+[20:25:34] [Server thread/INFO]: [Danielitoram: Gamerule announceAdvancements is now set to: true]
+[20:25:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2854ms or 57 ticks behind
+[20:25:43] [Server thread/INFO]: Danielitoram issued server command: /gamerule doFireTick true
+[20:25:43] [Server thread/INFO]: [Danielitoram: Gamerule doFireTick is now set to: true]
+[20:25:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4573ms or 91 ticks behind
+[20:26:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8118ms or 162 ticks behind
+[20:26:26] [Server thread/INFO]: Danielitoram issued server command: /give Danielitoram minecraft:tnt
+[20:26:26] [Server thread/INFO]: [Danielitoram: Gave 1 [TNT] to Danielitoram]
+[20:26:34] [Server thread/INFO]: Danielitoram issued server command: /give Danielitoram minecraft:flint_and_steel
+[20:26:34] [Server thread/INFO]: [Danielitoram: Gave 1 [Flint and Steel] to Danielitoram]
+[20:26:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9368ms or 187 ticks behind
+[20:26:46] [Server thread/INFO]: Danielitoram was shot by nommsmry
+[20:27:08] [Server thread/INFO]: Danielitoram issued server command: /give Danielitoram tnt[
+[20:27:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10499ms or 209 ticks behind
+[20:27:09] [Server thread/INFO]: Danielitoram issued server command: /give Danielitoram tnt 64
+[20:27:09] [Server thread/INFO]: [Danielitoram: Gave 64 [TNT] to Danielitoram]
+[20:27:21] [Server thread/INFO]: Villager Villager['Farmer'/76, uuid='8594a021-ec0b-4755-88a3-d078aeba271d', l='ServerLevel[world]', x=-271.70, y=60.00, z=911.70, cpos=[-17, 56], tl=372973, v=true] died, message: 'Farmer was blown up by Danielitoram'
+[20:27:21] [Server thread/INFO]: Villager Villager['Villager'/77, uuid='c4fb8304-93cd-4d81-8748-d5f0861a932e', l='ServerLevel[world]', x=-271.48, y=60.00, z=910.76, cpos=[-17, 56], tl=372334, v=true] died, message: 'Villager was blown up by Danielitoram'
+[20:27:24] [Async Chat Thread - #14/INFO]: [Not Secure] <nommsmry> Xdd
+[20:27:31] [Async Chat Thread - #15/INFO]: [Not Secure] <nommsmry> Cayó un aldeano
+[20:27:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9897ms or 197 ticks behind
+[20:27:38] [Async Chat Thread - #15/INFO]: [Not Secure] <nommsmry> Pq no lo dejas jatear
+[20:27:48] [Async Chat Thread - #15/INFO]: [Not Secure] <Danielitoram> estaban ahi
+[20:27:57] [Async Chat Thread - #15/INFO]: [Not Secure] <nommsmry> Si
+[20:28:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11666ms or 233 ticks behind
+[20:28:01] [Server thread/INFO]: Danielitoram issued server command: /fill ~ ~ ~ ~ ~-255 ~
+[20:28:04] [Server thread/INFO]: Danielitoram issued server command: /fill ~ ~ ~ ~ ~-255 ~ tnt[
+[20:28:05] [Server thread/INFO]: Danielitoram issued server command: /fill ~ ~ ~ ~ ~-255 ~ tnt
+[20:28:10] [Server thread/INFO]: Danielitoram issued server command: /fill ~ ~ ~ ~ ~-200 ~ tnt
+[20:28:14] [Server thread/INFO]: Danielitoram issued server command: /fill ~ ~ ~ ~ ~-100 ~ tnt
+[20:28:14] [Server thread/INFO]: [Danielitoram: Successfully filled 101 block(s)]
+[20:28:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8758ms or 175 ticks behind
+[20:28:37] [Server thread/INFO]: Danielitoram was doomed to fall by nommsmry
+[20:28:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10323ms or 206 ticks behind
+[20:28:58] [Async Chat Thread - #16/INFO]: [Not Secure] <nommsmry> Y ahora como explicamos eso
+[20:29:02] [Async Chat Thread - #17/INFO]: [Not Secure] <Danielitoram> spawner
+[20:29:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9204ms or 184 ticks behind
+[20:29:13] [Async Chat Thread - #17/INFO]: [Not Secure] <Danielitoram> encantada
+[20:29:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7584ms or 151 ticks behind
+[20:29:38] [Server thread/INFO]: Danielitoram issued server command: /give Danielitoram minecraft:flint_and_steel
+[20:29:38] [Server thread/INFO]: [Danielitoram: Gave 1 [Flint and Steel] to Danielitoram]
