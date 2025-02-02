@@ -60,3 +60,123 @@
 [20:08:31] [Async Chat Thread - #3/INFO]: [Not Secure] <Danielitoram> habla españapple porfa
 [20:08:33] [Async Chat Thread - #3/INFO]: [Not Secure] <nommsmry> Wood
 [20:08:58] [Async Chat Thread - #3/INFO]: [Not Secure] <nommsmry> We need more chests and also made
+[20:09:25] [Server thread/INFO]: Danielitoram issued server command: /give nommsmry minecraft:acacia_boat 1 [name_tag:pene]
+[20:09:29] [Async Chat Thread - #3/INFO]: [Not Secure] <nommsmry> Madera
+[20:09:35] [Async Chat Thread - #3/INFO]: [Not Secure] <Danielitoram> ya tengo
+[20:09:39] [Async Chat Thread - #3/INFO]: [Not Secure] <nommsmry> Cuanto
+[20:09:42] [Async Chat Thread - #3/INFO]: [Not Secure] <Danielitoram> 1 stack
+[20:09:48] [Async Chat Thread - #3/INFO]: [Not Secure] <nommsmry> Madera o tronco
+[20:09:53] [Async Chat Thread - #3/INFO]: [Not Secure] <Danielitoram> losas
+[20:10:09] [Async Chat Thread - #3/INFO]: [Not Secure] <nommsmry> Metetelo por el poto eso no sirve
+[20:10:17] [Server thread/INFO]: Danielitoram was slain by nommsmry
+[20:10:54] [Async Chat Thread - #3/INFO]: [Not Secure] <Danielitoram> 7gibe nommsmry troncos 65
+[20:11:10] [Server thread/INFO]: Danielitoram issued server command: /give nommsmry minecraft:oak_log 64
+[20:11:10] [Server thread/INFO]: [Danielitoram: Gave 64 [Oak Log] to nommsmry]
+[20:11:14] [Server thread/INFO]: Danielitoram issued server command: /give nommsmry minecraft:oak_log 640
+[20:11:14] [Server thread/INFO]: [Danielitoram: Gave 640 [Oak Log] to nommsmry]
+[20:11:29] [Server thread/INFO]: Danielitoram issued server command: /gamerule randomTickSpeed 100
+[20:11:29] [Server thread/INFO]: [Danielitoram: Gamerule randomTickSpeed is now set to: 100]
+[20:11:40] [Server thread/INFO]: Danielitoram issued server command: /give Danielitoram minecraft:flint_and_steel
+[20:11:40] [Server thread/INFO]: [Danielitoram: Gave 1 [Flint and Steel] to Danielitoram]
+[20:11:48] [Server thread/INFO]: Danielitoram issued server command: /gamerule randomTickSpeed 1000
+[20:11:48] [Server thread/INFO]: [Danielitoram: Gamerule randomTickSpeed is now set to: 1000]
+[20:12:08] [Server thread/INFO]: Danielitoram issued server command: /gamerule randomTickSpeed 10000
+[20:12:08] [Server thread/INFO]: [Danielitoram: Gamerule randomTickSpeed is now set to: 10000]
+[20:12:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2504ms or 50 ticks behind
+[20:12:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12124ms or 242 ticks behind
+[20:13:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9903ms or 198 ticks behind
+[20:13:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9783ms or 195 ticks behind
+[20:13:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9308ms or 186 ticks behind
+[20:14:01] [Server thread/INFO]: Danielitoram issued server command: /summon minecraft:zombified_piglin ~10 ~-2 ~5
+[20:14:01] [Server thread/INFO]: [Danielitoram: Summoned new Zombified Piglin]
+[20:14:09] [Server thread/INFO]: Danielitoram issued server command: /summon minecraft:zombified_piglin ~10 ~-2 ~5
+[20:14:09] [Server thread/INFO]: [Danielitoram: Summoned new Zombified Piglin]
+[20:14:09] [Server thread/INFO]: Danielitoram issued server command: /summon minecraft:zombified_piglin ~10 ~-2 ~5
+[20:14:09] [Server thread/INFO]: [Danielitoram: Summoned new Zombified Piglin]
+[20:14:10] [Server thread/INFO]: Danielitoram issued server command: /summon minecraft:zombified_piglin ~10 ~-2 ~5
+[20:14:10] [Server thread/INFO]: [Danielitoram: Summoned new Zombified Piglin]
+[20:14:10] [Server thread/INFO]: Danielitoram issued server command: /summon minecraft:zombified_piglin ~10 ~-2 ~5
+[20:14:10] [Server thread/INFO]: [Danielitoram: Summoned new Zombified Piglin]
+[20:14:11] [Server thread/INFO]: Danielitoram issued server command: /summon minecraft:zombified_piglin ~10 ~-2 ~5
+[20:14:11] [Server thread/INFO]: [Danielitoram: Summoned new Zombified Piglin]
+[20:14:11] [Server thread/INFO]: Danielitoram issued server command: /summon minecraft:zombified_piglin ~10 ~-2 ~5
+[20:14:11] [Server thread/INFO]: [Danielitoram: Summoned new Zombified Piglin]
+[20:14:11] [Server thread/INFO]: Danielitoram issued server command: /summon minecraft:zombified_piglin ~10 ~-2 ~5
+[20:14:11] [Server thread/INFO]: [Danielitoram: Summoned new Zombified Piglin]
+[20:14:12] [Server thread/INFO]: Danielitoram issued server command: /summon minecraft:zombified_piglin ~10 ~-2 ~5
+[20:14:12] [Server thread/INFO]: [Danielitoram: Summoned new Zombified Piglin]
+[20:14:12] [Server thread/INFO]: Danielitoram issued server command: /summon minecraft:zombified_piglin ~10 ~-2 ~5
+[20:14:12] [Server thread/INFO]: [Danielitoram: Summoned new Zombified Piglin]
+[20:14:13] [Server thread/INFO]: Danielitoram issued server command: /summon minecraft:zombified_piglin ~10 ~-2 ~5
+[20:14:13] [Server thread/INFO]: [Danielitoram: Summoned new Zombified Piglin]
+[20:14:13] [Server thread/INFO]: Danielitoram issued server command: /summon minecraft:zombified_piglin ~10 ~-2 ~5
+[20:14:13] [Server thread/INFO]: [Danielitoram: Summoned new Zombified Piglin]
+[20:14:14] [Server thread/INFO]: Danielitoram issued server command: /summon minecraft:zombified_piglin ~10 ~-2 ~5
+[20:14:14] [Server thread/INFO]: [Danielitoram: Summoned new Zombified Piglin]
+[20:14:14] [Server thread/INFO]: Danielitoram issued server command: /summon minecraft:zombified_piglin ~10 ~-2 ~5
+[20:14:14] [Server thread/INFO]: [Danielitoram: Summoned new Zombified Piglin]
+[20:14:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10935ms or 218 ticks behind
+[20:14:23] [Server thread/INFO]: Danielitoram issued server command: /summon minecraft:zombified_piglin ~10 ~-2 ~20
+[20:14:23] [Server thread/INFO]: [Danielitoram: Summoned new Zombified Piglin]
+[20:14:29] [Server thread/INFO]: Danielitoram issued server command: /summon minecraft:zombified_piglin ~10 ~-2 ~20
+[20:14:29] [Server thread/INFO]: [Danielitoram: Summoned new Zombified Piglin]
+[20:14:30] [Server thread/INFO]: Danielitoram issued server command: /summon minecraft:zombified_piglin ~10 ~-2 ~20
+[20:14:30] [Server thread/INFO]: [Danielitoram: Summoned new Zombified Piglin]
+[20:14:30] [Server thread/INFO]: Danielitoram issued server command: /summon minecraft:zombified_piglin ~10 ~-2 ~20
+[20:14:30] [Server thread/INFO]: [Danielitoram: Summoned new Zombified Piglin]
+[20:14:31] [Server thread/INFO]: Danielitoram issued server command: /summon minecraft:zombified_piglin ~10 ~-2 ~20
+[20:14:31] [Server thread/INFO]: [Danielitoram: Summoned new Zombified Piglin]
+[20:14:31] [Server thread/INFO]: Danielitoram issued server command: /summon minecraft:zombified_piglin ~10 ~-2 ~20
+[20:14:31] [Server thread/INFO]: [Danielitoram: Summoned new Zombified Piglin]
+[20:14:32] [Server thread/INFO]: Danielitoram issued server command: /summon minecraft:zombified_piglin ~10 ~-2 ~20
+[20:14:32] [Server thread/INFO]: [Danielitoram: Summoned new Zombified Piglin]
+[20:14:32] [Server thread/INFO]: Danielitoram issued server command: /summon minecraft:zombified_piglin ~10 ~-2 ~20
+[20:14:32] [Server thread/INFO]: [Danielitoram: Summoned new Zombified Piglin]
+[20:14:33] [Server thread/INFO]: Danielitoram issued server command: /summon minecraft:zombified_piglin ~10 ~-2 ~20
+[20:14:33] [Server thread/INFO]: [Danielitoram: Summoned new Zombified Piglin]
+[20:14:33] [Server thread/INFO]: Danielitoram issued server command: /summon minecraft:zombified_piglin ~10 ~-2 ~20
+[20:14:33] [Server thread/INFO]: [Danielitoram: Summoned new Zombified Piglin]
+[20:14:34] [Server thread/INFO]: Danielitoram issued server command: /summon minecraft:zombified_piglin ~10 ~-2 ~20
+[20:14:34] [Server thread/INFO]: [Danielitoram: Summoned new Zombified Piglin]
+[20:14:34] [Server thread/INFO]: Danielitoram issued server command: /summon minecraft:zombified_piglin ~10 ~-2 ~20
+[20:14:34] [Server thread/INFO]: [Danielitoram: Summoned new Zombified Piglin]
+[20:14:35] [Server thread/INFO]: Danielitoram issued server command: /summon minecraft:zombified_piglin ~10 ~-2 ~20
+[20:14:35] [Server thread/INFO]: [Danielitoram: Summoned new Zombified Piglin]
+[20:14:46] [Async Chat Thread - #4/INFO]: [Not Secure] <Danielitoram> haz que el golem salga
+[20:14:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10041ms or 200 ticks behind
+[20:15:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6438ms or 128 ticks behind
+[20:15:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7217ms or 144 ticks behind
+[20:15:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7352ms or 147 ticks behind
+[20:16:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7329ms or 146 ticks behind
+[20:16:17] [Async Chat Thread - #6/INFO]: [Not Secure] <nommsmry> Pon unn golem p
+[20:16:23] [Server thread/INFO]: Danielitoram issued server command: /effect give @e minecraft:resistance 200 10
+[20:16:24] [Server thread/INFO]: [Danielitoram: Applied effect Resistance to 450 targets]
+[20:16:29] [Server thread/INFO]: Danielitoram issued server command: /effect clear @a
+[20:16:29] [Server thread/INFO]: [Danielitoram: Removed every effect from 2 targets]
+[20:16:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7241ms or 144 ticks behind
+[20:16:41] [Server thread/INFO]: Danielitoram was slain by Zombified Piglin
+[20:16:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5475ms or 109 ticks behind
+[20:17:18] [Async Chat Thread - #8/INFO]: [Not Secure] <Danielitoram> ayuda
+[20:17:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7299ms or 145 ticks behind
+[20:17:19] [Async Chat Thread - #9/INFO]: [Not Secure] <Danielitoram> al golem
+[20:17:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5745ms or 114 ticks behind
+[20:17:55] [Server thread/INFO]: Danielitoram issued server command: /gamemode spectator
+[20:17:55] [Server thread/INFO]: [Danielitoram: Set own game mode to Spectator Mode]
+[20:17:57] [Server thread/INFO]: Danielitoram issued server command: /gamemode creative
+[20:17:57] [Server thread/INFO]: [Danielitoram: Set own game mode to Creative Mode]
+[20:17:58] [Server thread/INFO]: Danielitoram issued server command: /gamemode survival
+[20:17:58] [Server thread/INFO]: [Danielitoram: Set own game mode to Survival Mode]
+[20:18:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5322ms or 106 ticks behind
+[20:18:11] [Server thread/INFO]: Danielitoram issued server command: /effect give Danielitoram minecraft:strength 255 255
+[20:18:11] [Server thread/INFO]: [Danielitoram: Applied effect Strength to Danielitoram]
+[20:18:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4512ms or 90 ticks behind
+[20:18:37] [Server thread/INFO]: Danielitoram was slain by Zombified Piglin
+[20:18:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5304ms or 106 ticks behind
+[20:19:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4995ms or 99 ticks behind
+[20:19:05] [Server thread/INFO]: Danielitoram issued server command: /effect give Danielitoram minecraft:strength 255 255
+[20:19:05] [Server thread/INFO]: [Danielitoram: Applied effect Strength to Danielitoram]
+[20:19:08] [Server thread/INFO]: Danielitoram was slain by Zombified Piglin
+[20:19:14] [Server thread/INFO]: Danielitoram issued server command: /effect give Danielitoram minecraft:strength 255 255
+[20:19:14] [Server thread/INFO]: [Danielitoram: Applied effect Strength to Danielitoram]
+[20:19:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4456ms or 89 ticks behind
+[20:19:23] [Server thread/INFO]: nommsmry has made the advancement [Take Aim]
