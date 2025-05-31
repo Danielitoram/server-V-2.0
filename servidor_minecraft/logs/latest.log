@@ -146,3 +146,59 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [31May2025 15:20:33.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set the time to 1000]
 [31May2025 15:20:36.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Creative Mode]
 [31May2025 15:21:03.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Survival Mode]
+[31May2025 15:21:35.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielitoram was shot by entity.crusty_chunks.rocket
+[31May2025 15:21:35.524] [Server thread/INFO] [tombstone/]: The player Danielitoram has successfully been saved
+[31May2025 15:21:37.186] [Server thread/INFO] [do_a_barrel_roll/]: Client of Danielitoram accepted server config.
+[31May2025 15:23:52.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Creative Mode]
+[31May2025 15:25:02.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielitoram has completed the challenge [Cover Me in Debris]
+[31May2025 15:25:52.873] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element mowziesmobs:frostmaw_spawn took 0 ms
+[31May2025 15:25:55.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Teleported Danielitoram to 224.500000, 91.000000, -191.500000]
+[31May2025 15:26:02.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Survival Mode]
+[31May2025 15:26:16.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Gave 10 [Enchanted Golden Apple] to Danielitoram]
+[31May2025 15:26:21.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielitoram has reached the goal [Postmortal]
+[31May2025 15:26:21.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielitoram Was Shredded by Shrapnel
+[31May2025 15:26:21.329] [Server thread/INFO] [tombstone/]: The player Danielitoram has successfully been saved
+[31May2025 15:26:21.329] [Server thread/INFO] [tombstone/]: The player Danielitoram has successfully been saved
+[31May2025 15:26:23.010] [Server thread/INFO] [do_a_barrel_roll/]: Client of Danielitoram accepted server config.
+[31May2025 15:27:01.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Creative Mode]
+[31May2025 15:27:14.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Survival Mode]
+[31May2025 15:27:21.280] [Server thread/INFO] [tombstone/]: The player Danielitoram has successfully been saved
+[31May2025 15:27:21.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielitoram was shot by entity.crusty_chunks.hv_particle_projectile
+[31May2025 15:27:21.383] [Server thread/INFO] [tombstone/]: The player Danielitoram has successfully been saved
+[31May2025 15:27:22.930] [Server thread/INFO] [do_a_barrel_roll/]: Client of Danielitoram accepted server config.
+[31May2025 15:27:23.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Creative Mode]
+[31May2025 15:27:43.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Survival Mode]
+[31May2025 15:28:05.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielitoram has completed the challenge [Rude Awakening]
+[31May2025 15:30:03.347] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element mowziesmobs:monastery took 2652 ms
+[31May2025 15:30:03.347] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2642ms or 52 ticks behind
+[31May2025 15:30:05.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Creative Mode]
+[31May2025 15:30:10.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Teleported Danielitoram to 176.500000, 84.000000, -2303.500000]
+[31May2025 15:30:42.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Applied effect Night Vision to Danielitoram]
+[31May2025 15:30:45.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Applied effect Night Vision to Danielitoram]
+[31May2025 15:30:56.569] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[31May2025 15:30:56.570] [Worker-Main-16/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[31May2025 15:31:12.282] [Worker-Main-14/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[31May2025 15:31:12.283] [Worker-Main-14/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[31May2025 15:32:13.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Survival Mode]
+[31May2025 15:32:57.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Removed effect Slowness from Danielitoram]
+[31May2025 15:33:09.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Creative Mode]
+[31May2025 15:33:23.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Survival Mode]
+[31May2025 15:34:48.922] [Server thread/INFO] [tombstone/]: The player Danielitoram has successfully been saved
+[31May2025 15:34:48.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielitoram was shot by entity.crusty_chunks.hv_particle_projectile
+[31May2025 15:34:48.986] [Server thread/INFO] [tombstone/]: The player Danielitoram has successfully been saved
+[31May2025 15:34:50.813] [Server thread/INFO] [do_a_barrel_roll/]: Client of Danielitoram accepted server config.
+[31May2025 15:34:52.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Creative Mode]
+[31May2025 15:35:01.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Survival Mode]
+[31May2025 15:35:03.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielitoram has made the advancement [The Most Useful Key]
+[31May2025 15:35:09.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielitoram has made the advancement [Knowledge of Death]
+[31May2025 15:35:09.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielitoram has reached the goal [A Fast Comeback]
+[31May2025 15:35:10.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielitoram has reached the goal [Easy Opening]
+[31May2025 15:37:08.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Creative Mode]
+[31May2025 15:37:17.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Survival Mode]
+[31May2025 15:38:24.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielitoram was slain by Tongbi, the Sculptor
+[31May2025 15:38:24.668] [Server thread/INFO] [tombstone/]: The player Danielitoram has successfully been saved
+[31May2025 15:38:26.524] [Server thread/INFO] [do_a_barrel_roll/]: Client of Danielitoram accepted server config.
+[31May2025 15:38:33.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Gave 1 [Ender Pearl] to Danielitoram]
+[31May2025 15:38:41.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Creative Mode]
+[31May2025 15:38:56.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Survival Mode]
+[31May2025 15:39:17.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Gave 1 [Bluff Rod] to Danielitoram]
