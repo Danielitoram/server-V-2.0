@@ -1,612 +1,440 @@
 {
-  "securitycraft:recipes/misc/sentry": {
+  "minecraft:recipes/redstone/lever": {
     "criteria": {
-      "has_iron": "2025-05-31 18:00:49 +0000"
+      "has_cobblestone": "2025-05-31 20:34:22 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/iron_leggings": {
+  "minecraft:recipes/decorations/ladder": {
     "criteria": {
-      "has_iron_ingot": "2025-05-31 18:00:49 +0000"
+      "has_stick": "2025-05-31 20:34:36 +0000"
     },
     "done": true
   },
-  "minecraft:story/obtain_armor": {
+  "securitycraft:recipes/redstone/reinforced_birch_fence_gate": {
     "criteria": {
-      "iron_helmet": "2025-05-31 17:53:53 +0000"
+      "has_stick": "2025-05-31 20:34:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+  "securitycraft:recipes/redstone/reinforced_crimson_fence_gate": {
     "criteria": {
-      "has_iron_helmet": "2025-05-31 17:53:53 +0000"
+      "has_stick": "2025-05-31 20:34:36 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/misc/blacklist_module": {
+  "securitycraft:recipes/misc/motion_activated_light": {
     "criteria": {
-      "has_iron": "2025-05-31 18:00:49 +0000"
+      "has_stick": "2025-05-31 20:34:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/iron_chestplate": {
+  "securitycraft:recipes/redstone/reinforced_jungle_fence_gate": {
     "criteria": {
-      "has_iron_ingot": "2025-05-31 18:00:49 +0000"
+      "has_stick": "2025-05-31 20:34:36 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/backpack_tank": {
+  "minecraft:recipes/combat/stone_sword": {
     "criteria": {
-      "has_iron": "2025-05-31 18:00:49 +0000"
+      "has_cobblestone": "2025-05-31 20:34:22 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/misc/limited_use_keycard": {
+  "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
-      "has_iron": "2025-05-31 18:00:49 +0000"
+      "has_cobblestone": "2025-05-31 20:34:22 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/misc/bouncing_betty": {
+  "minecraft:recipes/tools/stone_axe": {
     "criteria": {
-      "has_iron": "2025-05-31 18:00:49 +0000"
+      "has_cobblestone": "2025-05-31 20:34:22 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_nugget": {
+  "minecraft:story/mine_stone": {
     "criteria": {
-      "has_iron_ingot": "2025-05-31 18:00:49 +0000"
+      "get_stone": "2025-05-31 20:34:22 +0000"
     },
     "done": true
   },
-  "tombstone:recipes/from_grave_key": {
+  "minecraft:recipes/decorations/furnace": {
     "criteria": {
-      "has_ingredient": "2025-05-31 17:57:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bucket": {
-    "criteria": {
-      "has_iron_ingot": "2025-05-31 18:00:49 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/disguise_module": {
-    "criteria": {
-      "has_iron": "2025-05-31 18:00:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/iron_helmet": {
-    "criteria": {
-      "has_iron_ingot": "2025-05-31 18:00:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/minecart": {
-    "criteria": {
-      "has_iron_ingot": "2025-05-31 18:00:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/iron_hoe": {
-    "criteria": {
-      "has_iron_ingot": "2025-05-31 18:00:49 +0000"
+      "has_cobblestone": "2025-05-31 20:34:22 +0000"
     },
     "done": true
   },
   "legendary_monsters:end_root": {
     "criteria": {
-      "custom_test_name": "2025-05-31 17:50:29 +0000"
+      "custom_test_name": "2025-05-31 20:33:03 +0000"
     },
     "done": true
   },
-  "mekanismtools:alternate_armor": {
+  "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
-      "armor": "2025-05-31 17:53:59 +0000"
+      "has_stick": "2025-05-31 20:34:36 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/redstone/block_change_detector": {
+  "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
-      "has_iron": "2025-05-31 18:00:49 +0000"
+      "has_planks": "2025-05-31 20:34:10 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/decorations/floor_trap": {
+  "securitycraft:recipes/redstone/laser_block": {
     "criteria": {
-      "has_iron": "2025-05-31 18:00:49 +0000"
+      "has_stone": "2025-05-31 20:34:22 +0000"
     },
     "done": true
   },
-  "minecraft:story/smelt_iron": {
+  "securitycraft:recipes/redstone/reinforced_spruce_fence_gate": {
     "criteria": {
-      "iron": "2025-05-31 18:00:49 +0000"
+      "has_stick": "2025-05-31 20:34:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_diorite": {
+    "criteria": {
+      "has_cobblestone": "2025-05-31 20:34:22 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "unlock_right_away": "2025-05-31 17:50:29 +0000"
+      "unlock_right_away": "2025-05-31 20:33:03 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/misc/storage_module": {
+  "minecraft:recipes/misc/stick": {
     "criteria": {
-      "has_iron": "2025-05-31 18:00:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2025-05-31 17:54:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_chestplate": "2025-05-31 17:53:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/shears": {
-    "criteria": {
-      "has_iron_ingot": "2025-05-31 18:00:49 +0000"
+      "has_planks": "2025-05-31 20:34:10 +0000"
     },
     "done": true
   },
   "naturalist:recipes/food/cooked_egg": {
     "criteria": {
-      "has_eggs": "2025-05-31 17:50:29 +0000"
+      "has_eggs": "2025-05-31 20:33:03 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/cherry_boat": {
+  "securitycraft:recipes/misc/reinforced_jungle_fence": {
     "criteria": {
-      "in_water": "2025-05-31 17:51:23 +0000"
+      "has_stick": "2025-05-31 20:34:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-05-31 20:34:22 +0000"
     },
     "done": true
   },
   "mekanism:root": {
     "criteria": {
-      "automatic": "2025-05-31 17:50:28 +0000"
+      "automatic": "2025-05-31 20:33:03 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/chain": {
+  "securitycraft:recipes/misc/reinforced_warped_fence": {
     "criteria": {
-      "has_iron_ingot": "2025-05-31 18:00:49 +0000"
+      "has_stick": "2025-05-31 20:34:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/iron_block": {
+  "minecraft:recipes/building_blocks/stone": {
     "criteria": {
-      "has_iron_ingot": "2025-05-31 18:00:49 +0000"
+      "has_cobblestone": "2025-05-31 20:34:22 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/totem_of_undying": {
+  "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_cobblestone": {
     "criteria": {
-      "used_totem": "2025-05-31 17:56:24 +0000"
+      "has_cobblestone": "2025-05-31 20:34:22 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/bamboo_raft": {
+  "securitycraft:recipes/redstone/reinforced_cherry_fence_gate": {
     "criteria": {
-      "in_water": "2025-05-31 17:51:23 +0000"
+      "has_stick": "2025-05-31 20:34:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/smithing_table": {
+  "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
-      "has_iron_ingot": "2025-05-31 18:00:49 +0000"
+      "has_planks": "2025-05-31 20:34:10 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/transportation/track_mine": {
+  "securitycraft:recipes/misc/reinforced_acacia_fence": {
     "criteria": {
-      "has_iron": "2025-05-31 18:00:49 +0000"
+      "has_stick": "2025-05-31 20:34:36 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/cancel_ghostly_shape": {
+  "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
-      "coded_trigger": "2025-05-31 17:58:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/spruce_boat": {
-    "criteria": {
-      "in_water": "2025-05-31 17:51:23 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/whitelist_module": {
-    "criteria": {
-      "has_iron": "2025-05-31 18:00:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-05-31 17:55:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/birch_boat": {
-    "criteria": {
-      "in_water": "2025-05-31 17:51:23 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/first_knowledge": {
-    "criteria": {
-      "coded_trigger": "2025-05-31 17:58:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/oak_boat": {
-    "criteria": {
-      "in_water": "2025-05-31 17:51:23 +0000"
+      "has_planks": "2025-05-31 20:34:10 +0000"
     },
     "done": true
   },
   "cataclysm:root": {
     "criteria": {
-      "custom_test_name": "2025-05-31 17:50:29 +0000"
+      "custom_test_name": "2025-05-31 20:33:03 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/decorated_pot_simple": {
+  "securitycraft:recipes/redstone/reinforced_acacia_fence_gate": {
     "criteria": {
-      "has_brick": "2025-05-31 17:56:48 +0000"
+      "has_stick": "2025-05-31 20:34:36 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/misc/security_camera": {
+  "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
-      "has_iron": "2025-05-31 18:00:49 +0000"
+      "has_planks": "2025-05-31 20:34:10 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/iron_sword": {
+  "securitycraft:recipes/misc/reinforced_cherry_fence": {
     "criteria": {
-      "has_iron_ingot": "2025-05-31 18:00:49 +0000"
+      "has_stick": "2025-05-31 20:34:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/iron_pickaxe": {
+  "securitycraft:recipes/redstone/reinforced_bamboo_fence_gate": {
     "criteria": {
-      "has_iron_ingot": "2025-05-31 18:00:49 +0000"
+      "has_stick": "2025-05-31 20:34:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/mangrove_boat": {
+  "securitycraft:recipes/redstone/reinforced_warped_fence_gate": {
     "criteria": {
-      "in_water": "2025-05-31 17:51:23 +0000"
+      "has_stick": "2025-05-31 20:34:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/shield": {
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
-      "has_iron_ingot": "2025-05-31 18:00:49 +0000"
+      "has_planks": "2025-05-31 20:34:10 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/hopper": {
+  "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
-      "has_iron_ingot": "2025-05-31 18:00:49 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/iron": {
-    "criteria": {
-      "has_iron_ingot": "2025-05-31 18:00:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/iron_bars": {
-    "criteria": {
-      "has_iron_ingot": "2025-05-31 18:00:49 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/briefcase": {
-    "criteria": {
-      "has_iron": "2025-05-31 18:00:49 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_fence_gate": {
-    "criteria": {
-      "has_iron": "2025-05-31 18:00:49 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/electrified_iron_fence": {
-    "criteria": {
-      "has_iron": "2025-05-31 18:00:49 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/iron_tier_upgrade": {
-    "criteria": {
-      "has_iron_ingot": "2025-05-31 18:00:49 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/keycard_lv5": {
-    "criteria": {
-      "has_iron": "2025-05-31 18:00:49 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/keycard_lv3": {
-    "criteria": {
-      "has_iron": "2025-05-31 18:00:49 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/keycard_lv4": {
-    "criteria": {
-      "has_iron": "2025-05-31 18:00:49 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/keycard_lv1": {
-    "criteria": {
-      "has_iron": "2025-05-31 18:00:49 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/keycard_lv2": {
-    "criteria": {
-      "has_iron": "2025-05-31 18:00:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/iron_boots": {
-    "criteria": {
-      "has_iron_ingot": "2025-05-31 18:00:49 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/hose_nozzle": {
-    "criteria": {
-      "has_iron": "2025-05-31 18:00:49 +0000"
+      "has_cobblestone": "2025-05-31 20:34:22 +0000"
     },
     "done": true
   },
   "dungeons_arise:wda_root": {
     "criteria": {
-      "WDA": "2025-05-31 17:50:29 +0000"
+      "WDA": "2025-05-31 20:33:03 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/lantern": {
+  "minecraft:recipes/decorations/campfire": {
     "criteria": {
-      "has_iron_ingot": "2025-05-31 18:00:49 +0000"
+      "has_stick": "2025-05-31 20:34:36 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/misc/mine": {
+  "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
-      "has_iron": "2025-05-31 18:00:49 +0000"
+      "has_stick": "2025-05-31 20:34:36 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/first_grave": {
+  "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
-      "coded_trigger": "2025-05-31 17:57:55 +0000"
+      "has_stick": "2025-05-31 20:34:36 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/misc/harming_module": {
+  "securitycraft:recipes/misc/sonic_security_system": {
     "criteria": {
-      "has_iron": "2025-05-31 18:00:49 +0000"
+      "has_stick": "2025-05-31 20:34:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/iron_shovel": {
+  "securitycraft:recipes/redstone/reinforced_mangrove_fence_gate": {
     "criteria": {
-      "has_iron_ingot": "2025-05-31 18:00:49 +0000"
+      "has_stick": "2025-05-31 20:34:36 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/enderman": {
+  "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
-      "has_ender_pearl": "2025-05-31 17:58:02 +0000"
+      "has_planks": "2025-05-31 20:34:10 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/salvage_sherd": {
+  "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
-      "has_sherd": "2025-05-31 17:56:48 +0000"
-    },
-    "done": false
-  },
-  "mekanismtools:paxel": {
-    "criteria": {
-      "any_paxel": "2025-05-31 17:54:03 +0000"
+      "has_planks": "2025-05-31 20:34:10 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/misc/smart_module": {
+  "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
-      "has_iron": "2025-05-31 18:00:49 +0000"
+      "has_planks": "2025-05-31 20:34:10 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/misc/trophy_system": {
+  "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
-      "has_iron": "2025-05-31 18:00:49 +0000"
+      "has_stick": "2025-05-31 20:34:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/brewing/cauldron": {
+  "securitycraft:recipes/misc/reinforced_mangrove_fence": {
     "criteria": {
-      "has_water_bucket": "2025-05-31 17:55:50 +0000"
+      "has_stick": "2025-05-31 20:34:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/acacia_boat": {
+  "securitycraft:recipes/building_blocks/reinforced_andesite": {
     "criteria": {
-      "in_water": "2025-05-31 17:51:23 +0000"
+      "has_cobblestone": "2025-05-31 20:34:22 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/iron_trapdoor": {
+  "securitycraft:recipes/redstone/reinforced_dark_oak_fence_gate": {
     "criteria": {
-      "has_iron_ingot": "2025-05-31 18:00:49 +0000"
+      "has_stick": "2025-05-31 20:34:36 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/root": {
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
-      "killed_something": "2025-05-31 17:54:59 +0000"
+      "has_cobblestone": "2025-05-31 20:34:22 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/iron_axe": {
+  "paraglider:recipes/misc/paraglider": {
     "criteria": {
-      "has_iron_ingot": "2025-05-31 18:00:49 +0000"
+      "has_stick": "2025-05-31 20:34:36 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/teleport_to_grave": {
+  "securitycraft:recipes/building_blocks/reinforced_diorite": {
     "criteria": {
-      "coded_trigger": "2025-05-31 17:58:15 +0000"
+      "has_cobblestone": "2025-05-31 20:34:22 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/crossbow": {
+  "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
-      "has_iron_ingot": "2025-05-31 18:00:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_nugget_from_blasting": {
-    "criteria": {
-      "has_iron_helmet": "2025-05-31 17:53:53 +0000"
-    },
-    "done": true
-  },
-  "tombstone:recipes/from_grave_dust": {
-    "criteria": {
-      "has_ingredient": "2025-05-31 18:00:44 +0000"
+      "has_stick": "2025-05-31 20:34:36 +0000"
     },
     "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:wooded_badlands": "2025-05-31 17:53:26 +0000",
-      "minecraft:badlands": "2025-05-31 17:53:28 +0000",
-      "minecraft:river": "2025-05-31 17:52:10 +0000",
-      "minecraft:forest": "2025-05-31 17:53:32 +0000",
-      "minecraft:desert": "2025-05-31 17:53:19 +0000",
-      "minecraft:plains": "2025-05-31 17:50:29 +0000"
+      "minecraft:snowy_slopes": "2025-05-31 20:33:04 +0000",
+      "minecraft:stony_shore": "2025-05-31 20:33:17 +0000"
     },
     "done": false
   },
-  "tombstone:adventure/easy_opening": {
+  "minecraft:recipes/decorations/barrel": {
     "criteria": {
-      "coded_trigger": "2025-05-31 17:58:16 +0000"
+      "has_planks": "2025-05-31 20:34:10 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/misc/speed_module": {
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
-      "has_iron": "2025-05-31 18:00:49 +0000"
+      "has_cobblestone": "2025-05-31 20:34:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-05-31 20:34:22 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_birch_fence": {
+    "criteria": {
+      "has_stick": "2025-05-31 20:34:36 +0000"
     },
     "done": true
   },
   "legendary_monsters:legendary_monsters_root": {
     "criteria": {
-      "custom_test_name": "2025-05-31 17:50:29 +0000"
+      "custom_test_name": "2025-05-31 20:33:03 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/balanced_diet": {
+  "securitycraft:recipes/misc/reinforced_dark_oak_fence": {
     "criteria": {
-      "golden_apple": "2025-05-31 17:55:57 +0000"
-    },
-    "done": false
-  },
-  "securitycraft:recipes/misc/camera_monitor": {
-    "criteria": {
-      "has_iron": "2025-05-31 18:00:49 +0000"
+      "has_stick": "2025-05-31 20:34:36 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/enchant_grave_key": {
+  "securitycraft:recipes/misc/reinforced_oak_fence": {
     "criteria": {
-      "has_upgraded_grave_key": "2025-05-31 17:58:08 +0000"
+      "has_stick": "2025-05-31 20:34:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-05-31 20:34:22 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_oak_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-05-31 20:34:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-05-31 20:34:22 +0000"
     },
     "done": true
   },
   "legendary_monsters:nether_root": {
     "criteria": {
-      "custom_test_name": "2025-05-31 17:50:29 +0000"
+      "custom_test_name": "2025-05-31 20:33:03 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/misc/redstone_module": {
+  "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
-      "has_iron": "2025-05-31 18:00:49 +0000"
+      "has_planks": "2025-05-31 20:34:10 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/ashes_and_bones": {
+  "securitycraft:recipes/misc/reinforced_bamboo_fence": {
     "criteria": {
-      "coded_trigger": "2025-05-31 17:58:30 +0000"
+      "has_stick": "2025-05-31 20:34:36 +0000"
     },
     "done": true
   },
-  "cataclysm:find_cursed_pyramid": {
+  "securitycraft:recipes/misc/reinforced_crimson_fence": {
     "criteria": {
-      "pyramid": "2025-05-31 17:53:19 +0000"
+      "has_stick": "2025-05-31 20:34:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-05-31 20:34:22 +0000"
     },
     "done": true
   },
   "tombstone:adventure/root": {
     "criteria": {
-      "auto": "2025-05-31 17:50:29 +0000"
+      "auto": "2025-05-31 20:33:04 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/misc/door_indestructible_iron_item": {
+  "securitycraft:recipes/misc/reinforced_spruce_fence": {
     "criteria": {
-      "has_iron": "2025-05-31 18:00:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/iron_door": {
-    "criteria": {
-      "has_iron_ingot": "2025-05-31 18:00:49 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/tools/universal_block_remover": {
-    "criteria": {
-      "has_iron": "2025-05-31 18:00:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/jungle_boat": {
-    "criteria": {
-      "in_water": "2025-05-31 17:51:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
-    "criteria": {
-      "has_iron_ingot": "2025-05-31 18:00:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/dark_oak_boat": {
-    "criteria": {
-      "in_water": "2025-05-31 17:51:23 +0000"
+      "has_stick": "2025-05-31 20:34:36 +0000"
     },
     "done": true
   },
