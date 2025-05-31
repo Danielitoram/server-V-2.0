@@ -567,3 +567,31 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [31May2025 17:57:55.027] [Server thread/INFO] [tombstone/]: The player Danielitoram has successfully been saved
 [31May2025 17:57:56.647] [Server thread/INFO] [do_a_barrel_roll/]: Client of Danielitoram accepted server config.
 [31May2025 17:57:59.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Creative Mode]
+[31May2025 17:58:06.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Survival Mode]
+[31May2025 17:58:08.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielitoram has made the advancement [The Most Useful Key]
+[31May2025 17:58:09.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Creative Mode]
+[31May2025 17:58:15.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielitoram has made the advancement [Knowledge of Death]
+[31May2025 17:58:15.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielitoram has reached the goal [A Fast Comeback]
+[31May2025 17:58:16.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielitoram has reached the goal [Easy Opening]
+[31May2025 17:58:18.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielitoram has reached the goal [Here They Come]
+[31May2025 17:58:21.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Applied effect Night Vision to Danielitoram]
+[31May2025 17:58:30.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielitoram has made the advancement [Ashes 'n Bones]
+[31May2025 17:58:34.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Survival Mode]
+[31May2025 17:59:14.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielitoram was burnt to a crisp whilst fighting Wadjet
+[31May2025 17:59:14.106] [Server thread/INFO] [tombstone/]: The player Danielitoram has successfully been saved
+[31May2025 17:59:15.485] [Server thread/INFO] [do_a_barrel_roll/]: Client of Danielitoram accepted server config.
+[31May2025 17:59:25.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Creative Mode]
+[31May2025 17:59:39.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Applied effect Night Vision to Danielitoram]
+[31May2025 17:59:47.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Survival Mode]
+[31May2025 18:00:49.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielitoram has made the advancement [Acquire Hardware]
+[31May2025 18:00:59.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Spectator Mode]
+[31May2025 18:01:34.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Survival Mode]
+[31May2025 18:02:35.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Spectator Mode]
+[31May2025 18:02:38.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Survival Mode]
+[31May2025 18:05:22.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielitoram was slain by Kobolediator
+[31May2025 18:05:22.055] [Server thread/INFO] [tombstone/]: The player Danielitoram has successfully been saved
+[31May2025 18:05:23.585] [Server thread/INFO] [do_a_barrel_roll/]: Client of Danielitoram accepted server config.
+[31May2025 18:05:35.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Gave 1 [Ender Pearl] to Danielitoram]
+[31May2025 18:05:38.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Creative Mode]
+[31May2025 18:06:07.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Applied effect Night Vision to Danielitoram]
+[31May2025 18:06:38.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Survival Mode]
