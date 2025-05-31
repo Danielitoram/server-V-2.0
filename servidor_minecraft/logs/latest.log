@@ -595,3 +595,18 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [31May2025 18:05:38.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Creative Mode]
 [31May2025 18:06:07.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Applied effect Night Vision to Danielitoram]
 [31May2025 18:06:38.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Survival Mode]
+[31May2025 18:09:06.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Creative Mode]
+[31May2025 18:13:22.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Survival Mode]
+[31May2025 18:14:15.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielitoram was killed by Ancient Remnant using magic
+[31May2025 18:14:15.205] [Server thread/INFO] [tombstone/]: The player Danielitoram has successfully been saved
+[31May2025 18:14:17.208] [Server thread/INFO] [do_a_barrel_roll/]: Client of Danielitoram accepted server config.
+[31May2025 18:14:18.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Creative Mode]
+[31May2025 18:14:24.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Gave 1 [Ender Pearl] to Danielitoram]
+[31May2025 18:14:25.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Survival Mode]
+[31May2025 18:14:28.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Creative Mode]
+[31May2025 18:15:08.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielitoram has made the advancement [Hot Stuff]
+[31May2025 18:16:44.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Applied effect Night Vision to Danielitoram]
+[31May2025 18:16:51.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Applied effect Strength to Danielitoram]
+[31May2025 18:17:09.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Survival Mode]
+[31May2025 18:17:12.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Creative Mode]
+[31May2025 18:17:43.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Survival Mode]
