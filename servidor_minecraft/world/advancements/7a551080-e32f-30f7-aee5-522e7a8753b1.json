@@ -976,6 +976,7 @@
       "minecraft:spider": "2025-05-31 22:32:11 +0000",
       "minecraft:creeper": "2025-05-31 21:11:20 +0000",
       "minecraft:husk": "2025-05-31 21:23:09 +0000",
+      "minecraft:cave_spider": "2025-06-16 23:47:54 +0000",
       "minecraft:zombie": "2025-05-31 21:13:59 +0000"
     },
     "done": false
@@ -1171,6 +1172,7 @@
       "cooked_porkchop": "2025-05-31 21:21:14 +0000",
       "pumpkin_pie": "2025-05-31 21:17:20 +0000",
       "bread": "2025-05-31 21:46:58 +0000",
+      "golden_apple": "2025-06-16 23:43:07 +0000",
       "melon_slice": "2025-05-31 21:27:16 +0000",
       "carrot": "2025-05-31 21:16:58 +0000"
     },
@@ -2643,6 +2645,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-16 23:17:32 +0000"
+    },
+    "done": true
+  },
+  "enemyexpansion:hunted": {
+    "criteria": {
+      "hunted_0": "2025-06-16 23:42:49 +0000"
     },
     "done": true
   },

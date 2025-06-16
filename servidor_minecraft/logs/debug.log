@@ -4791,3 +4791,47 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [16Jun2025 23:36:24.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Gave 10 [Cave Creeper Spawn Egg] to Danielitoram]
 [16Jun2025 23:36:46.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Creative Mode]
 [16Jun2025 23:36:54.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Survival Mode]
+[16Jun2025 23:38:51.247] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jun2025 23:38:51.257] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jun2025 23:39:57.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Teleported Danielitoram to Jacktrebor2]
+[16Jun2025 23:40:16.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nommsmry was slain by Jacktrebor2
+[16Jun2025 23:40:16.158] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for nommsmry with unique ID travelersbackpack.iron_golem_16.06.2025-23.40.16.dat
+[16Jun2025 23:40:16.158] [Server thread/DEBUG] [tombstone/]: A new grave of the player nommsmry was created at position [x:151, y:-46, z:1069, dim:minecraft:overworld]
+[16Jun2025 23:40:16.159] [Server thread/INFO] [tombstone/]: The player nommsmry has successfully been saved
+[16Jun2025 23:40:17.670] [Server thread/INFO] [do_a_barrel_roll/]: Client of nommsmry accepted server config.
+[16Jun2025 23:40:21.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Teleported nommsmry to Danielitoram]
+[16Jun2025 23:41:02.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Applied effect Night Vision to nommsmry]
+[16Jun2025 23:42:49.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacktrebor2 has reached the goal [Hunted]
+[16Jun2025 23:43:02.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nommsmry has made the advancement [Multi-Tool]
+[16Jun2025 23:43:08.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Creative Mode]
+[16Jun2025 23:43:19.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Survival Mode]
+[16Jun2025 23:43:29.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Creative Mode]
+[16Jun2025 23:43:41.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Survival Mode]
+[16Jun2025 23:43:51.253] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jun2025 23:43:51.264] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jun2025 23:45:02.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacktrebor2 was blown up by Intruder
+[16Jun2025 23:45:02.728] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Jacktrebor2 with unique ID travelersbackpack.standard_16.06.2025-23.45.02.dat
+[16Jun2025 23:45:02.730] [Server thread/INFO] [tombstone/]: The player Jacktrebor2 has successfully been saved
+[16Jun2025 23:45:04.584] [Server thread/INFO] [do_a_barrel_roll/]: Client of Jacktrebor2 accepted server config.
+[16Jun2025 23:45:16.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Teleported Jacktrebor2 to Danielitoram]
+[16Jun2025 23:45:35.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacktrebor2 was slain by nommsmry
+[16Jun2025 23:45:35.689] [Server thread/DEBUG] [tombstone/]: A new grave of the player Jacktrebor2 was created at position [x:140, y:-47, z:1077, dim:minecraft:overworld]
+[16Jun2025 23:45:35.690] [Server thread/INFO] [tombstone/]: The player Jacktrebor2 has successfully been saved
+[16Jun2025 23:45:37.091] [Server thread/INFO] [do_a_barrel_roll/]: Client of Jacktrebor2 accepted server config.
+[16Jun2025 23:45:40.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Teleported Jacktrebor2 to Danielitoram]
+[16Jun2025 23:45:59.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nommsmry has made the advancement [Funeral Theft]
+[16Jun2025 23:45:59.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nommsmry has reached the goal [Discreet Search]
+[16Jun2025 23:46:11.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Spectator Mode]
+[16Jun2025 23:46:25.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Teleported Jacktrebor2 to Danielitoram]
+[16Jun2025 23:46:27.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Creative Mode]
+[16Jun2025 23:46:34.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Spectator Mode]
+[16Jun2025 23:46:45.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Survival Mode]
+[16Jun2025 23:46:47.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Spectator Mode]
+[16Jun2025 23:46:48.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Survival Mode]
+[16Jun2025 23:46:56.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Creative Mode]
+[16Jun2025 23:47:14.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Survival Mode]
+[16Jun2025 23:48:15.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Spectator Mode]
+[16Jun2025 23:48:27.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Creative Mode]
+[16Jun2025 23:48:51.255] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Jun2025 23:48:51.264] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jun2025 23:48:53.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Survival Mode]
