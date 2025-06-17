@@ -3806,3 +3806,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [17Jun2025 22:50:48.402] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/4967, l='ServerLevel[world]', x=1120.68, y=134.01, z=32.99] died: Dinnerbone was shot by Dinnerbone
 [17Jun2025 22:50:51.802] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/5075, l='ServerLevel[world]', x=1116.25, y=134.01, z=41.48] died: Dinnerbone was shot by Dinnerbone
 [17Jun2025 22:50:58.400] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/5076, l='ServerLevel[world]', x=1115.92, y=134.01, z=32.99] died: Dinnerbone was shot by Dinnerbone
+[17Jun2025 22:52:06.824] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jun2025 22:52:06.834] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jun2025 22:54:25.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nommsmry has made the advancement [Where Is The Stone Pen?]
+[17Jun2025 22:57:06.821] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jun2025 22:57:06.831] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jun2025 22:58:58.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nommsmry has made the advancement [Spooky Scary Skeleton]
+[17Jun2025 23:02:06.821] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jun2025 23:02:06.831] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
