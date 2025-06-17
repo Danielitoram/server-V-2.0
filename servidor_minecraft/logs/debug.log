@@ -4965,3 +4965,16 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [17Jun2025 00:04:41.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacktrebor2 has made the advancement [Knowledge raises the soul]
 [17Jun2025 00:08:51.250] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [17Jun2025 00:08:51.260] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jun2025 00:13:51.263] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jun2025 00:13:51.274] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jun2025 00:16:45.722] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/23197, l='ServerLevel[world]', x=222.69, y=65.00, z=1033.39] died, message: 'Villager was slain by Equestrian'
+[17Jun2025 00:17:59.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nommsmry was slain by Drunken Villager
+[17Jun2025 00:17:59.525] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for nommsmry with unique ID travelersbackpack.iron_golem_17.06.2025-00.17.59.dat
+[17Jun2025 00:17:59.526] [Server thread/DEBUG] [tombstone/]: A new grave of the player nommsmry was created at position [x:94, y:42, z:1063, dim:minecraft:overworld]
+[17Jun2025 00:17:59.528] [Server thread/INFO] [tombstone/]: The player nommsmry has successfully been saved
+[17Jun2025 00:18:01.005] [Server thread/INFO] [do_a_barrel_roll/]: Client of nommsmry accepted server config.
+[17Jun2025 00:18:21.119] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/23125, l='ServerLevel[world]', x=113.70, y=71.00, z=1063.50] died, message: 'Fisherman was slain by Drunken Villager'
+[17Jun2025 00:18:51.247] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jun2025 00:18:51.256] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jun2025 00:18:59.622] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/48566, l='ServerLevel[world]', x=104.37, y=75.00, z=1082.27] died: Drunken Villager was slain by Iron Golem
+[17Jun2025 00:19:38.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jacktrebor2> sd
