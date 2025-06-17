@@ -51,8 +51,16 @@
     "criteria": {
       "minecraft:taiga": "2025-06-16 23:05:24 +0000",
       "minecraft:cherry_grove": "2025-05-31 21:04:11 +0000",
+      "minecraft:sunflower_plains": "2025-06-17 01:14:31 +0000",
+      "minecraft:windswept_hills": "2025-06-17 00:51:09 +0000",
+      "minecraft:beach": "2025-06-17 01:06:23 +0000",
       "minecraft:river": "2025-05-31 21:39:29 +0000",
+      "minecraft:dripstone_caves": "2025-06-17 01:12:08 +0000",
       "minecraft:forest": "2025-05-31 21:44:02 +0000",
+      "minecraft:windswept_forest": "2025-06-17 00:49:33 +0000",
+      "minecraft:windswept_savanna": "2025-06-17 01:06:43 +0000",
+      "minecraft:flower_forest": "2025-06-17 01:14:39 +0000",
+      "minecraft:old_growth_birch_forest": "2025-06-17 01:09:24 +0000",
       "minecraft:plains": "2025-05-31 21:16:56 +0000"
     },
     "done": false
@@ -2397,63 +2405,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_deepslate": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-06-16 23:17:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-06-16 23:17:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_leggings": {
-    "criteria": {
-      "has_diamond": "2025-06-16 23:14:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-06-16 23:20:24 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2025-06-16 22:58:23 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/neighborhood_brawl": {
+  "minecraft:recipes/food/baked_potato": {
     "criteria": {
-      "coded_trigger": "2025-06-17 00:36:06 +0000"
+      "has_potato": "2025-06-16 22:58:23 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/purple_bed": {
+  "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
-      "has_purple_wool": "2025-06-17 00:08:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-06-16 23:20:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-06-16 23:17:32 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/fox": {
-    "criteria": {
-      "has_sweet_berries": "2025-06-16 23:08:36 +0000"
+      "has_potato": "2025-06-16 22:58:23 +0000"
     },
     "done": true
   },
@@ -2463,15 +2429,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
+  "minecraft:recipes/food/cookie": {
     "criteria": {
-      "has_mud_bricks": "2025-06-17 00:27:45 +0000"
+      "has_cocoa": "2025-06-16 22:58:39 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/blast_furnace_upgrade": {
+  "travelersbackpack:recipes/misc/fox": {
     "criteria": {
-      "has_blank_upgrade": "2025-06-16 23:58:44 +0000"
+      "has_sweet_berries": "2025-06-16 23:08:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2025-06-16 23:11:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-06-16 23:14:39 +0000"
     },
     "done": true
   },
@@ -2487,81 +2465,9 @@
     },
     "done": true
   },
-  "mekanismtools:not_enough_shielding": {
-    "criteria": {
-      "shields": "2025-06-16 23:31:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2025-06-16 23:14:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato": {
-    "criteria": {
-      "has_potato": "2025-06-16 22:58:23 +0000"
-    },
-    "done": true
-  },
-  "mekanismtools:alternate_armor": {
-    "criteria": {
-      "armor": "2025-06-16 23:28:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-06-17 00:15:51 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/choose_knowledge": {
-    "criteria": {
-      "coded_trigger": "2025-06-17 00:04:41 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/crafting_upgrade": {
-    "criteria": {
-      "has_blank_upgrade": "2025-06-16 23:58:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-06-16 23:17:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mud_brick_wall": {
-    "criteria": {
-      "has_mud_bricks": "2025-06-17 00:27:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-06-16 23:17:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_button": {
-    "criteria": {
-      "has_planks": "2025-06-16 23:20:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-06-16 23:17:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mud_brick_stairs_from_mud_bricks_stonecutting": {
-    "criteria": {
-      "has_mud_bricks": "2025-06-17 00:27:45 +0000"
     },
     "done": true
   },
@@ -2571,15 +2477,93 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
-      "has_granite": "2025-06-17 00:15:51 +0000"
+      "has_diamond": "2025-06-16 23:14:39 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/tanks_upgrade": {
+  "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
-      "has_blank_upgrade": "2025-06-16 23:58:44 +0000"
+      "has_diamond": "2025-06-16 23:14:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-06-16 23:14:39 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/diamond_tier_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-06-16 23:14:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-06-16 23:14:39 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond": "2025-06-16 23:14:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-06-16 23:14:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-06-16 23:14:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-06-16 23:14:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-16 23:17:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-16 23:17:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-16 23:17:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-16 23:17:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-16 23:17:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-16 23:17:32 +0000"
     },
     "done": true
   },
@@ -2595,45 +2579,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/purple_carpet": {
-    "criteria": {
-      "has_purple_wool": "2025-06-17 00:08:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cookie": {
-    "criteria": {
-      "has_cocoa": "2025-06-16 22:58:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-06-17 00:15:51 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-16 23:17:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_hoe": {
-    "criteria": {
-      "has_diamond": "2025-06-16 23:14:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_stairs": {
-    "criteria": {
-      "has_planks": "2025-06-16 23:20:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_shovel": {
-    "criteria": {
-      "has_diamond": "2025-06-16 23:14:39 +0000"
     },
     "done": true
   },
@@ -2643,87 +2591,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/granite_slab": {
-    "criteria": {
-      "has_granite": "2025-06-17 00:15:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/purple_banner": {
-    "criteria": {
-      "has_purple_wool": "2025-06-17 00:08:06 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/decorations/purple_sleeping_bag": {
-    "criteria": {
-      "has_purple_wool": "2025-06-17 00:08:06 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-16 23:17:32 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/feeding_upgrade": {
-    "criteria": {
-      "has_blank_upgrade": "2025-06-16 23:58:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-06-16 23:20:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dark_oak_fence": {
-    "criteria": {
-      "has_planks": "2025-06-16 23:20:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_boots": {
-    "criteria": {
-      "has_diamond": "2025-06-16 23:14:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
-    "criteria": {
-      "has_blue_orchid": "2025-06-16 23:11:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_slab": {
-    "criteria": {
-      "has_planks": "2025-06-16 23:20:24 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/diamond_tier_upgrade": {
-    "criteria": {
-      "has_diamond": "2025-06-16 23:14:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_door": {
-    "criteria": {
-      "has_planks": "2025-06-16 23:20:24 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-16 23:17:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mud_brick_slab": {
-    "criteria": {
-      "has_mud_bricks": "2025-06-17 00:27:45 +0000"
     },
     "done": true
   },
@@ -2739,39 +2615,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/granite_stairs": {
-    "criteria": {
-      "has_granite": "2025-06-17 00:15:51 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/jukebox_upgrade": {
-    "criteria": {
-      "has_blank_upgrade": "2025-06-16 23:58:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-06-17 00:15:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mud_brick_stairs": {
-    "criteria": {
-      "has_mud_bricks": "2025-06-17 00:27:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-16 23:17:32 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/smoker_upgrade": {
-    "criteria": {
-      "has_blank_upgrade": "2025-06-16 23:58:44 +0000"
     },
     "done": true
   },
@@ -2787,51 +2633,81 @@
     },
     "done": true
   },
-  "tombstone:adventure/bone_crusher": {
-    "criteria": {
-      "coded_trigger": "2025-06-17 00:28:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/granite_wall": {
-    "criteria": {
-      "has_granite": "2025-06-17 00:15:51 +0000"
-    },
-    "done": true
-  },
-  "enemyexpansion:hunted": {
-    "criteria": {
-      "hunted_0": "2025-06-16 23:42:49 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/pickup_upgrade": {
-    "criteria": {
-      "has_blank_upgrade": "2025-06-16 23:58:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-16 23:17:32 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
-      "has_granite": "2025-06-17 00:15:51 +0000"
+      "has_cobbled_deepslate": "2025-06-16 23:17:32 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato_from_smoking": {
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
-      "has_potato": "2025-06-16 22:58:23 +0000"
+      "has_cobbled_deepslate": "2025-06-16 23:17:32 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/diamond_helmet": {
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
-      "has_diamond": "2025-06-16 23:14:39 +0000"
+      "has_cobbled_deepslate": "2025-06-16 23:17:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-16 23:20:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-16 23:20:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-06-16 23:20:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-16 23:20:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-16 23:20:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-06-16 23:20:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-06-16 23:20:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-06-16 23:20:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-06-16 23:20:24 +0000"
     },
     "done": true
   },
@@ -2841,9 +2717,45 @@
     },
     "done": true
   },
-  "dungeons_arise:find_greenwood_pub": {
+  "mekanism:materials": {
     "criteria": {
-      "location0": "2025-06-17 00:17:59 +0000"
+      "material": "2025-06-16 23:26:13 +0000"
+    },
+    "done": true
+  },
+  "mekanismtools:alternate_armor": {
+    "criteria": {
+      "armor": "2025-06-16 23:28:51 +0000"
+    },
+    "done": true
+  },
+  "mekanismtools:not_enough_shielding": {
+    "criteria": {
+      "shields": "2025-06-16 23:31:56 +0000"
+    },
+    "done": true
+  },
+  "enemyexpansion:hunted": {
+    "criteria": {
+      "hunted_0": "2025-06-16 23:42:49 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_haunted_knight": {
+    "criteria": {
+      "ambusher": "2025-06-16 23:51:01 +0000"
+    },
+    "done": true
+  },
+  "mekanismtools:alternate_tools": {
+    "criteria": {
+      "tools": "2025-06-16 23:54:01 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_ambusher": {
+    "criteria": {
+      "ambusher": "2025-06-16 23:55:49 +0000"
     },
     "done": true
   },
@@ -2853,9 +2765,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_granite": {
+  "travelersbackpack:recipes/misc/blast_furnace_upgrade": {
     "criteria": {
-      "has_granite": "2025-06-17 00:15:51 +0000"
+      "has_blank_upgrade": "2025-06-16 23:58:44 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/crafting_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-06-16 23:58:44 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/tanks_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-06-16 23:58:44 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/feeding_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-06-16 23:58:44 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/jukebox_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-06-16 23:58:44 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/smoker_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-06-16 23:58:44 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pickup_upgrade": {
+    "criteria": {
+      "has_blank_upgrade": "2025-06-16 23:58:44 +0000"
     },
     "done": true
   },
@@ -2871,81 +2819,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/cauldron": {
-    "criteria": {
-      "has_water_bucket": "2025-06-17 00:30:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mud_brick_wall_from_mud_bricks_stonecutting": {
-    "criteria": {
-      "has_mud_bricks": "2025-06-17 00:27:45 +0000"
-    },
-    "done": true
-  },
-  "mekanism:materials": {
-    "criteria": {
-      "material": "2025-06-16 23:26:13 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/diamond": {
-    "criteria": {
-      "has_diamond": "2025-06-16 23:14:39 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/misc/magnet_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2025-06-16 23:58:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-06-16 23:17:32 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/teleport_to_grave": {
-    "criteria": {
-      "coded_trigger": "2025-06-17 00:28:49 +0000"
-    },
-    "done": true
-  },
-  "legendary_monsters:defeat_ambusher": {
-    "criteria": {
-      "ambusher": "2025-06-16 23:55:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-06-16 23:17:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diamond_block": {
-    "criteria": {
-      "has_diamond": "2025-06-16 23:14:39 +0000"
-    },
-    "done": true
-  },
-  "legendary_monsters:defeat_haunted_knight": {
-    "criteria": {
-      "ambusher": "2025-06-16 23:51:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-06-16 23:17:32 +0000"
-    },
-    "done": true
-  },
-  "mekanismtools:alternate_tools": {
-    "criteria": {
-      "tools": "2025-06-16 23:54:01 +0000"
     },
     "done": true
   },
@@ -2955,21 +2831,93 @@
     },
     "done": true
   },
-  "tombstone:adventure/enchant_grave_key": {
+  "tombstone:adventure/funeral_theft": {
     "criteria": {
-      "has_upgraded_grave_key": "2025-06-17 00:28:36 +0000"
+      "coded_trigger": "2025-06-17 00:03:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/dark_oak_sign": {
+  "tombstone:adventure/choose_knowledge": {
     "criteria": {
-      "has_planks": "2025-06-16 23:20:24 +0000"
+      "coded_trigger": "2025-06-17 00:04:41 +0000"
     },
     "done": true
   },
-  "minecraft:story/mine_diamond": {
+  "minecraft:recipes/decorations/purple_bed": {
     "criteria": {
-      "diamond": "2025-06-16 23:14:39 +0000"
+      "has_purple_wool": "2025-06-17 00:08:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_carpet": {
+    "criteria": {
+      "has_purple_wool": "2025-06-17 00:08:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_banner": {
+    "criteria": {
+      "has_purple_wool": "2025-06-17 00:08:06 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/purple_sleeping_bag": {
+    "criteria": {
+      "has_purple_wool": "2025-06-17 00:08:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-17 00:15:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-17 00:15:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-17 00:15:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-06-17 00:15:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-06-17 00:15:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-17 00:15:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-06-17 00:15:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-06-17 00:15:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-06-17 00:15:51 +0000"
     },
     "done": true
   },
@@ -2979,15 +2927,93 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_axe": {
+  "dungeons_arise:find_greenwood_pub": {
     "criteria": {
-      "has_diamond": "2025-06-16 23:14:39 +0000"
+      "location0": "2025-06-17 00:17:59 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/funeral_theft": {
+  "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
     "criteria": {
-      "coded_trigger": "2025-06-17 00:03:36 +0000"
+      "has_mud_bricks": "2025-06-17 00:27:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mud_brick_wall": {
+    "criteria": {
+      "has_mud_bricks": "2025-06-17 00:27:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_stairs_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-06-17 00:27:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_slab": {
+    "criteria": {
+      "has_mud_bricks": "2025-06-17 00:27:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_stairs": {
+    "criteria": {
+      "has_mud_bricks": "2025-06-17 00:27:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mud_brick_wall_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-06-17 00:27:45 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-06-17 00:28:04 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-06-17 00:28:36 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-06-17 00:28:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-06-17 00:30:15 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2025-06-17 00:36:06 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2025-06-17 00:42:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-06-17 00:46:04 +0000"
+    },
+    "done": true
+  },
+  "mekanismtools:better_than_netherite": {
+    "criteria": {
+      "armor": "2025-06-17 00:53:18 +0000"
     },
     "done": true
   },
