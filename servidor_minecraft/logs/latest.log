@@ -149,3 +149,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [17Jun2025 23:10:42.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> 5 min
 [17Jun2025 23:10:44.106] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nommsmry lost connection: Disconnected
 [17Jun2025 23:10:44.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nommsmry left the game
+[17Jun2025 23:22:43.759] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nommsmry[/127.151.120.163:49637] logged in with entity id 6934 at (1086.699999988079, 146.0, 69.30000001192093)
+[17Jun2025 23:22:43.766] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player nommsmry
+[17Jun2025 23:22:43.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nommsmry joined the game
+[17Jun2025 23:22:46.304] [Server thread/INFO] [do_a_barrel_roll/]: Client of nommsmry accepted server config.
+[17Jun2025 23:30:31.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nommsmry was slain by Wither Skeleton
+[17Jun2025 23:30:31.411] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for nommsmry with unique ID travelersbackpack.iron_golem_17.06.2025-23.30.31.dat
+[17Jun2025 23:30:31.428] [Server thread/INFO] [tombstone/]: The player nommsmry has successfully been saved
+[17Jun2025 23:30:33.005] [Server thread/INFO] [do_a_barrel_roll/]: Client of nommsmry accepted server config.
