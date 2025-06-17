@@ -3120,6 +3120,12 @@
     },
     "done": true
   },
+  "legendary_monsters:defeat_cloud_golem": {
+    "criteria": {
+      "cloud_golem": "2025-06-17 01:53:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2025-06-17 01:37:55 +0000"
