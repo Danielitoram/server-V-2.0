@@ -4978,3 +4978,153 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [17Jun2025 00:18:51.256] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [17Jun2025 00:18:59.622] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/48566, l='ServerLevel[world]', x=104.37, y=75.00, z=1082.27] died: Drunken Villager was slain by Iron Golem
 [17Jun2025 00:19:38.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jacktrebor2> sd
+[17Jun2025 00:20:38.458] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/48495, l='ServerLevel[world]', x=117.06, y=63.50, z=1071.32] died: Drunken Villager was slain by Jacktrebor2
+[17Jun2025 00:20:40.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nommsmry was slain by Drunken Villager
+[17Jun2025 00:20:40.124] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for nommsmry with unique ID travelersbackpack.iron_golem_17.06.2025-00.20.40.dat
+[17Jun2025 00:20:40.125] [Server thread/DEBUG] [tombstone/]: A new grave of the player nommsmry was created at position [x:111, y:65, z:1076, dim:minecraft:overworld]
+[17Jun2025 00:20:40.133] [Server thread/INFO] [tombstone/]: The player nommsmry has successfully been saved
+[17Jun2025 00:20:41.606] [Server thread/INFO] [do_a_barrel_roll/]: Client of nommsmry accepted server config.
+[17Jun2025 00:21:01.966] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/23130, l='ServerLevel[world]', x=107.26, y=71.00, z=1069.98] died, message: 'Villager was slain by Drunken Villager'
+[17Jun2025 00:21:02.322] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/48419, l='ServerLevel[world]', x=106.52, y=71.00, z=1071.47] died: Drunken Villager was slain by Iron Golem
+[17Jun2025 00:22:11.602] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/49339, l='ServerLevel[world]', x=69.52, y=39.00, z=1053.50] died: Unlicensed Alchemist was slain by Jacktrebor2
+[17Jun2025 00:22:18.040] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/49337, l='ServerLevel[world]', x=63.70, y=36.00, z=1054.50] died: Unlicensed Alchemist was slain by Jacktrebor2
+[17Jun2025 00:22:21.495] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/49395, l='ServerLevel[world]', x=68.49, y=39.00, z=1053.47] died: Unlicensed Alchemist was slain by Jacktrebor2
+[17Jun2025 00:22:22.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nommsmry was killed by Potion using magic
+[17Jun2025 00:22:22.873] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for nommsmry with unique ID travelersbackpack.iron_golem_17.06.2025-00.22.22.dat
+[17Jun2025 00:22:22.874] [Server thread/DEBUG] [tombstone/]: A new grave of the player nommsmry was created at position [x:67, y:38, z:1053, dim:minecraft:overworld]
+[17Jun2025 00:22:22.875] [Server thread/INFO] [tombstone/]: The player nommsmry has successfully been saved
+[17Jun2025 00:22:24.379] [Server thread/INFO] [do_a_barrel_roll/]: Client of nommsmry accepted server config.
+[17Jun2025 00:23:51.240] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jun2025 00:23:51.249] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jun2025 00:24:19.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nommsmry was slain by Drunken Villager
+[17Jun2025 00:24:19.227] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for nommsmry with unique ID travelersbackpack.iron_golem_17.06.2025-00.24.19.dat
+[17Jun2025 00:24:19.227] [Server thread/DEBUG] [tombstone/]: A new grave of the player nommsmry was created at position [x:90, y:46, z:1067, dim:minecraft:overworld]
+[17Jun2025 00:24:19.247] [Server thread/INFO] [tombstone/]: The player nommsmry has successfully been saved
+[17Jun2025 00:24:20.492] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/48416, l='ServerLevel[world]', x=91.63, y=47.00, z=1066.77] died: Drunken Villager was slain by Jacktrebor2
+[17Jun2025 00:24:20.730] [Server thread/INFO] [do_a_barrel_roll/]: Client of nommsmry accepted server config.
+[17Jun2025 00:24:50.251] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/48485, l='ServerLevel[world]', x=91.68, y=47.00, z=1066.78] died: Drunken Villager was slain by Jacktrebor2
+[17Jun2025 00:25:03.656] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/49833, l='ServerLevel[world]', x=87.64, y=44.00, z=1068.88] died: Drunken Villager was slain by nommsmry
+[17Jun2025 00:25:05.357] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/49292, l='ServerLevel[world]', x=87.78, y=44.00, z=1070.17] died: Drunken Villager was slain by nommsmry
+[17Jun2025 00:25:06.182] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/49856, l='ServerLevel[world]', x=87.29, y=44.00, z=1071.30] died: Drunken Villager was slain by nommsmry
+[17Jun2025 00:25:09.582] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/49855, l='ServerLevel[world]', x=87.71, y=44.00, z=1071.21] died: Drunken Villager was slain by nommsmry
+[17Jun2025 00:25:13.195] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/48747, l='ServerLevel[world]', x=88.04, y=44.00, z=1075.60] died: Drunken Villager was slain by Jacktrebor2
+[17Jun2025 00:25:14.897] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/49724, l='ServerLevel[world]', x=87.62, y=44.00, z=1075.23] died: Drunken Villager was slain by Jacktrebor2
+[17Jun2025 00:25:41.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacktrebor2 was slain by Drunken Villager
+[17Jun2025 00:25:41.382] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Jacktrebor2 with unique ID travelersbackpack.standard_17.06.2025-00.25.41.dat
+[17Jun2025 00:25:41.382] [Server thread/DEBUG] [tombstone/]: A new grave of the player Jacktrebor2 was created at position [x:91, y:44, z:1071, dim:minecraft:overworld]
+[17Jun2025 00:25:41.385] [Server thread/INFO] [tombstone/]: The player Jacktrebor2 has successfully been saved
+[17Jun2025 00:25:42.684] [Server thread/INFO] [do_a_barrel_roll/]: Client of Jacktrebor2 accepted server config.
+[17Jun2025 00:25:47.821] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/49900, l='ServerLevel[world]', x=92.77, y=44.00, z=1075.41] died: Drunken Villager was slain by nommsmry
+[17Jun2025 00:26:28.844] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/49919, l='ServerLevel[world]', x=87.50, y=44.00, z=1067.15] died: Drunken Villager was slain by Jacktrebor2
+[17Jun2025 00:26:44.991] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/49262, l='ServerLevel[world]', x=87.60, y=44.00, z=1069.98] died: Unlicensed Alchemist was slain by Jacktrebor2
+[17Jun2025 00:26:50.422] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/49709, l='ServerLevel[world]', x=87.93, y=44.00, z=1067.44] died: Unlicensed Alchemist was slain by nommsmry
+[17Jun2025 00:27:03.780] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/50071, l='ServerLevel[world]', x=87.51, y=44.00, z=1076.01] died: Unlicensed Alchemist was slain by nommsmry
+[17Jun2025 00:27:05.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nommsmry was killed by Potion using magic
+[17Jun2025 00:27:05.122] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for nommsmry with unique ID travelersbackpack.iron_golem_17.06.2025-00.27.05.dat
+[17Jun2025 00:27:05.122] [Server thread/DEBUG] [tombstone/]: A new grave of the player nommsmry was created at position [x:87, y:44, z:1074, dim:minecraft:overworld]
+[17Jun2025 00:27:05.125] [Server thread/INFO] [tombstone/]: The player nommsmry has successfully been saved
+[17Jun2025 00:27:06.584] [Server thread/INFO] [do_a_barrel_roll/]: Client of nommsmry accepted server config.
+[17Jun2025 00:27:24.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> oee
+[17Jun2025 00:27:35.199] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/49807, l='ServerLevel[world]', x=84.12, y=44.00, z=1075.30] died: Unlicensed Alchemist was slain by Jacktrebor2
+[17Jun2025 00:27:41.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> se apago mi fono
+[17Jun2025 00:28:04.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacktrebor2 has reached the goal [Bone Crusher]
+[17Jun2025 00:28:04.595] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/50328, l='ServerLevel[world]', x=91.70, y=47.00, z=1067.66] died: Unlicensed Alchemist was slain by Jacktrebor2
+[17Jun2025 00:28:05.395] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/50363, l='ServerLevel[world]', x=91.63, y=47.00, z=1066.89] died: Unlicensed Alchemist was slain by Jacktrebor2
+[17Jun2025 00:28:05.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacktrebor2 was killed by Potion using magic
+[17Jun2025 00:28:05.923] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Jacktrebor2 with unique ID travelersbackpack.standard_17.06.2025-00.28.05.dat
+[17Jun2025 00:28:05.923] [Server thread/DEBUG] [tombstone/]: A new grave of the player Jacktrebor2 was created at position [x:89, y:48, z:1066, dim:minecraft:overworld]
+[17Jun2025 00:28:05.928] [Server thread/INFO] [tombstone/]: The player Jacktrebor2 has successfully been saved
+[17Jun2025 00:28:07.226] [Server thread/INFO] [do_a_barrel_roll/]: Client of Jacktrebor2 accepted server config.
+[17Jun2025 00:28:20.677] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/49707, l='ServerLevel[world]', x=87.44, y=44.00, z=1068.87] died: Unlicensed Alchemist was slain by nommsmry
+[17Jun2025 00:28:35.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacktrebor2 was slain by Drunken Villager
+[17Jun2025 00:28:35.229] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Jacktrebor2 with unique ID travelersbackpack.standard_17.06.2025-00.28.35.dat
+[17Jun2025 00:28:35.230] [Server thread/DEBUG] [tombstone/]: A new grave of the player Jacktrebor2 was created at position [x:91, y:47, z:1066, dim:minecraft:overworld]
+[17Jun2025 00:28:35.237] [Server thread/INFO] [tombstone/]: The player Jacktrebor2 has successfully been saved
+[17Jun2025 00:28:36.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacktrebor2 has made the advancement [The Most Useful Key]
+[17Jun2025 00:28:36.532] [Server thread/INFO] [do_a_barrel_roll/]: Client of Jacktrebor2 accepted server config.
+[17Jun2025 00:28:41.792] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/50103, l='ServerLevel[world]', x=91.85, y=48.06, z=1066.62] died: Drunken Villager was slain by nommsmry
+[17Jun2025 00:28:44.723] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/50365, l='ServerLevel[world]', x=87.49, y=44.00, z=1068.44] died: Drunken Villager was slain by nommsmry
+[17Jun2025 00:28:49.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacktrebor2 has reached the goal [A Fast Comeback]
+[17Jun2025 00:28:50.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nommsmry was slain by Drunken Villager
+[17Jun2025 00:28:50.327] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for nommsmry with unique ID travelersbackpack.iron_golem_17.06.2025-00.28.50.dat
+[17Jun2025 00:28:50.328] [Server thread/DEBUG] [tombstone/]: A new grave of the player nommsmry was created at position [x:86, y:44, z:1075, dim:minecraft:overworld]
+[17Jun2025 00:28:50.335] [Server thread/INFO] [tombstone/]: The player nommsmry has successfully been saved
+[17Jun2025 00:28:51.246] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jun2025 00:28:51.254] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jun2025 00:28:51.831] [Server thread/INFO] [do_a_barrel_roll/]: Client of nommsmry accepted server config.
+[17Jun2025 00:29:01.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacktrebor2 was slain by Drunken Villager
+[17Jun2025 00:29:01.883] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Jacktrebor2 with unique ID travelersbackpack.standard_17.06.2025-00.29.01.dat
+[17Jun2025 00:29:01.884] [Server thread/DEBUG] [tombstone/]: A new grave of the player Jacktrebor2 was created at position [x:87, y:44, z:1072, dim:minecraft:overworld]
+[17Jun2025 00:29:01.896] [Server thread/INFO] [tombstone/]: The player Jacktrebor2 has successfully been saved
+[17Jun2025 00:29:03.232] [Server thread/INFO] [do_a_barrel_roll/]: Client of Jacktrebor2 accepted server config.
+[17Jun2025 00:29:11.838] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/49973, l='ServerLevel[world]', x=87.85, y=44.00, z=1073.50] died: Drunken Villager was slain by Jacktrebor2
+[17Jun2025 00:29:31.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nommsmry was slain by Drunken Villager
+[17Jun2025 00:29:31.226] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for nommsmry with unique ID travelersbackpack.iron_golem_17.06.2025-00.29.31.dat
+[17Jun2025 00:29:31.226] [Server thread/DEBUG] [tombstone/]: A new grave of the player nommsmry was created at position [x:87, y:44, z:1074, dim:minecraft:overworld]
+[17Jun2025 00:29:31.233] [Server thread/INFO] [tombstone/]: The player nommsmry has successfully been saved
+[17Jun2025 00:29:32.656] [Server thread/INFO] [do_a_barrel_roll/]: Client of nommsmry accepted server config.
+[17Jun2025 00:29:35.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> xdd
+[17Jun2025 00:29:46.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jacktrebor2> mi armadura ta a un hilo
+[17Jun2025 00:29:56.191] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/49972, l='ServerLevel[world]', x=89.15, y=45.67, z=1066.65] died: Drunken Villager was slain by Jacktrebor2
+[17Jun2025 00:30:11.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jacktrebor2> pasa tu cubo de agua
+[17Jun2025 00:30:40.894] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/49959, l='ServerLevel[world]', x=79.30, y=44.00, z=1073.11] died: Unlicensed Alchemist was slain by Jacktrebor2
+[17Jun2025 00:30:48.884] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/49877, l='ServerLevel[world]', x=78.11, y=44.00, z=1073.46] died: Unlicensed Alchemist was slain by Jacktrebor2
+[17Jun2025 00:30:54.789] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Unlicensed Alchemist'/49873, l='ServerLevel[world]', x=78.06, y=44.00, z=1073.48] died: Unlicensed Alchemist was slain by Jacktrebor2
+[17Jun2025 00:31:38.544] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/51035, l='ServerLevel[world]', x=72.33, y=44.00, z=1073.15] died: Drunken Villager was slain by Jacktrebor2
+[17Jun2025 00:31:44.131] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/51100, l='ServerLevel[world]', x=71.15, y=44.00, z=1079.64] died: Drunken Villager was slain by Jacktrebor2
+[17Jun2025 00:32:10.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jacktrebor2> ven
+[17Jun2025 00:32:13.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jacktrebor2> mira
+[17Jun2025 00:32:16.146] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/50656, l='ServerLevel[world]', x=69.47, y=44.00, z=1073.94] died: Drunken Villager was slain by Jacktrebor2
+[17Jun2025 00:32:25.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jacktrebor2> llevate elk ppico
+[17Jun2025 00:33:51.241] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jun2025 00:33:51.251] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jun2025 00:34:40.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jacktrebor2> esta es mi casa porsiacaso
+[17Jun2025 00:34:48.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> yo me lo encontre primero
+[17Jun2025 00:34:57.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jacktrebor2> cerbeza
+[17Jun2025 00:35:17.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jacktrebor2> asi me gusta mi aldeanita
+[17Jun2025 00:35:47.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jacktrebor2> duerme
+[17Jun2025 00:35:55.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> meme
+[17Jun2025 00:36:03.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jacktrebor2> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[17Jun2025 00:36:06.886] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/23129, l='ServerLevel[world]', x=101.55, y=74.56, z=1062.16] died, message: 'Villager was slain by Jacktrebor2'
+[17Jun2025 00:36:06.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacktrebor2 has made the advancement [Neighborhood Brawl]
+[17Jun2025 00:36:09.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> ahora
+[17Jun2025 00:36:32.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> oeee
+[17Jun2025 00:36:40.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> hipersalto nivel 80
+[17Jun2025 00:36:51.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jacktrebor2> haber salta
+[17Jun2025 00:37:09.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> aver
+[17Jun2025 00:37:23.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> mira
+[17Jun2025 00:37:26.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jacktrebor2> ya
+[17Jun2025 00:37:26.633] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nommsmry moved too quickly! 0.0,20.642856943019552,0.0
+[17Jun2025 00:37:30.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jacktrebor2> XDDDDDDDDDDDDDDDDDDDDDDDDD
+[17Jun2025 00:37:35.790] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nommsmry moved too quickly! 0.03427019978539647,16.791201067352304,0.07408076239835282
+[17Jun2025 00:37:38.954] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nommsmry moved too quickly! 0.0,20.547012406435485,0.0
+[17Jun2025 00:37:44.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> pa eso
+[17Jun2025 00:37:52.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jacktrebor2> tengo cabeza de hamburgesa
+[17Jun2025 00:38:02.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nommsmry was killed by Jacktrebor2 using magic
+[17Jun2025 00:38:02.084] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for nommsmry with unique ID travelersbackpack.iron_golem_17.06.2025-00.38.02.dat
+[17Jun2025 00:38:02.085] [Server thread/DEBUG] [tombstone/]: A new grave of the player nommsmry was created at position [x:98, y:63, z:1062, dim:minecraft:overworld]
+[17Jun2025 00:38:02.087] [Server thread/INFO] [tombstone/]: The player nommsmry has successfully been saved
+[17Jun2025 00:38:04.187] [Server thread/INFO] [do_a_barrel_roll/]: Client of nommsmry accepted server config.
+[17Jun2025 00:38:05.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jacktrebor2> XEDDDDDDDDDD
+[17Jun2025 00:38:08.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jacktrebor2> la mrd
+[17Jun2025 00:38:14.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacktrebor2 was killed by Jacktrebor2 using magic
+[17Jun2025 00:38:14.584] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Jacktrebor2 with unique ID travelersbackpack.standard_17.06.2025-00.38.14.dat
+[17Jun2025 00:38:14.585] [Server thread/DEBUG] [tombstone/]: A new grave of the player Jacktrebor2 was created at position [x:97, y:63, z:1061, dim:minecraft:overworld]
+[17Jun2025 00:38:14.587] [Server thread/INFO] [tombstone/]: The player Jacktrebor2 has successfully been saved
+[17Jun2025 00:38:16.887] [Server thread/INFO] [do_a_barrel_roll/]: Client of Jacktrebor2 accepted server config.
+[17Jun2025 00:38:33.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> tengo
+[17Jun2025 00:38:37.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jacktrebor2> tan roto estaba esa webada
+[17Jun2025 00:38:39.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> esta vaina pa tener mas corazones
+[17Jun2025 00:38:49.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jacktrebor2> estatua?
+[17Jun2025 00:38:51.244] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jun2025 00:38:51.253] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jun2025 00:39:12.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> 32 chunks
+[17Jun2025 00:39:13.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jacktrebor2> mira misio
+[17Jun2025 00:39:16.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jacktrebor2> no quiuero
+[17Jun2025 00:39:20.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jacktrebor2> humillarte pero mira
+[17Jun2025 00:39:29.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nommsmry was slain by Jacktrebor2
+[17Jun2025 00:39:29.331] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for nommsmry with unique ID travelersbackpack.iron_golem_17.06.2025-00.39.29.dat
+[17Jun2025 00:39:29.332] [Server thread/DEBUG] [tombstone/]: A new grave of the player nommsmry was created at position [x:104, y:63, z:1004, dim:minecraft:overworld]
+[17Jun2025 00:39:29.333] [Server thread/INFO] [tombstone/]: The player nommsmry has successfully been saved
+[17Jun2025 00:39:30.858] [Server thread/INFO] [do_a_barrel_roll/]: Client of nommsmry accepted server config.
+[17Jun2025 00:39:48.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jacktrebor2> tengo 34 de 1 nomas
