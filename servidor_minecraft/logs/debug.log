@@ -4898,3 +4898,70 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [16Jun2025 23:58:48.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Creative Mode]
 [16Jun2025 23:58:51.248] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [16Jun2025 23:58:51.258] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Jun2025 23:59:18.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Survival Mode]
+[16Jun2025 23:59:31.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacktrebor2 was slain by Overgrown Colossus
+[16Jun2025 23:59:31.326] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Jacktrebor2 with unique ID travelersbackpack.standard_16.06.2025-23.59.31.dat
+[16Jun2025 23:59:31.327] [Server thread/DEBUG] [tombstone/]: A new grave of the player Jacktrebor2 was created at position [x:128, y:-46, z:1021, dim:minecraft:overworld]
+[16Jun2025 23:59:31.329] [Server thread/INFO] [tombstone/]: The player Jacktrebor2 has successfully been saved
+[16Jun2025 23:59:33.748] [Server thread/INFO] [do_a_barrel_roll/]: Client of Jacktrebor2 accepted server config.
+[16Jun2025 23:59:47.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Teleported 3 entities to Danielitoram]
+[17Jun2025 00:00:11.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielitoram was slain by Overgrown Colossus
+[17Jun2025 00:00:11.076] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Danielitoram with unique ID travelersbackpack.standard_17.06.2025-00.00.11.dat
+[17Jun2025 00:00:11.077] [Server thread/DEBUG] [tombstone/]: A new grave of the player Danielitoram was created at position [x:135, y:-46, z:1037, dim:minecraft:overworld]
+[17Jun2025 00:00:11.081] [Server thread/INFO] [tombstone/]: The player Danielitoram has successfully been saved
+[17Jun2025 00:00:18.747] [Server thread/INFO] [do_a_barrel_roll/]: Client of Danielitoram accepted server config.
+[17Jun2025 00:00:20.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Teleported Danielitoram to nommsmry]
+[17Jun2025 00:00:26.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nommsmry was slain by Overgrown Colossus
+[17Jun2025 00:00:26.276] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for nommsmry with unique ID travelersbackpack.iron_golem_17.06.2025-00.00.26.dat
+[17Jun2025 00:00:26.277] [Server thread/DEBUG] [tombstone/]: A new grave of the player nommsmry was created at position [x:127, y:-46, z:1009, dim:minecraft:overworld]
+[17Jun2025 00:00:26.284] [Server thread/INFO] [tombstone/]: The player nommsmry has successfully been saved
+[17Jun2025 00:00:27.767] [Server thread/INFO] [do_a_barrel_roll/]: Client of nommsmry accepted server config.
+[17Jun2025 00:00:48.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Teleported nommsmry to Danielitoram]
+[17Jun2025 00:01:05.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Applied effect Strength to Danielitoram]
+[17Jun2025 00:01:21.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacktrebor2 was slain by Overgrown Colossus
+[17Jun2025 00:01:21.229] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Jacktrebor2 with unique ID travelersbackpack.standard_17.06.2025-00.01.21.dat
+[17Jun2025 00:01:21.229] [Server thread/DEBUG] [tombstone/]: A new grave of the player Jacktrebor2 was created at position [x:106, y:-46, z:1032, dim:minecraft:overworld]
+[17Jun2025 00:01:21.231] [Server thread/INFO] [tombstone/]: The player Jacktrebor2 has successfully been saved
+[17Jun2025 00:01:22.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Teleported Jacktrebor2 to Danielitoram]
+[17Jun2025 00:01:23.762] [Server thread/INFO] [do_a_barrel_roll/]: Client of Jacktrebor2 accepted server config.
+[17Jun2025 00:01:25.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Teleported Jacktrebor2 to Danielitoram]
+[17Jun2025 00:01:29.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Applied effect Strength to Danielitoram]
+[17Jun2025 00:01:30.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielitoram was slain by Overgrown Colossus
+[17Jun2025 00:01:30.674] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Danielitoram with unique ID travelersbackpack.standard_17.06.2025-00.01.30.dat
+[17Jun2025 00:01:30.675] [Server thread/DEBUG] [tombstone/]: A new grave of the player Danielitoram was created at position [x:116, y:-46, z:1031, dim:minecraft:overworld]
+[17Jun2025 00:01:30.681] [Server thread/INFO] [tombstone/]: The player Danielitoram has successfully been saved
+[17Jun2025 00:01:32.058] [Server thread/INFO] [do_a_barrel_roll/]: Client of Danielitoram accepted server config.
+[17Jun2025 00:01:34.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Teleported Danielitoram to Jacktrebor2]
+[17Jun2025 00:01:48.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Applied effect Night Vision to 3 targets]
+[17Jun2025 00:02:10.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacktrebor2 was shot to death
+[17Jun2025 00:02:10.779] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Jacktrebor2 with unique ID travelersbackpack.standard_17.06.2025-00.02.10.dat
+[17Jun2025 00:02:10.779] [Server thread/DEBUG] [tombstone/]: A new grave of the player Jacktrebor2 was created at position [x:128, y:-46, z:1027, dim:minecraft:overworld]
+[17Jun2025 00:02:10.781] [Server thread/INFO] [tombstone/]: The player Jacktrebor2 has successfully been saved
+[17Jun2025 00:02:12.384] [Server thread/INFO] [do_a_barrel_roll/]: Client of Jacktrebor2 accepted server config.
+[17Jun2025 00:02:22.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Teleported Danielitoram to Jacktrebor2]
+[17Jun2025 00:02:26.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Teleported 3 entities to nommsmry]
+[17Jun2025 00:02:46.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nommsmry was slain by Jacktrebor2
+[17Jun2025 00:02:46.931] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for nommsmry with unique ID travelersbackpack.iron_golem_17.06.2025-00.02.46.dat
+[17Jun2025 00:02:46.931] [Server thread/DEBUG] [tombstone/]: A new grave of the player nommsmry was created at position [x:121, y:-46, z:1012, dim:minecraft:overworld]
+[17Jun2025 00:02:46.932] [Server thread/INFO] [tombstone/]: The player nommsmry has successfully been saved
+[17Jun2025 00:02:48.450] [Server thread/INFO] [do_a_barrel_roll/]: Client of nommsmry accepted server config.
+[17Jun2025 00:02:54.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Teleported 3 entities to Jacktrebor2]
+[17Jun2025 00:03:08.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Applied effect Strength to Danielitoram]
+[17Jun2025 00:03:12.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Creative Mode]
+[17Jun2025 00:03:16.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielitoram has completed the challenge [The Mossy Beast]
+[17Jun2025 00:03:19.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Survival Mode]
+[17Jun2025 00:03:27.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielitoram was slain by nommsmry
+[17Jun2025 00:03:27.877] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Danielitoram with unique ID travelersbackpack.standard_17.06.2025-00.03.27.dat
+[17Jun2025 00:03:27.878] [Server thread/DEBUG] [tombstone/]: A new grave of the player Danielitoram was created at position [x:128, y:-46, z:1033, dim:minecraft:overworld]
+[17Jun2025 00:03:27.879] [Server thread/INFO] [tombstone/]: The player Danielitoram has successfully been saved
+[17Jun2025 00:03:29.596] [Server thread/INFO] [do_a_barrel_roll/]: Client of Danielitoram accepted server config.
+[17Jun2025 00:03:31.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Teleported Danielitoram to nommsmry]
+[17Jun2025 00:03:36.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacktrebor2 has made the advancement [Funeral Theft]
+[17Jun2025 00:03:36.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacktrebor2 has reached the goal [Discreet Search]
+[17Jun2025 00:03:51.249] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jun2025 00:03:51.257] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Jun2025 00:04:06.172] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Danielitoram lost connection: Disconnected
+[17Jun2025 00:04:06.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielitoram left the game
+[17Jun2025 00:04:41.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jacktrebor2 has made the advancement [Knowledge raises the soul]
+[17Jun2025 00:08:51.250] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Jun2025 00:08:51.260] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

@@ -1743,6 +1743,12 @@
     },
     "done": true
   },
+  "mekanismtools:not_enough_shielding": {
+    "criteria": {
+      "shields": "2025-06-17 00:03:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_shovel": {
     "criteria": {
       "has_gold_ingot": "2025-06-16 22:57:22 +0000"
