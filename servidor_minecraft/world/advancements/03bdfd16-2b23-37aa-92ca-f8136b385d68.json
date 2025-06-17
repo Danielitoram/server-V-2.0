@@ -52,6 +52,7 @@
       "minecraft:taiga": "2025-06-16 23:05:23 +0000",
       "minecraft:cherry_grove": "2025-05-31 21:41:10 +0000",
       "minecraft:sunflower_plains": "2025-05-31 21:43:18 +0000",
+      "minecraft:windswept_hills": "2025-06-17 23:42:11 +0000",
       "minecraft:beach": "2025-06-17 01:40:56 +0000",
       "minecraft:river": "2025-05-31 21:41:57 +0000",
       "minecraft:dripstone_caves": "2025-05-31 22:06:07 +0000",
@@ -681,6 +682,7 @@
       "bread": "2025-05-31 22:22:09 +0000",
       "rotten_flesh": "2025-05-31 21:52:54 +0000",
       "glow_berries": "2025-06-17 22:39:38 +0000",
+      "golden_carrot": "2025-06-17 23:32:58 +0000",
       "cod": "2025-06-17 00:11:15 +0000",
       "carrot": "2025-05-31 22:21:54 +0000"
     },
@@ -3905,6 +3907,12 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-06-17 23:03:04 +0000"
+    },
+    "done": true
+  },
+  "paraglider:pray_to_the_goddess": {
+    "criteria": {
+      "bargain": "2025-06-17 23:45:05 +0000"
     },
     "done": true
   },
