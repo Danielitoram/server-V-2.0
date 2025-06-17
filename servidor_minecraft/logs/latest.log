@@ -143,3 +143,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [17Jun2025 22:50:58.400] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/5076, l='ServerLevel[world]', x=1115.92, y=134.01, z=32.99] died: Dinnerbone was shot by Dinnerbone
 [17Jun2025 22:54:25.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nommsmry has made the advancement [Where Is The Stone Pen?]
 [17Jun2025 22:58:58.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nommsmry has made the advancement [Spooky Scary Skeleton]
+[17Jun2025 23:05:53.551] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/6343, l='ServerLevel[world]', x=1096.62, y=150.01, z=59.13] died: Dinnerbone was shot by Dinnerbone
+[17Jun2025 23:05:54.701] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/6311, l='ServerLevel[world]', x=1095.30, y=150.01, z=58.43] died: Dinnerbone was shot by Dinnerbone
+[17Jun2025 23:10:41.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> vuelvo en nose
+[17Jun2025 23:10:42.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> 5 min
+[17Jun2025 23:10:44.106] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nommsmry lost connection: Disconnected
+[17Jun2025 23:10:44.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nommsmry left the game
