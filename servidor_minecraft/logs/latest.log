@@ -127,3 +127,17 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [17Jun2025 22:28:13.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nommsmry joined the game
 [17Jun2025 22:28:17.987] [Server thread/INFO] [do_a_barrel_roll/]: Client of nommsmry accepted server config.
 [17Jun2025 22:28:25.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> que hago aca
+[17Jun2025 22:34:29.302] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nommsmry lost connection: Disconnected
+[17Jun2025 22:34:29.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nommsmry left the game
+[17Jun2025 22:34:29.366] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[17Jun2025 22:35:17.879] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nommsmry[/127.151.120.163:56961] logged in with entity id 2295 at (1149.4058505857536, 123.0, 210.19944008137165)
+[17Jun2025 22:35:17.891] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player nommsmry
+[17Jun2025 22:35:17.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nommsmry joined the game
+[17Jun2025 22:35:27.520] [Server thread/INFO] [do_a_barrel_roll/]: Client of nommsmry accepted server config.
+[17Jun2025 22:38:17.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nommsmry has made the advancement [Not Today, Thank You]
+[17Jun2025 22:39:44.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nommsmry has made the advancement [Super Creeps]
+[17Jun2025 22:40:13.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> xdddd
+[17Jun2025 22:49:57.050] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/4996, l='ServerLevel[world]', x=1119.75, y=134.01, z=41.21] died: Dinnerbone was shot by Dinnerbone
+[17Jun2025 22:50:48.402] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/4967, l='ServerLevel[world]', x=1120.68, y=134.01, z=32.99] died: Dinnerbone was shot by Dinnerbone
+[17Jun2025 22:50:51.802] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/5075, l='ServerLevel[world]', x=1116.25, y=134.01, z=41.48] died: Dinnerbone was shot by Dinnerbone
+[17Jun2025 22:50:58.400] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Dinnerbone'/5076, l='ServerLevel[world]', x=1115.92, y=134.01, z=32.99] died: Dinnerbone was shot by Dinnerbone
