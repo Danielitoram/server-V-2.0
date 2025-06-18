@@ -4861,3 +4861,67 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Jun2025 00:56:14.162] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Jun2025 00:56:14.172] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [18Jun2025 00:56:42.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Creative Mode]
+[18Jun2025 00:57:32.940] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/9274, l='ServerLevel[world]', x=341.70, y=79.00, z=1043.03] died, message: 'Farmer was slain by Zombie'
+[18Jun2025 00:57:54.070] [Server thread/DEBUG] [mcjty.theoneprobe.TheOneProbe/]: The One Probe catched error: 
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.level.SpawnData.m_186567_()" because "logic.f_45444_" is null
+	at mcjty.theoneprobe.apiimpl.providers.DefaultProbeInfoProvider.showMobSpawnerInfo(DefaultProbeInfoProvider.java:177) ~[theoneprobe-1.20.1-10.0.3.jar%23186!/:1.20.1-10.0.3]
+	at mcjty.theoneprobe.apiimpl.providers.DefaultProbeInfoProvider.addProbeInfo(DefaultProbeInfoProvider.java:108) ~[theoneprobe-1.20.1-10.0.3.jar%23186!/:1.20.1-10.0.3]
+	at mcjty.theoneprobe.network.PacketGetInfo.getProbeInfo(PacketGetInfo.java:138) ~[theoneprobe-1.20.1-10.0.3.jar%23186!/:1.20.1-10.0.3]
+	at mcjty.theoneprobe.network.PacketGetInfo.lambda$handle$0(PacketGetInfo.java:101) ~[theoneprobe-1.20.1-10.0.3.jar%23186!/:1.20.1-10.0.3]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18693_(BlockableEventLoop.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23193!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23193!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23193!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23193!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23193!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23193!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23193!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23193!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23193!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23193!/:?]
+	at net.minecraft.server.MinecraftServer.mixinextras$bridge$m_18701_$242(MinecraftServer.java) ~[server-1.20.1-20230612.114412-srg.jar%23193!/:?]
+	at net.minecraft.server.MinecraftServer.wrapOperation$zbh000$managedBlock(MinecraftServer.java:1856) ~[server-1.20.1-20230612.114412-srg.jar%23193!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23193!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23193!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23193!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[18Jun2025 00:58:06.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Survival Mode]
+[18Jun2025 00:58:49.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Creative Mode]
+[18Jun2025 00:59:26.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Survival Mode]
+[18Jun2025 00:59:39.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Creative Mode]
+[18Jun2025 00:59:56.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Survival Mode]
+[18Jun2025 01:00:29.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Creative Mode]
+[18Jun2025 01:00:35.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Survival Mode]
+[18Jun2025 01:01:14.155] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jun2025 01:01:14.165] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jun2025 01:03:44.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielitoram has made the advancement [Knowledge raises the soul]
+[18Jun2025 01:04:18.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielitoram was slain by Cleric
+[18Jun2025 01:04:18.703] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Danielitoram with unique ID travelersbackpack.standard_18.06.2025-01.04.18.dat
+[18Jun2025 01:04:18.703] [Server thread/DEBUG] [tombstone/]: A new grave of the player Danielitoram was created at position [x:278, y:66, z:998, dim:minecraft:overworld]
+[18Jun2025 01:04:18.705] [Server thread/INFO] [tombstone/]: The player Danielitoram has successfully been saved
+[18Jun2025 01:04:20.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielitoram has made the advancement [The Most Useful Key]
+[18Jun2025 01:04:20.148] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/9359, l='ServerLevel[world]', x=341.23, y=27.52, z=968.34, removed=DISCARDED]
+[18Jun2025 01:04:20.149] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/9360, l='ServerLevel[world]', x=340.83, y=33.12, z=969.65, removed=DISCARDED]
+[18Jun2025 01:04:20.149] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/9361, l='ServerLevel[world]', x=342.55, y=32.10, z=968.47, removed=DISCARDED]
+[18Jun2025 01:04:20.255] [Server thread/INFO] [do_a_barrel_roll/]: Client of Danielitoram accepted server config.
+[18Jun2025 01:04:26.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielitoram has reached the goal [A Fast Comeback]
+[18Jun2025 01:04:48.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielitoram has completed the challenge [Village Defender]
+[18Jun2025 01:05:07.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Creative Mode]
+[18Jun2025 01:05:11.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Survival Mode]
+[18Jun2025 01:05:28.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Creative Mode]
+[18Jun2025 01:05:31.200] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Danielitoram lost connection: Disconnected
+[18Jun2025 01:05:31.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielitoram left the game
+[18Jun2025 01:05:34.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[18Jun2025 01:05:34.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[18Jun2025 01:05:34.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[18Jun2025 01:05:34.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[18Jun2025 01:05:34.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18Jun2025 01:05:34.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18Jun2025 01:05:34.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18Jun2025 01:05:34.284] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jun2025 01:05:34.292] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jun2025 01:05:34.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18Jun2025 01:05:34.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18Jun2025 01:05:34.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18Jun2025 01:05:34.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18Jun2025 01:05:34.336] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER

@@ -382,3 +382,38 @@
 [18Jun2025 00:56:14.098] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nommsmry lost connection: Disconnected
 [18Jun2025 00:56:14.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nommsmry left the game
 [18Jun2025 00:56:42.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Creative Mode]
+[18Jun2025 00:57:32.940] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/9274, l='ServerLevel[world]', x=341.70, y=79.00, z=1043.03] died, message: 'Farmer was slain by Zombie'
+[18Jun2025 00:58:06.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Survival Mode]
+[18Jun2025 00:58:49.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Creative Mode]
+[18Jun2025 00:59:26.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Survival Mode]
+[18Jun2025 00:59:39.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Creative Mode]
+[18Jun2025 00:59:56.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Survival Mode]
+[18Jun2025 01:00:29.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Creative Mode]
+[18Jun2025 01:00:35.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Survival Mode]
+[18Jun2025 01:03:44.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielitoram has made the advancement [Knowledge raises the soul]
+[18Jun2025 01:04:18.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielitoram was slain by Cleric
+[18Jun2025 01:04:18.703] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Danielitoram with unique ID travelersbackpack.standard_18.06.2025-01.04.18.dat
+[18Jun2025 01:04:18.705] [Server thread/INFO] [tombstone/]: The player Danielitoram has successfully been saved
+[18Jun2025 01:04:20.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielitoram has made the advancement [The Most Useful Key]
+[18Jun2025 01:04:20.148] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/9359, l='ServerLevel[world]', x=341.23, y=27.52, z=968.34, removed=DISCARDED]
+[18Jun2025 01:04:20.149] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/9360, l='ServerLevel[world]', x=340.83, y=33.12, z=969.65, removed=DISCARDED]
+[18Jun2025 01:04:20.149] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/9361, l='ServerLevel[world]', x=342.55, y=32.10, z=968.47, removed=DISCARDED]
+[18Jun2025 01:04:20.255] [Server thread/INFO] [do_a_barrel_roll/]: Client of Danielitoram accepted server config.
+[18Jun2025 01:04:26.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielitoram has reached the goal [A Fast Comeback]
+[18Jun2025 01:04:48.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielitoram has completed the challenge [Village Defender]
+[18Jun2025 01:05:07.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Creative Mode]
+[18Jun2025 01:05:11.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Survival Mode]
+[18Jun2025 01:05:28.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Creative Mode]
+[18Jun2025 01:05:31.200] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Danielitoram lost connection: Disconnected
+[18Jun2025 01:05:31.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielitoram left the game
+[18Jun2025 01:05:34.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[18Jun2025 01:05:34.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[18Jun2025 01:05:34.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[18Jun2025 01:05:34.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[18Jun2025 01:05:34.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18Jun2025 01:05:34.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18Jun2025 01:05:34.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18Jun2025 01:05:34.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18Jun2025 01:05:34.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18Jun2025 01:05:34.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18Jun2025 01:05:34.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
