@@ -1029,6 +1029,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "sweet_berries": "2025-06-18 00:38:50 +0000",
       "bread": "2025-05-31 21:17:16 +0000"
     },
     "done": false
@@ -1041,9 +1042,12 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-06-18 00:37:52 +0000",
       "minecraft:skeleton": "2025-05-31 21:26:10 +0000",
+      "minecraft:ravager": "2025-06-18 00:48:02 +0000",
       "minecraft:spider": "2025-05-31 22:35:46 +0000",
       "minecraft:creeper": "2025-06-16 23:21:57 +0000",
+      "minecraft:witch": "2025-06-18 00:54:41 +0000",
       "minecraft:husk": "2025-05-31 21:20:40 +0000",
       "minecraft:cave_spider": "2025-06-16 23:49:03 +0000",
       "minecraft:silverfish": "2025-06-16 23:22:33 +0000",
@@ -2749,6 +2753,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/fox": {
+    "criteria": {
+      "has_sweet_berries": "2025-06-18 00:38:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_sword_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-06-18 00:27:57 +0000"
@@ -2773,9 +2783,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-06-18 00:37:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-06-18 00:22:11 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-06-18 00:41:35 +0000"
     },
     "done": true
   },
@@ -2884,6 +2906,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-06-18 00:22:14 +0000"
+    },
+    "done": true
+  },
+  "crusty_chunks:explosives": {
+    "criteria": {
+      "explosives_0": "2025-06-18 00:43:16 +0000"
     },
     "done": true
   },

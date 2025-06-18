@@ -203,3 +203,182 @@
 [18Jun2025 00:36:22.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Gave 10 [Grenade] to Danielitoram]
 [18Jun2025 00:36:27.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielitoram> armate
 [18Jun2025 00:36:35.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> pasa la plantilla
+[18Jun2025 00:37:05.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielitoram Was Shredded by Shrapnel
+[18Jun2025 00:37:05.805] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Danielitoram with unique ID travelersbackpack.standard_18.06.2025-00.37.05.dat
+[18Jun2025 00:37:05.809] [Server thread/INFO] [tombstone/]: The player Danielitoram has successfully been saved
+[18Jun2025 00:37:07.518] [Server thread/INFO] [do_a_barrel_roll/]: Client of Danielitoram accepted server config.
+[18Jun2025 00:37:10.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Teleported Danielitoram to nommsmry]
+[18Jun2025 00:37:12.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> xddddd
+[18Jun2025 00:37:17.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielitoram> retrasado
+[18Jun2025 00:37:23.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> pa saber como se usa pes
+[18Jun2025 00:37:30.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielitoram> contra mi
+[18Jun2025 00:37:52.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielitoram has made the advancement [Voluntary Exile]
+[18Jun2025 00:38:22.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HOME RUN
+[18Jun2025 00:38:22.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HOME RUN
+[18Jun2025 00:38:26.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielitoram> oe
+[18Jun2025 00:38:28.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielitoram> mis panes
+[18Jun2025 00:38:43.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielitoram> comida
+[18Jun2025 00:38:55.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielitoram> altoque
+[18Jun2025 00:39:23.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> que es alignment
+[18Jun2025 00:39:25.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> agilidad
+[18Jun2025 00:39:31.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielitoram> no
+[18Jun2025 00:39:41.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielitoram> aligerado creo
+[18Jun2025 00:40:03.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> y que me hace
+[18Jun2025 00:40:05.443] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/658, l='ServerLevel[world]', x=262.70, y=63.94, z=992.70] died, message: 'Villager was shot by Pillager'
+[18Jun2025 00:40:06.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielitoram> nose
+[18Jun2025 00:40:26.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Gave 64 [Bread] to Danielitoram]
+[18Jun2025 00:40:40.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> casi meyo
+[18Jun2025 00:40:45.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nommsmry was slain by Cleric
+[18Jun2025 00:40:45.215] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for nommsmry with unique ID travelersbackpack.iron_golem_18.06.2025-00.40.45.dat
+[18Jun2025 00:40:45.218] [Server thread/INFO] [tombstone/]: The player nommsmry has successfully been saved
+[18Jun2025 00:40:46.721] [Server thread/INFO] [do_a_barrel_roll/]: Client of nommsmry accepted server config.
+[18Jun2025 00:40:49.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> oeee
+[18Jun2025 00:40:54.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> mi spawn
+[18Jun2025 00:40:55.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielitoram> fue el creligo
+[18Jun2025 00:40:55.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielitoram was slain by Vindicator
+[18Jun2025 00:40:55.554] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Danielitoram with unique ID travelersbackpack.standard_18.06.2025-00.40.55.dat
+[18Jun2025 00:40:55.563] [Server thread/INFO] [tombstone/]: The player Danielitoram has successfully been saved
+[18Jun2025 00:40:58.056] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/9359, l='ServerLevel[world]', x=341.23, y=27.52, z=968.34, removed=DISCARDED]
+[18Jun2025 00:40:58.057] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/9360, l='ServerLevel[world]', x=340.83, y=33.12, z=969.65, removed=DISCARDED]
+[18Jun2025 00:40:58.058] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/9361, l='ServerLevel[world]', x=342.55, y=32.10, z=968.47, removed=DISCARDED]
+[18Jun2025 00:40:58.130] [Server thread/INFO] [do_a_barrel_roll/]: Client of Danielitoram accepted server config.
+[18Jun2025 00:41:00.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielitoram> pega fuerte
+[18Jun2025 00:41:01.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> tp
+[18Jun2025 00:41:06.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> toy en el spawn
+[18Jun2025 00:41:17.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Teleported nommsmry to Danielitoram]
+[18Jun2025 00:41:17.332] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/9361, l='ServerLevel[world]', x=342.55, y=32.10, z=968.47, removed=DISCARDED]
+[18Jun2025 00:41:17.335] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/9359, l='ServerLevel[world]', x=341.23, y=27.52, z=968.34, removed=DISCARDED]
+[18Jun2025 00:41:17.335] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/9360, l='ServerLevel[world]', x=340.83, y=33.12, z=969.65, removed=DISCARDED]
+[18Jun2025 00:41:18.046] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/9263, l='ServerLevel[world]', x=263.99, y=68.00, z=1023.24] died, message: 'Villager was slain by Cleric'
+[18Jun2025 00:41:35.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielitoram has reached the goal [Fortuitous Militia]
+[18Jun2025 00:41:37.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HOME RUN
+[18Jun2025 00:41:47.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielitoram> me diste plaga
+[18Jun2025 00:41:53.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HOME RUN
+[18Jun2025 00:43:16.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielitoram has made the advancement [Having a Blast]
+[18Jun2025 00:43:16.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Gave 1 [Volatile Dust] to Danielitoram]
+[18Jun2025 00:43:20.495] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/9321, l='ServerLevel[world]', x=323.30, y=72.00, z=978.50] died, message: 'Fletcher was shot by Pillager'
+[18Jun2025 00:43:48.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> ontaran
+[18Jun2025 00:44:04.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nommsmry has reached the goal [Fortuitous Militia]
+[18Jun2025 00:44:23.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielitoram> reporta
+[18Jun2025 00:44:26.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielitoram> ese huevon tiene aimbot
+[18Jun2025 00:44:28.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> que
+[18Jun2025 00:44:30.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> xdd
+[18Jun2025 00:44:58.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielitoram> campana en ingles
+[18Jun2025 00:45:02.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> jingle
+[18Jun2025 00:45:09.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Gave 1 [Bell] to Danielitoram]
+[18Jun2025 00:45:10.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> por ahi
+[18Jun2025 00:45:10.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielitoram> bell
+[18Jun2025 00:45:37.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> recarga chunks pe
+[18Jun2025 00:45:53.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielitoram> nada
+[18Jun2025 00:46:44.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> no veo a tu tribu
+[18Jun2025 00:46:52.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielitoram> puros gringos de 3 metros
+[18Jun2025 00:47:07.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> pingas de 3 metros te gustan
+[18Jun2025 00:47:18.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> hereee
+[18Jun2025 00:47:26.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Teleported Danielitoram to nommsmry]
+[18Jun2025 00:47:38.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> ahaha
+[18Jun2025 00:47:43.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Creative Mode]
+[18Jun2025 00:47:44.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> xddd
+[18Jun2025 00:47:45.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> ven
+[18Jun2025 00:47:50.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Survival Mode]
+[18Jun2025 00:47:53.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Teleported Danielitoram to nommsmry]
+[18Jun2025 00:47:57.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielitoram> oee
+[18Jun2025 00:48:17.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> se trapeo solo
+[18Jun2025 00:48:46.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielitoram was slain by nommsmry
+[18Jun2025 00:48:46.498] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Danielitoram with unique ID travelersbackpack.standard_18.06.2025-00.48.46.dat
+[18Jun2025 00:48:46.500] [Server thread/INFO] [tombstone/]: The player Danielitoram has successfully been saved
+[18Jun2025 00:48:47.784] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/9361, l='ServerLevel[world]', x=342.55, y=32.10, z=968.47, removed=DISCARDED]
+[18Jun2025 00:48:47.784] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/9359, l='ServerLevel[world]', x=341.23, y=27.52, z=968.34, removed=DISCARDED]
+[18Jun2025 00:48:47.785] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/9360, l='ServerLevel[world]', x=340.83, y=33.12, z=969.65, removed=DISCARDED]
+[18Jun2025 00:48:47.942] [Server thread/INFO] [do_a_barrel_roll/]: Client of Danielitoram accepted server config.
+[18Jun2025 00:48:49.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Teleported Danielitoram to nommsmry]
+[18Jun2025 00:48:52.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> con permiso pe
+[18Jun2025 00:49:08.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Creative Mode]
+[18Jun2025 00:49:16.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Survival Mode]
+[18Jun2025 00:49:18.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nommsmry was slain by Cleric
+[18Jun2025 00:49:18.602] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for nommsmry with unique ID travelersbackpack.iron_golem_18.06.2025-00.49.18.dat
+[18Jun2025 00:49:18.604] [Server thread/INFO] [tombstone/]: The player nommsmry has successfully been saved
+[18Jun2025 00:49:19.904] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/9361, l='ServerLevel[world]', x=342.55, y=32.10, z=968.47, removed=DISCARDED]
+[18Jun2025 00:49:19.904] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/9359, l='ServerLevel[world]', x=341.23, y=27.52, z=968.34, removed=DISCARDED]
+[18Jun2025 00:49:19.904] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/9360, l='ServerLevel[world]', x=340.83, y=33.12, z=969.65, removed=DISCARDED]
+[18Jun2025 00:49:20.123] [Server thread/INFO] [do_a_barrel_roll/]: Client of nommsmry accepted server config.
+[18Jun2025 00:49:27.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> si tiene aimbot
+[18Jun2025 00:49:30.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Creative Mode]
+[18Jun2025 00:49:36.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Teleported nommsmry to Danielitoram]
+[18Jun2025 00:49:36.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Survival Mode]
+[18Jun2025 00:49:43.645] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/9322, l='ServerLevel[world]', x=324.15, y=71.84, z=987.29] died, message: 'Villager was slain by Cleric'
+[18Jun2025 00:50:44.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Creative Mode]
+[18Jun2025 00:50:52.346] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=302, y=72, z=975} BlockPos{x=302, y=72, z=976}
+[18Jun2025 00:50:53.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Survival Mode]
+[18Jun2025 00:51:00.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Creative Mode]
+[18Jun2025 00:51:04.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Survival Mode]
+[18Jun2025 00:51:09.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nommsmry was slain by Cleric
+[18Jun2025 00:51:09.590] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for nommsmry with unique ID travelersbackpack.iron_golem_18.06.2025-00.51.09.dat
+[18Jun2025 00:51:09.601] [Server thread/INFO] [tombstone/]: The player nommsmry has successfully been saved
+[18Jun2025 00:51:10.853] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/9361, l='ServerLevel[world]', x=342.55, y=32.10, z=968.47, removed=DISCARDED]
+[18Jun2025 00:51:10.853] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/9359, l='ServerLevel[world]', x=341.23, y=27.52, z=968.34, removed=DISCARDED]
+[18Jun2025 00:51:10.853] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/9360, l='ServerLevel[world]', x=340.83, y=33.12, z=969.65, removed=DISCARDED]
+[18Jun2025 00:51:11.024] [Server thread/INFO] [do_a_barrel_roll/]: Client of nommsmry accepted server config.
+[18Jun2025 00:51:32.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielitoram was slain by Cleric
+[18Jun2025 00:51:33.003] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Danielitoram with unique ID travelersbackpack.standard_18.06.2025-00.51.32.dat
+[18Jun2025 00:51:33.013] [Server thread/INFO] [tombstone/]: The player Danielitoram has successfully been saved
+[18Jun2025 00:51:34.449] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/9361, l='ServerLevel[world]', x=342.55, y=32.10, z=968.47, removed=DISCARDED]
+[18Jun2025 00:51:34.450] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/9359, l='ServerLevel[world]', x=341.23, y=27.52, z=968.34, removed=DISCARDED]
+[18Jun2025 00:51:34.450] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/9360, l='ServerLevel[world]', x=340.83, y=33.12, z=969.65, removed=DISCARDED]
+[18Jun2025 00:51:34.572] [Server thread/INFO] [do_a_barrel_roll/]: Client of Danielitoram accepted server config.
+[18Jun2025 00:51:42.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nommsmry was slain by Cleric
+[18Jun2025 00:51:42.500] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for nommsmry with unique ID travelersbackpack.iron_golem_18.06.2025-00.51.42.dat
+[18Jun2025 00:51:42.510] [Server thread/INFO] [tombstone/]: The player nommsmry has successfully been saved
+[18Jun2025 00:51:43.783] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/9361, l='ServerLevel[world]', x=342.55, y=32.10, z=968.47, removed=DISCARDED]
+[18Jun2025 00:51:43.783] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/9359, l='ServerLevel[world]', x=341.23, y=27.52, z=968.34, removed=DISCARDED]
+[18Jun2025 00:51:43.783] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/9360, l='ServerLevel[world]', x=340.83, y=33.12, z=969.65, removed=DISCARDED]
+[18Jun2025 00:51:43.968] [Server thread/INFO] [do_a_barrel_roll/]: Client of nommsmry accepted server config.
+[18Jun2025 00:51:48.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> me follaron
+[18Jun2025 00:52:38.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> mi armor mano
+[18Jun2025 00:52:41.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielitoram was slain by Cleric
+[18Jun2025 00:52:41.097] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Danielitoram with unique ID travelersbackpack.standard_18.06.2025-00.52.41.dat
+[18Jun2025 00:52:41.107] [Server thread/INFO] [tombstone/]: The player Danielitoram has successfully been saved
+[18Jun2025 00:52:42.393] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/9361, l='ServerLevel[world]', x=342.55, y=32.10, z=968.47, removed=DISCARDED]
+[18Jun2025 00:52:42.394] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/9359, l='ServerLevel[world]', x=341.23, y=27.52, z=968.34, removed=DISCARDED]
+[18Jun2025 00:52:42.394] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/9360, l='ServerLevel[world]', x=340.83, y=33.12, z=969.65, removed=DISCARDED]
+[18Jun2025 00:52:42.551] [Server thread/INFO] [do_a_barrel_roll/]: Client of Danielitoram accepted server config.
+[18Jun2025 00:52:44.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> me robaron
+[18Jun2025 00:52:50.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Teleported Danielitoram to nommsmry]
+[18Jun2025 00:52:51.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> tenia armor de osmio
+[18Jun2025 00:53:02.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielitoram> kamikaze nomas sera
+[18Jun2025 00:53:28.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nommsmry was slain by Cleric
+[18Jun2025 00:53:28.298] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for nommsmry with unique ID travelersbackpack.iron_golem_18.06.2025-00.53.28.dat
+[18Jun2025 00:53:28.304] [Server thread/INFO] [tombstone/]: The player nommsmry has successfully been saved
+[18Jun2025 00:53:29.575] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/9361, l='ServerLevel[world]', x=342.55, y=32.10, z=968.47, removed=DISCARDED]
+[18Jun2025 00:53:29.575] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/9359, l='ServerLevel[world]', x=341.23, y=27.52, z=968.34, removed=DISCARDED]
+[18Jun2025 00:53:29.575] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/9360, l='ServerLevel[world]', x=340.83, y=33.12, z=969.65, removed=DISCARDED]
+[18Jun2025 00:53:30.150] [Server thread/INFO] [do_a_barrel_roll/]: Client of nommsmry accepted server config.
+[18Jun2025 00:53:31.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielitoram Was Shredded by Shrapnel
+[18Jun2025 00:53:31.354] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Danielitoram with unique ID travelersbackpack.standard_18.06.2025-00.53.31.dat
+[18Jun2025 00:53:31.357] [Server thread/INFO] [tombstone/]: The player Danielitoram has successfully been saved
+[18Jun2025 00:53:33.797] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/9361, l='ServerLevel[world]', x=342.55, y=32.10, z=968.47, removed=DISCARDED]
+[18Jun2025 00:53:33.797] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/9359, l='ServerLevel[world]', x=341.23, y=27.52, z=968.34, removed=DISCARDED]
+[18Jun2025 00:53:33.797] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/9360, l='ServerLevel[world]', x=340.83, y=33.12, z=969.65, removed=DISCARDED]
+[18Jun2025 00:53:33.915] [Server thread/INFO] [do_a_barrel_roll/]: Client of Danielitoram accepted server config.
+[18Jun2025 00:53:36.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Teleported Danielitoram to nommsmry]
+[18Jun2025 00:53:59.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> c mi ping
+[18Jun2025 00:54:29.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielitoram was killed by Witch using magic
+[18Jun2025 00:54:29.697] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Danielitoram with unique ID travelersbackpack.standard_18.06.2025-00.54.29.dat
+[18Jun2025 00:54:29.701] [Server thread/INFO] [tombstone/]: The player Danielitoram has successfully been saved
+[18Jun2025 00:54:30.929] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/9361, l='ServerLevel[world]', x=342.55, y=32.10, z=968.47, removed=DISCARDED]
+[18Jun2025 00:54:30.929] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/9359, l='ServerLevel[world]', x=341.23, y=27.52, z=968.34, removed=DISCARDED]
+[18Jun2025 00:54:30.929] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/9360, l='ServerLevel[world]', x=340.83, y=33.12, z=969.65, removed=DISCARDED]
+[18Jun2025 00:54:31.117] [Server thread/INFO] [do_a_barrel_roll/]: Client of Danielitoram accepted server config.
+[18Jun2025 00:54:32.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Teleported Danielitoram to nommsmry]
+[18Jun2025 00:54:50.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielitoram> ya no tengo balas de mi rifle
+[18Jun2025 00:55:06.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> pobre eres pe
+[18Jun2025 00:55:18.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> dc ?
+[18Jun2025 00:55:24.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> tamos como cojudos por chat
+[18Jun2025 00:55:26.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielitoram> el gordo quiere jugar left
+[18Jun2025 00:55:50.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> niose
+[18Jun2025 00:55:54.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> vamos o no
+[18Jun2025 00:55:59.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielitoram> ya
+[18Jun2025 00:56:02.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> ya
+[18Jun2025 00:56:12.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> go
+[18Jun2025 00:56:14.098] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nommsmry lost connection: Disconnected
+[18Jun2025 00:56:14.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nommsmry left the game
+[18Jun2025 00:56:42.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Creative Mode]

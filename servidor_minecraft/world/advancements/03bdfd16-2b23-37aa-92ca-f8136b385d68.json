@@ -655,7 +655,9 @@
     "criteria": {
       "minecraft:pillager": "2025-06-18 00:29:32 +0000",
       "minecraft:skeleton": "2025-06-16 23:48:18 +0000",
+      "minecraft:vindicator": "2025-06-18 00:40:30 +0000",
       "minecraft:spider": "2025-06-16 23:27:23 +0000",
+      "minecraft:witch": "2025-06-18 00:44:04 +0000",
       "minecraft:wither_skeleton": "2025-06-17 22:43:22 +0000",
       "minecraft:cave_spider": "2025-06-16 23:50:44 +0000",
       "minecraft:zombie": "2025-05-31 21:52:43 +0000"
@@ -3968,6 +3970,12 @@
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-06-18 00:29:37 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-06-18 00:44:04 +0000"
     },
     "done": true
   },
