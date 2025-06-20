@@ -3552,3 +3552,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20Jun2025 23:21:31.338] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_1
 [20Jun2025 23:21:31.348] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_0
 [20Jun2025 23:23:05.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nommsmry has made the advancement [Ice Bucket Challenge]
+[20Jun2025 23:24:29.992] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Jun2025 23:24:30.002] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Jun2025 23:29:29.996] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Jun2025 23:29:30.005] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
