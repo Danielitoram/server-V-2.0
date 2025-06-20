@@ -126,3 +126,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [20Jun2025 23:04:29.990] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [20Jun2025 23:04:30.006] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: dragonfight.json
 [20Jun2025 23:04:30.007] [Server thread/WARN] [ModernFix/]: Dedicated server took 45.312 seconds to load
+[20Jun2025 23:16:48.359] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nommsmry[/127.151.120.163:40533] logged in with entity id 601 at (207.52135887324846, 63.0, 1042.1667468617704)
+[20Jun2025 23:16:48.405] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player nommsmry
+[20Jun2025 23:16:48.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nommsmry joined the game
+[20Jun2025 23:17:00.732] [Server thread/INFO] [do_a_barrel_roll/]: Client of nommsmry accepted server config.
+[20Jun2025 23:23:05.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nommsmry has made the advancement [Ice Bucket Challenge]
