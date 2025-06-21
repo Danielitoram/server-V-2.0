@@ -4296,6 +4296,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-06-21 05:03:26 +0000",
       "minecraft:nether_wastes": "2025-06-21 00:33:29 +0000",
       "minecraft:basalt_deltas": "2025-06-21 04:51:02 +0000",
       "minecraft:warped_forest": "2025-06-21 04:58:39 +0000"
@@ -4644,6 +4645,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-06-21 05:01:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-06-21 04:57:53 +0000"
@@ -4734,6 +4741,12 @@
     },
     "done": true
   },
+  "legendary_monsters:defeat_lava_eater": {
+    "criteria": {
+      "ambusher": "2025-06-21 05:00:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2025-06-21 04:58:25 +0000"
@@ -4749,6 +4762,18 @@
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2025-06-21 04:58:25 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2025-06-21 05:04:44 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_warped_fungussus": {
+    "criteria": {
+      "fungussus": "2025-06-21 05:00:35 +0000"
     },
     "done": true
   },
@@ -4785,6 +4810,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-06-21 04:57:53 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/magma_cube": {
+    "criteria": {
+      "has_magma_cream": "2025-06-21 05:01:10 +0000"
     },
     "done": true
   },
