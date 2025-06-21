@@ -684,6 +684,7 @@
     "criteria": {
       "cooked_porkchop": "2025-06-21 01:58:12 +0000",
       "cooked_mutton": "2025-06-21 01:12:59 +0000",
+      "cooked_beef": "2025-06-21 02:25:26 +0000",
       "beef": "2025-06-17 22:42:49 +0000",
       "baked_potato": "2025-06-21 02:00:11 +0000",
       "porkchop": "2025-05-31 21:54:21 +0000",
@@ -694,6 +695,7 @@
       "rotten_flesh": "2025-05-31 21:52:54 +0000",
       "glow_berries": "2025-06-17 22:39:38 +0000",
       "golden_carrot": "2025-06-17 23:32:58 +0000",
+      "cooked_chicken": "2025-06-21 02:32:03 +0000",
       "cod": "2025-06-17 00:11:15 +0000",
       "carrot": "2025-05-31 22:21:54 +0000"
     },
@@ -4450,6 +4452,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-06-21 02:29:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-06-21 02:50:39 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/crafting_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2025-06-21 02:03:53 +0000"
@@ -4468,9 +4482,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-06-21 02:29:14 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_undead": {
+    "criteria": {
+      "coded_trigger": "2025-06-21 02:49:37 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/feeding_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2025-06-21 02:03:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-06-21 02:26:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-06-21 02:29:14 +0000"
     },
     "done": true
   },
@@ -4492,11 +4530,29 @@
     },
     "done": true
   },
+  "cataclysm:kill_remnant": {
+    "criteria": {
+      "ignis": "2025-06-21 02:49:37 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/pickup_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2025-06-21 02:03:53 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-06-21 02:29:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-06-21 02:26:15 +0000"
+    },
+    "done": false
   },
   "travelersbackpack:recipes/misc/furnace_upgrade": {
     "criteria": {
@@ -4513,6 +4569,12 @@
   "travelersbackpack:recipes/misc/magnet_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2025-06-21 02:03:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-06-21 02:50:39 +0000"
     },
     "done": true
   },
