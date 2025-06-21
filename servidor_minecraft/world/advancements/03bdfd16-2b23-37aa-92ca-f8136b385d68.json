@@ -4059,63 +4059,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/stone_brick_wall": {
+  "minecraft:story/form_obsidian": {
     "criteria": {
-      "has_stone_bricks": "2025-06-20 23:50:36 +0000"
+      "obsidian": "2025-06-20 23:23:05 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+  "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
-      "has_chicken": "2025-06-20 23:54:39 +0000"
+      "has_obsidian": "2025-06-20 23:23:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-06-20 23:23:40 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-06-20 23:25:42 +0000"
-    },
-    "done": true
-  },
-  "mekanism:basic_control_circuit": {
-    "criteria": {
-      "basic_control_circuit": "2025-06-21 00:35:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:nether_wastes": "2025-06-21 00:33:29 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/food/cooked_chicken": {
-    "criteria": {
-      "has_chicken": "2025-06-20 23:54:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/brown_dye": {
-    "criteria": {
-      "has_cocoa_beans": "2025-06-21 00:29:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
-    "criteria": {
-      "has_stone_bricks": "2025-06-20 23:50:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-06-20 23:50:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2025-06-21 00:33:27 +0000"
     },
     "done": true
   },
@@ -4131,33 +4095,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_brick_stairs": {
-    "criteria": {
-      "has_stone_bricks": "2025-06-20 23:50:36 +0000"
-    },
-    "done": true
-  },
-  "mekanism:infused_alloy": {
-    "criteria": {
-      "alloy_infused": "2025-06-21 00:35:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
-    "criteria": {
-      "has_tag": "2025-06-20 23:50:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_planks": "2025-06-20 23:25:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lightning_rod": {
-    "criteria": {
-      "has_copper_ingot": "2025-06-21 00:30:53 +0000"
     },
     "done": true
   },
@@ -4167,21 +4107,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cookie": {
-    "criteria": {
-      "has_cocoa": "2025-06-21 00:29:31 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2025-06-20 23:25:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-06-20 23:50:36 +0000"
     },
     "done": true
   },
@@ -4191,57 +4119,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/copper_block": {
+  "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
-      "has_copper_ingot": "2025-06-21 00:30:53 +0000"
+      "has_planks": "2025-06-20 23:25:42 +0000"
     },
     "done": true
   },
-  "simpleplanes:recipes/plane": {
+  "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
-      "in_fire": "2025-06-21 00:33:07 +0000"
+      "has_planks": "2025-06-20 23:25:42 +0000"
     },
     "done": true
   },
-  "minecraft:story/lava_bucket": {
+  "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
-      "lava_bucket": "2025-06-21 00:34:51 +0000"
+      "has_stone_bricks": "2025-06-20 23:50:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/brush": {
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
     "criteria": {
-      "has_copper_ingot": "2025-06-21 00:30:53 +0000"
+      "has_stone_bricks": "2025-06-20 23:50:36 +0000"
     },
     "done": true
   },
-  "mekanism:steel_casing": {
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
     "criteria": {
-      "steel_casing": "2025-06-21 00:42:44 +0000"
+      "has_stone_bricks": "2025-06-20 23:50:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-20 23:50:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-06-20 23:50:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-06-20 23:50:36 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-06-20 23:50:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2025-06-21 00:33:27 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/bone_crusher": {
-    "criteria": {
-      "coded_trigger": "2025-06-20 23:55:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken_from_smoking": {
-    "criteria": {
-      "has_chicken": "2025-06-20 23:54:39 +0000"
     },
     "done": true
   },
@@ -4257,27 +4185,27 @@
     },
     "done": true
   },
-  "minecraft:story/form_obsidian": {
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
-      "obsidian": "2025-06-20 23:23:05 +0000"
+      "has_chicken": "2025-06-20 23:54:39 +0000"
     },
     "done": true
   },
-  "mekanism:metallurgic_infuser": {
+  "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
-      "metallurgic_infuser": "2025-06-21 00:01:06 +0000"
+      "has_chicken": "2025-06-20 23:54:39 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_trapdoor": {
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
-      "has_planks": "2025-06-20 23:25:42 +0000"
+      "has_chicken": "2025-06-20 23:54:39 +0000"
     },
     "done": true
   },
-  "mekanism:steel_ingot": {
+  "tombstone:adventure/bone_crusher": {
     "criteria": {
-      "ingot_steel": "2025-06-21 00:41:57 +0000"
+      "coded_trigger": "2025-06-20 23:55:33 +0000"
     },
     "done": true
   },
@@ -4287,21 +4215,9 @@
     },
     "done": true
   },
-  "mekanismgenerators:heat_generator": {
+  "mekanism:metallurgic_infuser": {
     "criteria": {
-      "heat_generator": "2025-06-21 00:31:21 +0000"
-    },
-    "done": true
-  },
-  "mekanism:enricher": {
-    "criteria": {
-      "enrichment_chamber": "2025-06-21 00:43:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-06-20 23:25:42 +0000"
+      "metallurgic_infuser": "2025-06-21 00:01:06 +0000"
     },
     "done": true
   },
@@ -4311,15 +4227,105 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/enchanting_table": {
+  "minecraft:recipes/misc/brown_dye": {
     "criteria": {
-      "has_obsidian": "2025-06-20 23:23:05 +0000"
+      "has_cocoa_beans": "2025-06-21 00:29:31 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/nether_brick": {
+  "minecraft:recipes/food/cookie": {
     "criteria": {
-      "has_netherrack": "2025-06-20 23:23:40 +0000"
+      "has_cocoa": "2025-06-21 00:29:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-21 00:30:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-21 00:30:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-21 00:30:53 +0000"
+    },
+    "done": true
+  },
+  "mekanismgenerators:heat_generator": {
+    "criteria": {
+      "heat_generator": "2025-06-21 00:31:21 +0000"
+    },
+    "done": true
+  },
+  "simpleplanes:recipes/plane": {
+    "criteria": {
+      "in_fire": "2025-06-21 00:33:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-06-21 00:33:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-06-21 00:33:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-06-21 00:33:29 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-06-21 00:34:51 +0000"
+    },
+    "done": true
+  },
+  "mekanism:infused_alloy": {
+    "criteria": {
+      "alloy_infused": "2025-06-21 00:35:00 +0000"
+    },
+    "done": true
+  },
+  "mekanism:basic_control_circuit": {
+    "criteria": {
+      "basic_control_circuit": "2025-06-21 00:35:29 +0000"
+    },
+    "done": true
+  },
+  "mekanism:steel_ingot": {
+    "criteria": {
+      "ingot_steel": "2025-06-21 00:41:57 +0000"
+    },
+    "done": true
+  },
+  "mekanism:steel_casing": {
+    "criteria": {
+      "steel_casing": "2025-06-21 00:42:44 +0000"
+    },
+    "done": true
+  },
+  "mekanism:enricher": {
+    "criteria": {
+      "enrichment_chamber": "2025-06-21 00:43:13 +0000"
+    },
+    "done": true
+  },
+  "mekanism:infusing_efficiency": {
+    "criteria": {
+      "enriched_material": "2025-06-21 00:49:53 +0000"
     },
     "done": true
   },

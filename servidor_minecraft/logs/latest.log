@@ -16,3 +16,17 @@
 [21Jun2025 00:42:44.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nommsmry has made the advancement [The Perfect Foundation]
 [21Jun2025 00:43:13.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nommsmry has made the advancement [Getting More From Less]
 [21Jun2025 00:45:25.837] [Server thread/INFO] [do_a_barrel_roll/]: Client of nommsmry accepted server config.
+[21Jun2025 00:48:35.358] [Server thread/INFO] [do_a_barrel_roll/]: Client of nommsmry accepted server config.
+[21Jun2025 00:48:46.163] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/31433, l='ServerLevel[world]', x=120.45, y=69.00, z=1074.72] died, message: 'Librarian was slain by Zombie'
+[21Jun2025 00:49:53.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nommsmry has made the advancement [Infusing Efficiency]
+[21Jun2025 00:54:52.078] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/31498, l='ServerLevel[world]', x=324.29, y=73.29, z=982.22] died, message: 'Fletcher was poked to death by a sweet berry bush'
+[21Jun2025 00:55:55.816] [Server thread/INFO] [do_a_barrel_roll/]: Client of nommsmry accepted server config.
+[21Jun2025 00:56:53.611] [Server thread/INFO] [do_a_barrel_roll/]: Client of nommsmry accepted server config.
+[21Jun2025 00:58:12.872] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nommsmry lost connection: Timed out
+[21Jun2025 00:58:12.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nommsmry left the game
+[21Jun2025 00:58:55.536] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nommsmry[/127.151.120.163:35999] logged in with entity id 32932 at (207.7299665377627, 63.0, 1041.5416503774936)
+[21Jun2025 00:58:55.543] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player nommsmry
+[21Jun2025 00:58:55.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nommsmry joined the game
+[21Jun2025 00:58:57.691] [Server thread/INFO] [do_a_barrel_roll/]: Client of nommsmry accepted server config.
+[21Jun2025 01:01:23.225] [Server thread/INFO] [do_a_barrel_roll/]: Client of nommsmry accepted server config.
+[21Jun2025 01:04:48.193] [Server thread/INFO] [do_a_barrel_roll/]: Client of nommsmry accepted server config.
