@@ -2961,6 +2961,12 @@
     },
     "done": true
   },
+  "mekanism:factory": {
+    "criteria": {
+      "factory": "2025-06-21 03:01:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
     "criteria": {
       "has_smooth_sandstone": "2025-06-21 02:25:08 +0000"
@@ -3030,6 +3036,12 @@
   "securitycraft:recipes/transportation/dark_oak_security_sea_boat": {
     "criteria": {
       "has_keypad_chest": "2025-06-21 01:56:30 +0000"
+    },
+    "done": true
+  },
+  "mekanism:configurator": {
+    "criteria": {
+      "configurator": "2025-06-21 03:04:03 +0000"
     },
     "done": true
   },
@@ -3129,6 +3141,12 @@
     },
     "done": false
   },
+  "mekanism:metallurgic_infuser": {
+    "criteria": {
+      "metallurgic_infuser": "2025-06-21 03:01:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2025-06-21 02:27:45 +0000"
@@ -3150,6 +3168,12 @@
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2025-06-21 02:50:07 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strange_mount": {
+    "criteria": {
+      "has_skeleton_receptacle": "2025-06-21 02:54:57 +0000"
     },
     "done": true
   },

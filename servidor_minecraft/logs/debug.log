@@ -5575,3 +5575,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21Jun2025 02:54:32.895] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [21Jun2025 02:54:57.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielitoram has reached the goal [Strange Mount]
 [21Jun2025 02:57:35.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Successfully filled 1529 block(s)]
+[21Jun2025 02:58:56.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Successfully filled 637 block(s)]
+[21Jun2025 02:59:04.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Successfully filled 880 block(s)]
+[21Jun2025 02:59:20.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Successfully filled 882 block(s)]
+[21Jun2025 02:59:32.886] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2025 02:59:32.895] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jun2025 03:01:01.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielitoram has made the advancement [A Metallur-what?]
+[21Jun2025 03:01:18.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielitoram has reached the goal [The Factory Must Grow!]
+[21Jun2025 03:04:03.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielitoram has made the advancement [Configure Everything]
+[21Jun2025 03:04:32.884] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2025 03:04:32.892] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
