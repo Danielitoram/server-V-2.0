@@ -57,6 +57,9 @@
       "minecraft:river": "2025-05-31 21:41:57 +0000",
       "minecraft:dripstone_caves": "2025-05-31 22:06:07 +0000",
       "minecraft:forest": "2025-05-31 21:56:21 +0000",
+      "minecraft:desert": "2025-06-21 02:17:58 +0000",
+      "minecraft:windswept_forest": "2025-06-21 02:11:09 +0000",
+      "minecraft:windswept_savanna": "2025-06-21 02:14:54 +0000",
       "minecraft:flower_forest": "2025-05-31 21:47:05 +0000",
       "minecraft:meadow": "2025-05-31 21:47:10 +0000",
       "minecraft:plains": "2025-05-31 21:41:16 +0000"
@@ -687,6 +690,7 @@
       "apple": "2025-06-16 22:52:13 +0000",
       "potato": "2025-06-16 22:51:23 +0000",
       "bread": "2025-05-31 22:22:09 +0000",
+      "golden_apple": "2025-06-21 02:21:51 +0000",
       "rotten_flesh": "2025-05-31 21:52:54 +0000",
       "glow_berries": "2025-06-17 22:39:38 +0000",
       "golden_carrot": "2025-06-17 23:32:58 +0000",
@@ -4452,6 +4456,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/turtle_helmet": {
+    "criteria": {
+      "has_scute": "2025-06-21 02:18:49 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/tanks_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2025-06-21 02:03:53 +0000"
@@ -4461,6 +4471,12 @@
   "travelersbackpack:recipes/misc/feeding_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2025-06-21 02:03:53 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2025-06-21 02:13:14 +0000"
     },
     "done": true
   },
@@ -4497,6 +4513,12 @@
   "travelersbackpack:recipes/misc/magnet_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2025-06-21 02:03:53 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_cursed_pyramid": {
+    "criteria": {
+      "pyramid": "2025-06-21 02:18:54 +0000"
     },
     "done": true
   },
