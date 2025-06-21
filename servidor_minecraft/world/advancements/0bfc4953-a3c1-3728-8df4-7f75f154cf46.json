@@ -1051,8 +1051,10 @@
       "minecraft:skeleton": "2025-05-31 21:26:10 +0000",
       "minecraft:ravager": "2025-06-18 00:48:02 +0000",
       "minecraft:ghast": "2025-06-21 04:48:00 +0000",
+      "minecraft:magma_cube": "2025-06-21 04:55:32 +0000",
       "minecraft:spider": "2025-05-31 22:35:46 +0000",
       "minecraft:creeper": "2025-06-16 23:21:57 +0000",
+      "minecraft:zombified_piglin": "2025-06-21 04:57:22 +0000",
       "minecraft:witch": "2025-06-18 00:54:41 +0000",
       "minecraft:husk": "2025-05-31 21:20:40 +0000",
       "minecraft:cave_spider": "2025-06-16 23:49:03 +0000",
@@ -2977,7 +2979,9 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2025-06-21 04:47:38 +0000"
+      "minecraft:nether_wastes": "2025-06-21 04:47:38 +0000",
+      "minecraft:basalt_deltas": "2025-06-21 04:50:57 +0000",
+      "minecraft:warped_forest": "2025-06-21 04:58:40 +0000"
     },
     "done": false
   },
@@ -3041,6 +3045,12 @@
     },
     "done": true
   },
+  "legendary_monsters:locate_lava_eater": {
+    "criteria": {
+      "lava_eater": "2025-06-21 04:59:07 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_spruce_planks": {
     "criteria": {
       "has_log": "2025-06-21 01:49:56 +0000"
@@ -3077,9 +3087,21 @@
     },
     "done": true
   },
+  "legendary_monsters:defeat_withered_abomination": {
+    "criteria": {
+      "abomination": "2025-06-21 04:57:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/decorated_pot_simple": {
     "criteria": {
       "has_brick": "2025-06-21 02:50:07 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_lava_eater": {
+    "criteria": {
+      "ambusher": "2025-06-21 04:59:17 +0000"
     },
     "done": true
   },
@@ -3280,6 +3302,12 @@
       "upgrade_anchor": "2025-06-21 04:11:54 +0000"
     },
     "done": false
+  },
+  "legendary_monsters:locate_soul_fortress_remains": {
+    "criteria": {
+      "soul_fortress": "2025-06-21 04:53:04 +0000"
+    },
+    "done": true
   },
   "tombstone:adventure/strong_or_careful": {
     "criteria": {
