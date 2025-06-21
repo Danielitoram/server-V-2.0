@@ -663,8 +663,10 @@
       "minecraft:creeper": "2025-06-21 00:09:16 +0000",
       "minecraft:witch": "2025-06-18 00:44:04 +0000",
       "minecraft:wither_skeleton": "2025-06-17 22:43:22 +0000",
+      "minecraft:husk": "2025-06-21 04:06:06 +0000",
       "minecraft:cave_spider": "2025-06-16 23:50:44 +0000",
-      "minecraft:zombie": "2025-05-31 21:52:43 +0000"
+      "minecraft:zombie": "2025-05-31 21:52:43 +0000",
+      "minecraft:zombie_villager": "2025-06-21 04:15:57 +0000"
     },
     "done": false
   },
@@ -4585,9 +4587,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-06-21 04:06:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-06-21 04:06:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-06-21 03:47:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-06-21 04:06:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-06-21 04:06:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-06-21 04:06:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_sniffer_egg": {
+    "criteria": {
+      "obtain_sniffer_egg": "2025-06-21 04:02:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-06-21 04:06:41 +0000"
     },
     "done": true
   },

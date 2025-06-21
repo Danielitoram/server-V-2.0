@@ -2944,6 +2944,12 @@
     },
     "done": true
   },
+  "mekanism:digital_miner": {
+    "criteria": {
+      "digital_miner": "2025-06-21 04:05:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_chiseled_sandstone": "2025-06-21 02:25:08 +0000"
@@ -3001,6 +3007,12 @@
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-06-21 01:45:43 +0000"
+    },
+    "done": true
+  },
+  "paraglider:pray_to_the_goddess": {
+    "criteria": {
+      "bargain": "2025-06-21 03:58:20 +0000"
     },
     "done": true
   },
@@ -3088,6 +3100,18 @@
     },
     "done": true
   },
+  "mekanism:network_reader": {
+    "criteria": {
+      "network_reader": "2025-06-21 04:05:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-06-21 03:55:59 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_spruce_pressure_plate": {
     "criteria": {
       "has_block": "2025-06-21 01:59:46 +0000"
@@ -3118,6 +3142,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-06-21 04:17:42 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/bone_crusher": {
     "criteria": {
       "coded_trigger": "2025-06-21 01:32:32 +0000"
@@ -3142,6 +3172,12 @@
     },
     "done": false
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-06-21 04:17:42 +0000"
+    },
+    "done": true
+  },
   "mekanism:metallurgic_infuser": {
     "criteria": {
       "metallurgic_infuser": "2025-06-21 03:01:01 +0000"
@@ -3160,9 +3196,21 @@
     },
     "done": true
   },
+  "minecraft:husbandry/obtain_sniffer_egg": {
+    "criteria": {
+      "obtain_sniffer_egg": "2025-06-21 03:55:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_glazed_terracotta": {
     "criteria": {
       "has_black_terracotta": "2025-06-21 03:24:41 +0000"
+    },
+    "done": true
+  },
+  "mekanism:full_canteen": {
+    "criteria": {
+      "full_canteen": "2025-06-21 04:05:29 +0000"
     },
     "done": true
   },
@@ -3184,9 +3232,33 @@
     },
     "done": true
   },
+  "mekanism:dictionary": {
+    "criteria": {
+      "dictionary": "2025-06-21 04:05:43 +0000"
+    },
+    "done": true
+  },
+  "mekanism:seismic_vibrations": {
+    "criteria": {
+      "seismic_reader": "2025-06-21 04:05:52 +0000"
+    },
+    "done": false
+  },
+  "mekanism:stabilizing_chunks": {
+    "criteria": {
+      "upgrade_anchor": "2025-06-21 04:11:54 +0000"
+    },
+    "done": false
+  },
   "tombstone:adventure/strong_or_careful": {
     "criteria": {
       "coded_trigger": "2025-06-21 03:48:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-06-21 04:17:42 +0000"
     },
     "done": true
   },

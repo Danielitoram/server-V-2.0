@@ -628,3 +628,162 @@
 [21Jun2025 03:59:04.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielitoram> 19 corazones tengo
 [21Jun2025 03:59:06.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielitoram> 9 mas
 [21Jun2025 03:59:17.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> verdad
+[21Jun2025 03:59:23.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Creative Mode]
+[21Jun2025 03:59:26.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> tengo esta pocion
+[21Jun2025 03:59:30.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> del jefesito
+[21Jun2025 03:59:50.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> yara
+[21Jun2025 03:59:54.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Survival Mode]
+[21Jun2025 03:59:56.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielitoram> cual
+[21Jun2025 04:00:02.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> dontas
+[21Jun2025 04:00:05.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> para matarte
+[21Jun2025 04:00:20.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> invoca esas tormentas
+[21Jun2025 04:00:46.636] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[21Jun2025 04:00:46.636] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[21Jun2025 04:00:46.637] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[21Jun2025 04:00:46.637] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[21Jun2025 04:00:57.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielitoram> quita mucho
+[21Jun2025 04:00:59.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielitoram was killed by nommsmry using magic
+[21Jun2025 04:00:59.085] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Danielitoram with unique ID travelersbackpack.standard_21.06.2025-04.00.59.dat
+[21Jun2025 04:00:59.087] [Server thread/INFO] [tombstone/]: The player Danielitoram has successfully been saved
+[21Jun2025 04:01:00.562] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/38124, l='ServerLevel[world]', x=253.28, y=-0.07, z=979.79, removed=DISCARDED]
+[21Jun2025 04:01:00.693] [Server thread/INFO] [do_a_barrel_roll/]: Client of Danielitoram accepted server config.
+[21Jun2025 04:01:14.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> lo peor es que las armors son inutiles
+[21Jun2025 04:01:19.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> mira
+[21Jun2025 04:01:33.444] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[21Jun2025 04:01:33.445] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[21Jun2025 04:01:33.445] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[21Jun2025 04:01:33.445] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[21Jun2025 04:01:33.445] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[21Jun2025 04:01:33.445] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[21Jun2025 04:01:33.446] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[21Jun2025 04:01:33.446] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[21Jun2025 04:01:33.446] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[21Jun2025 04:01:33.446] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[21Jun2025 04:01:33.446] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[21Jun2025 04:01:33.446] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[21Jun2025 04:01:33.446] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[21Jun2025 04:01:33.446] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[21Jun2025 04:01:33.447] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[21Jun2025 04:01:33.447] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[21Jun2025 04:01:33.447] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[21Jun2025 04:01:33.447] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[21Jun2025 04:01:33.447] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[21Jun2025 04:01:33.447] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[21Jun2025 04:01:33.447] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[21Jun2025 04:01:33.447] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[21Jun2025 04:01:33.448] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[21Jun2025 04:01:33.448] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[21Jun2025 04:01:46.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Applied effect Curse of Desert to nommsmry]
+[21Jun2025 04:01:51.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> ya toy para hacerle trillizos a la dragona
+[21Jun2025 04:01:52.136] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[21Jun2025 04:01:52.136] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[21Jun2025 04:01:52.136] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[21Jun2025 04:01:52.136] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[21Jun2025 04:01:52.136] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[21Jun2025 04:01:52.136] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[21Jun2025 04:01:52.137] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[21Jun2025 04:01:52.137] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[21Jun2025 04:01:52.137] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[21Jun2025 04:01:52.137] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[21Jun2025 04:01:52.137] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[21Jun2025 04:01:52.137] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[21Jun2025 04:01:52.138] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[21Jun2025 04:01:52.138] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[21Jun2025 04:01:52.138] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[21Jun2025 04:01:52.138] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[21Jun2025 04:01:52.138] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[21Jun2025 04:01:52.138] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[21Jun2025 04:01:52.138] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[21Jun2025 04:01:52.138] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[21Jun2025 04:01:52.139] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[21Jun2025 04:01:52.139] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[21Jun2025 04:01:52.139] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[21Jun2025 04:01:52.139] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[21Jun2025 04:01:53.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielitoram was killed by nommsmry using magic
+[21Jun2025 04:01:53.127] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Danielitoram with unique ID travelersbackpack.standard_21.06.2025-04.01.53.dat
+[21Jun2025 04:01:53.129] [Server thread/INFO] [tombstone/]: The player Danielitoram has successfully been saved
+[21Jun2025 04:01:54.518] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/38124, l='ServerLevel[world]', x=253.28, y=-0.07, z=979.79, removed=DISCARDED]
+[21Jun2025 04:01:54.656] [Server thread/INFO] [do_a_barrel_roll/]: Client of Danielitoram accepted server config.
+[21Jun2025 04:02:01.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> mis controles
+[21Jun2025 04:02:12.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Removed every effect from nommsmry]
+[21Jun2025 04:02:20.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nommsmry has made the advancement [Smells Interesting]
+[21Jun2025 04:03:28.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielitoram> voy a hacerme un minero y cambio la energia a eolica
+[21Jun2025 04:03:37.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> YA
+[21Jun2025 04:05:07.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Creative Mode]
+[21Jun2025 04:05:11.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielitoram has reached the goal [Trapped Inside]
+[21Jun2025 04:05:29.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielitoram has reached the goal [Tasty Paste]
+[21Jun2025 04:06:14.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> aa
+[21Jun2025 04:09:03.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> oee
+[21Jun2025 04:09:06.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielitoram> q
+[21Jun2025 04:09:12.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> presiono k y voy al 00
+[21Jun2025 04:09:19.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> encima se me activan los shaders
+[21Jun2025 04:09:29.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> 30 fps
+[21Jun2025 04:09:34.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielitoram> 60
+[21Jun2025 04:09:37.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielitoram> que fue
+[21Jun2025 04:09:41.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielitoram> que hace la k
+[21Jun2025 04:09:44.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> nose
+[21Jun2025 04:09:46.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Spectator Mode]
+[21Jun2025 04:09:56.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> pero a mi se me activan los shaders y me manda para aca
+[21Jun2025 04:10:09.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Survival Mode]
+[21Jun2025 04:10:13.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielitoram> te manda a 00 literal
+[21Jun2025 04:10:17.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielitoram> 0 0 0
+[21Jun2025 04:10:20.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Teleported nommsmry to Danielitoram]
+[21Jun2025 04:10:22.789] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/38124, l='ServerLevel[world]', x=253.28, y=-0.07, z=979.79, removed=DISCARDED]
+[21Jun2025 04:10:39.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Creative Mode]
+[21Jun2025 04:10:43.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> fua que buenos los graficos
+[21Jun2025 04:10:54.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> como le subo la calidad a esto
+[21Jun2025 04:11:00.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> lo veo todo muy cuadrado
+[21Jun2025 04:11:41.719] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/102292, l='ServerLevel[world]', x=278.70, y=68.00, z=990.09] died, message: 'Nitwit was slain by Zombie'
+[21Jun2025 04:12:29.319] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/102279, l='ServerLevel[world]', x=283.49, y=69.00, z=985.53] died, message: 'Armorer was slain by Zombie'
+[21Jun2025 04:13:17.072] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/102289, l='ServerLevel[world]', x=308.48, y=64.84, z=973.72] died, message: 'Leatherworker was slain by Zombie Villager'
+[21Jun2025 04:13:36.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> koño
+[21Jun2025 04:13:42.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Successfully filled 178 block(s)]
+[21Jun2025 04:13:50.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> tp
+[21Jun2025 04:13:56.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Teleported nommsmry to Danielitoram]
+[21Jun2025 04:13:56.661] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/38124, l='ServerLevel[world]', x=253.28, y=-0.07, z=979.79, removed=DISCARDED]
+[21Jun2025 04:14:09.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Survival Mode]
+[21Jun2025 04:14:21.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Gave 60 [Ladder] to Danielitoram]
+[21Jun2025 04:15:28.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Creative Mode]
+[21Jun2025 04:15:32.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Survival Mode]
+[21Jun2025 04:16:21.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> la mierda
+[21Jun2025 04:16:33.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> tanto
+[21Jun2025 04:16:41.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielitoram> a si produce
+[21Jun2025 04:16:47.156] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[21Jun2025 04:16:47.157] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[21Jun2025 04:16:47.157] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[21Jun2025 04:16:47.157] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[21Jun2025 04:16:47.157] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[21Jun2025 04:16:47.157] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[21Jun2025 04:16:47.157] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[21Jun2025 04:16:47.158] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[21Jun2025 04:16:47.158] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[21Jun2025 04:16:47.158] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[21Jun2025 04:16:47.158] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[21Jun2025 04:16:47.158] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[21Jun2025 04:16:47.158] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[21Jun2025 04:16:47.158] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[21Jun2025 04:16:55.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielitoram> la activo
+[21Jun2025 04:16:57.821] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[21Jun2025 04:16:57.821] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[21Jun2025 04:16:57.821] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[21Jun2025 04:16:57.822] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[21Jun2025 04:16:57.822] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[21Jun2025 04:16:57.822] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[21Jun2025 04:16:57.822] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[21Jun2025 04:16:57.822] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[21Jun2025 04:16:57.822] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[21Jun2025 04:16:57.822] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[21Jun2025 04:16:57.823] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[21Jun2025 04:16:57.823] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[21Jun2025 04:17:04.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> aversh
+[21Jun2025 04:17:24.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielitoram> se va del primero hasta el ultimo
+[21Jun2025 04:17:29.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> sisi
+[21Jun2025 04:17:32.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> ya me di cuenta
+[21Jun2025 04:17:32.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielitoram> voy a hacer que mine obsidiana
+[21Jun2025 04:17:42.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielitoram has made the advancement [Ice Bucket Challenge]
+[21Jun2025 04:17:42.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Gave 1 [Obsidian] to Danielitoram]
+[21Jun2025 04:18:49.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> que paciencia
+[21Jun2025 04:18:57.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HOME RUN
+[21Jun2025 04:19:00.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielitoram> chatumare
+[21Jun2025 04:19:12.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> xdd
+[21Jun2025 04:19:27.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielitoram> 7k de items
