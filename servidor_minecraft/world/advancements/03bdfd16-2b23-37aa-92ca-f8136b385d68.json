@@ -1648,7 +1648,8 @@
   },
   "mekanismadditions:hurt_by_babies": {
     "criteria": {
-      "baby_skeleton": "2025-05-31 22:32:16 +0000"
+      "baby_skeleton": "2025-05-31 22:32:16 +0000",
+      "baby_creeper": "2025-06-21 00:17:06 +0000"
     },
     "done": false
   },
