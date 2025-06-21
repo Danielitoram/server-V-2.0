@@ -41,6 +41,7 @@
       "minecraft:cherry_grove": "2025-05-31 21:02:58 +0000",
       "minecraft:dark_forest": "2025-05-31 22:40:42 +0000",
       "minecraft:river": "2025-05-31 21:36:01 +0000",
+      "minecraft:dripstone_caves": "2025-06-21 01:26:16 +0000",
       "minecraft:forest": "2025-05-31 21:40:05 +0000",
       "minecraft:flower_forest": "2025-06-17 01:44:51 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-31 22:40:30 +0000",
@@ -2936,6 +2937,12 @@
   "tombstone:adventure/village_defender": {
     "criteria": {
       "coded_trigger": "2025-06-18 01:04:48 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-06-21 01:32:32 +0000"
     },
     "done": true
   },
