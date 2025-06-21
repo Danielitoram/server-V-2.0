@@ -1,1 +1,12 @@
 [21Jun2025 00:01:06.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nommsmry has made the advancement [A Metallur-what?]
+[21Jun2025 00:31:21.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nommsmry has made the advancement [Your First Generator]
+[21Jun2025 00:32:13.119] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "nommsmry" tried to enter a passcode into "Passcode-protected Chest" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=211, y=63, z=1043}] too quickly!
+[21Jun2025 00:33:27.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nommsmry has made the advancement [We Need to Go Deeper]
+[21Jun2025 00:33:28.721] [Server thread/INFO] [do_a_barrel_roll/]: Client of nommsmry accepted server config.
+[21Jun2025 00:33:28.770] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2912ms or 58 ticks behind
+[21Jun2025 00:33:30.874] [Worker-Main-19/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/29112, l='ServerLevel[world]', x=119.00, y=31.00, z=121.00] as it would cause deadlock
+[21Jun2025 00:33:42.644] [Worker-Main-17/INFO] [ModernFix/]: Instantiating Mojang DFU
+[21Jun2025 00:33:44.525] [Worker-Main-102/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/29299, l='ServerLevel[world]', x=182.00, y=31.00, z=332.00] as it would cause deadlock
+[21Jun2025 00:33:49.148] [Worker-Main-17/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/29320, l='ServerLevel[world]', x=-182.00, y=31.00, z=303.00] as it would cause deadlock
+[21Jun2025 00:34:51.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nommsmry has made the advancement [Hot Stuff]
+[21Jun2025 00:35:00.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nommsmry has made the advancement [The Alloy That Started it All]
