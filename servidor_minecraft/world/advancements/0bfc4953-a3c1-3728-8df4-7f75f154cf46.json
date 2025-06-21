@@ -1033,6 +1033,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "sweet_berries": "2025-06-18 00:38:50 +0000",
+      "pumpkin_pie": "2025-06-21 03:48:39 +0000",
       "bread": "2025-05-31 21:17:16 +0000",
       "golden_apple": "2025-06-21 01:40:09 +0000"
     },
@@ -3180,6 +3181,12 @@
   "tombstone:adventure/strange_mount": {
     "criteria": {
       "has_skeleton_receptacle": "2025-06-21 02:54:57 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-06-21 03:48:42 +0000"
     },
     "done": true
   },
