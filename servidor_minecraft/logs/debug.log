@@ -3622,3 +3622,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [21Jun2025 00:34:32.895] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [21Jun2025 00:34:51.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nommsmry has made the advancement [Hot Stuff]
 [21Jun2025 00:35:00.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nommsmry has made the advancement [The Alloy That Started it All]
+[21Jun2025 00:35:29.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nommsmry has made the advancement [Tricking a Rock Into Thinking]
+[21Jun2025 00:38:23.802] [Server thread/INFO] [do_a_barrel_roll/]: Client of nommsmry accepted server config.
+[21Jun2025 00:39:32.890] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2025 00:39:32.900] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jun2025 00:41:57.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nommsmry has made the advancement [Industrial Revolution]
+[21Jun2025 00:42:44.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nommsmry has made the advancement [The Perfect Foundation]
+[21Jun2025 00:43:13.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nommsmry has made the advancement [Getting More From Less]
+[21Jun2025 00:44:32.887] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2025 00:44:32.897] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jun2025 00:45:25.837] [Server thread/INFO] [do_a_barrel_roll/]: Client of nommsmry accepted server config.
