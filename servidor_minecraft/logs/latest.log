@@ -179,3 +179,59 @@
 [21Jun2025 01:44:18.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Applied enchantment Efficiency V to Danielitoram's item]
 [21Jun2025 01:46:32.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> una vainasa hacer esto
 [21Jun2025 01:46:41.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielitoram> si
+[21Jun2025 01:47:07.876] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nommsmry lost connection: Timed out
+[21Jun2025 01:47:07.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nommsmry left the game
+[21Jun2025 01:47:23.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Creative Mode]
+[21Jun2025 01:48:58.828] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nommsmry[/127.30.65.247:40359] logged in with entity id 56658 at (-6.179310244987242, 34.0, 105.85363894161645)
+[21Jun2025 01:48:58.833] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player nommsmry
+[21Jun2025 01:48:58.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nommsmry joined the game
+[21Jun2025 01:49:05.380] [Server thread/INFO] [do_a_barrel_roll/]: Client of nommsmry accepted server config.
+[21Jun2025 01:49:15.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> recien
+[21Jun2025 01:49:19.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielitoram> 147.185.221.28:27472
+[21Jun2025 01:49:19.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> tuve que reiniciar
+[21Jun2025 01:49:27.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielitoram> ip directa igual
+[21Jun2025 01:49:31.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> ya toy piola imbecilo
+[21Jun2025 01:50:02.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> en tiktok tan mintiendo vendiendo una 7080 ti
+[21Jun2025 01:50:07.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> y la gente le cree
+[21Jun2025 01:50:14.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielitoram> xdd
+[21Jun2025 01:50:59.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> oee
+[21Jun2025 01:51:04.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielitoram> que
+[21Jun2025 01:51:07.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Survival Mode]
+[21Jun2025 01:52:35.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Creative Mode]
+[21Jun2025 01:52:38.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Survival Mode]
+[21Jun2025 01:53:18.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> casi meyo
+[21Jun2025 01:53:38.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielitoram> toy que hago mi casa
+[21Jun2025 01:54:06.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> ya
+[21Jun2025 01:54:11.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielitoram> bien bien feo
+[21Jun2025 01:54:11.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> falta casco y botas
+[21Jun2025 01:54:45.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Creative Mode]
+[21Jun2025 01:54:48.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Survival Mode]
+[21Jun2025 01:55:24.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielitoram> me voy a la mina despues de contruir mi casa
+[21Jun2025 01:55:28.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Creative Mode]
+[21Jun2025 01:55:44.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Survival Mode]
+[21Jun2025 01:56:08.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> listoka
+[21Jun2025 01:56:11.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> full obs
+[21Jun2025 01:56:14.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Creative Mode]
+[21Jun2025 01:56:41.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Survival Mode]
+[21Jun2025 01:57:12.569] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/38124, l='ServerLevel[world]', x=253.28, y=-0.07, z=979.79, removed=DISCARDED]
+[21Jun2025 01:57:12.807] [Server thread/INFO] [do_a_barrel_roll/]: Client of nommsmry accepted server config.
+[21Jun2025 01:57:21.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> poraf
+[21Jun2025 01:57:33.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielitoram> q
+[21Jun2025 01:57:33.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Creative Mode]
+[21Jun2025 01:58:01.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> pl proximo server no pongas mekanism
+[21Jun2025 01:58:10.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Survival Mode]
+[21Jun2025 01:58:13.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielitoram> es bacan
+[21Jun2025 01:59:31.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> donde estas haciendo tu mansion
+[21Jun2025 01:59:42.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielitoram> cerca
+[21Jun2025 02:00:00.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielitoram> al costado de la waystone
+[21Jun2025 02:00:22.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Gave 1 [Spruce Sign] to Danielitoram]
+[21Jun2025 02:00:49.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> no hay oe
+[21Jun2025 02:00:53.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Teleported nommsmry to Danielitoram]
+[21Jun2025 02:01:30.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Danielitoram was slain by nommsmry
+[21Jun2025 02:01:30.130] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Danielitoram with unique ID travelersbackpack.standard_21.06.2025-02.01.30.dat
+[21Jun2025 02:01:30.131] [Server thread/INFO] [tombstone/]: The player Danielitoram has successfully been saved
+[21Jun2025 02:01:31.656] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/38124, l='ServerLevel[world]', x=253.28, y=-0.07, z=979.79, removed=DISCARDED]
+[21Jun2025 02:01:31.785] [Server thread/INFO] [do_a_barrel_roll/]: Client of Danielitoram accepted server config.
+[21Jun2025 02:06:23.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nommsmry> meme
+[21Jun2025 02:06:28.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Danielitoram> ya
+[21Jun2025 02:07:06.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Danielitoram: Set own game mode to Creative Mode]
