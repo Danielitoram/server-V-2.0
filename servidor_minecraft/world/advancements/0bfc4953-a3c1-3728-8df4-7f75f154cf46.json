@@ -3070,6 +3070,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2025-06-21 05:13:32 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/transportation/dark_oak_security_sea_boat": {
     "criteria": {
       "has_keypad_chest": "2025-06-21 01:56:30 +0000"
@@ -3256,6 +3262,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2025-06-21 05:13:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_glazed_terracotta": {
     "criteria": {
       "has_black_terracotta": "2025-06-21 03:24:41 +0000"
@@ -3289,6 +3301,12 @@
   "mekanism:dictionary": {
     "criteria": {
       "dictionary": "2025-06-21 04:05:43 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_monstrosity": {
+    "criteria": {
+      "netheritemonstrosity": "2025-06-21 05:13:18 +0000"
     },
     "done": true
   },
