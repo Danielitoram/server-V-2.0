@@ -1050,6 +1050,7 @@
       "minecraft:pillager": "2025-06-18 00:37:52 +0000",
       "minecraft:skeleton": "2025-05-31 21:26:10 +0000",
       "minecraft:ravager": "2025-06-18 00:48:02 +0000",
+      "minecraft:ghast": "2025-06-21 04:48:00 +0000",
       "minecraft:spider": "2025-05-31 22:35:46 +0000",
       "minecraft:creeper": "2025-06-16 23:21:57 +0000",
       "minecraft:witch": "2025-06-18 00:54:41 +0000",
@@ -2974,6 +2975,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-06-21 04:47:38 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
     "criteria": {
       "has_smooth_sandstone": "2025-06-21 02:25:08 +0000"
@@ -2995,6 +3002,12 @@
   "securitycraft:recipes/transportation/spruce_security_sea_boat": {
     "criteria": {
       "has_keypad_chest": "2025-06-21 01:56:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-06-21 04:47:38 +0000"
     },
     "done": true
   },
@@ -3130,6 +3143,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-06-21 04:47:38 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/transportation/cherry_security_sea_boat": {
     "criteria": {
       "has_keypad_chest": "2025-06-21 01:56:30 +0000"
@@ -3181,6 +3200,12 @@
   "mekanism:metallurgic_infuser": {
     "criteria": {
       "metallurgic_infuser": "2025-06-21 03:01:01 +0000"
+    },
+    "done": true
+  },
+  "mekanismtools:better_than_netherite": {
+    "criteria": {
+      "armor": "2025-06-21 04:41:48 +0000"
     },
     "done": true
   },
@@ -3243,6 +3268,12 @@
       "seismic_reader": "2025-06-21 04:05:52 +0000"
     },
     "done": false
+  },
+  "mekanism:infusing_efficiency": {
+    "criteria": {
+      "enriched_material": "2025-06-21 04:33:23 +0000"
+    },
+    "done": true
   },
   "mekanism:stabilizing_chunks": {
     "criteria": {
