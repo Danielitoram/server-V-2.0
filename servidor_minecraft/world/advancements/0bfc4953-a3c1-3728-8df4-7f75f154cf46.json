@@ -3159,6 +3159,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_glazed_terracotta": {
+    "criteria": {
+      "has_black_terracotta": "2025-06-21 03:24:41 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_spruce_slab": {
     "criteria": {
       "has_block": "2025-06-21 01:59:46 +0000"
